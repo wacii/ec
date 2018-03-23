@@ -9,7 +9,7 @@ title: The Dream Spheres
 wordpress_id: 2308
 ---
 
-![Dream Spheres](http://www.elainecunningham.com/wp-content/uploads/2012/12/Dream-Spheres-182x300.jpg)This is the first novel that was actually written for the Songs & Swords series. It's also the last published novel in the series, though I'm certain that Arilyn and Danilo's adventures continue offstage.
+![Dream Spheres]({{ "/assets/Dream-Spheres-182x300.jpg" | absolute_url }})This is the first novel that was actually written for the Songs & Swords series. It's also the last published novel in the series, though I'm certain that Arilyn and Danilo's adventures continue offstage.
 
 In this tale, they learn of a dangerous new trend in the city of Waterdeep, and the price people are willing to pay to live a fleeting, borrowed dream.
 

@@ -12,7 +12,7 @@ categories:
 - Writing about writing
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/05/Dragon-Dictation.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/05/Dragon-Dictation.jpg)Today I tried something new: Dictating scenes from my work-in-progress into [**Dragon Dictation**](https://www.nuance.com/mobile/mobile-applications/dragon-dictation.html), a free iPhone app,  while walking on the bike path.
+![]({{ "/assets/Dragon-Dictation.jpg" | absolute_url }})Today I tried something new: Dictating scenes from my work-in-progress into [**Dragon Dictation**](https://www.nuance.com/mobile/mobile-applications/dragon-dictation.html), a free iPhone app,  while walking on the bike path.
 
 This morning I walked 4 miles in a little over an hour, and when I came home and downloaded the transcriptions, I was stunned by the total: **2813 words.**
 

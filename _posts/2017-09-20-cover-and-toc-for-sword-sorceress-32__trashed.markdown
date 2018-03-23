@@ -16,7 +16,7 @@ categories:
 ###### **Coming November 2!**
 
 
-![](http://www.elainecunningham.com/wp-content/uploads/2017/09/ss32.jpg)
+![]({{ "/assets/ss32.jpg" | absolute_url }})
 
 
 Eighteen tales of magic and mayhem, in plenty of time for the holidays. If you really want to run with the Formidable Women theme, you could pair this with the **_Hath No Fury_** anthology that's coming out the first of December.

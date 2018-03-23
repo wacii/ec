@@ -13,7 +13,7 @@ tags:
 - whistling caves
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/08/mysteriouscave.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/08/mysteriouscave.jpg)The island chain of Sevrin has seven main islands and dozens of tiny islands, most of them uninhabited.  The Whistling Caves are located along the coast of Karivala, a small, mountainous island located on the northwestern part of the archipelago.
+![]({{ "/assets/mysteriouscave.jpg" | absolute_url }})The island chain of Sevrin has seven main islands and dozens of tiny islands, most of them uninhabited.  The Whistling Caves are located along the coast of Karivala, a small, mountainous island located on the northwestern part of the archipelago.
 
 Strong, steady sea winds blow through the caves, producing an eerie sound that varies slightly with the shifting weather patterns.  During the approach of extreme weather, a "storm whistle" can be heard as far away as Stormwatch Island, the most southern of the seven main islands.
 

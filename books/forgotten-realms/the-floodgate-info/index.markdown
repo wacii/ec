@@ -11,7 +11,7 @@ wordpress_id: 2354
 
 **Book 2 of the Counselors & Kings trilogy.**
 
-![Floodgate](http://www.elainecunningham.com/wp-content/uploads/2012/12/Floodgate.jpg)The battle of Akhlaur's Swamp is over, and its heroes part ways. One becomes a wizard's apprentice and tries to unravel her mysterious lineage. Another hero returns to the service of his queen, only to find that all is not as it was.
+![Floodgate]({{ "/assets/Floodgate.jpg" | absolute_url }})The battle of Akhlaur's Swamp is over, and its heroes part ways. One becomes a wizard's apprentice and tries to unravel her mysterious lineage. Another hero returns to the service of his queen, only to find that all is not as it was.
 
 Hidden from them both, the Magehound broods. She cannot forgive those who drove her from power, and she will stop at nothing to be avenged.  Her bitterness ensures that Akhlaur's Swamp was only the beginning for them all.
 

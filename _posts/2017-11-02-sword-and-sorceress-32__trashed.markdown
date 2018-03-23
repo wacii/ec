@@ -13,7 +13,7 @@ categories:
 - Short Fiction
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/11/Sword-and-Sorceress-32-200x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/11/Sword-and-Sorceress-32.jpg)The latest anthology in the long-running _**Sword and Sorceress**_ series is out today. I am very happy to be a part of this one.
+![]({{ "/assets/Sword-and-Sorceress-32-200x300.jpg" | absolute_url }})The latest anthology in the long-running _**Sword and Sorceress**_ series is out today. I am very happy to be a part of this one.
 
 My story, **"Royal Daughters,"** is a historical fantasy tale set in the tumultuous border country of Scotland during the infancy of Mary Queen of Scots. It's a standalone story, but it also gives a glimpse into the setting of my novel-in-progress.  The story takes place about twenty years before the events of the novel.
 

@@ -16,7 +16,7 @@ tags:
 - Voltin's Daughter
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/08/comet.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/08/comet.jpg)Nine generations of sky-gazers have been recording their observations in the star journals of the [Kronhus observatory](http://www.elainecunningham.com/2011/06/23/science-magic-kronhus-observatory/).  They're presently anticipating the return of the Voltin comet, which sails across the northern sky every 83 to 84 years.
+![]({{ "/assets/comet.jpg" | absolute_url }})Nine generations of sky-gazers have been recording their observations in the star journals of the [Kronhus observatory](http://www.elainecunningham.com/2011/06/23/science-magic-kronhus-observatory/).  They're presently anticipating the return of the Voltin comet, which sails across the northern sky every 83 to 84 years.
 
 At the direction of the Council of Adepts, astronomers have been spreading word of the coming comet, hoping to forestall talk of omens and prophecy and magic.  They learned, to their surprise and dismay, that storyspinners were already telling tales.
 

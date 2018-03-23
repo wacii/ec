@@ -9,7 +9,7 @@ title: 'SEVRIN LORE:  The dryad Minue'
 wordpress_id: 1630
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2012/02/Dryad-Schroeder.jpg)](http://www.elainecunningham.com/wp-content/uploads/2012/02/Dryad-Schroeder.jpg)Elves belong to the natural world, and their ties to the land, the stars, and the seasons are deep and profound. Fairies belong to the fey realms, a strange and alien place on another plane of existence. But there are portals between the worlds, and beings who have a place in both. One of these creatures is Minue, a dryad who makes her home in the deep forests surrounding Starsingers grove.
+![]({{ "/assets/Dryad-Schroeder.jpg" | absolute_url }})Elves belong to the natural world, and their ties to the land, the stars, and the seasons are deep and profound. Fairies belong to the fey realms, a strange and alien place on another plane of existence. But there are portals between the worlds, and beings who have a place in both. One of these creatures is Minue, a dryad who makes her home in the deep forests surrounding Starsingers grove.
 
 Most dryads are associated with a single tree, but Minue can move at will among many trees in the elfin forest, as well as to their counterparts in Faerie. On rare occasions she will take a mortal with her--either a human male who has captured her fancy, or a beleaguered elf in desperate need of refuge. Most elves can point to one or two trees that are part of Minue's domain, but no elf knows them all.
 

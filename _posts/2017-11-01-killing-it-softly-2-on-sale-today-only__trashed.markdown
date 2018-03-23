@@ -13,7 +13,7 @@ categories:
 - Short Fiction
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/11/Killing-It-Softly-2-200x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/11/Killing-It-Softly-2.jpg)This reprint anthology includes 38 dark fiction tales, all told by women writers. It's over 185,000 words, and in printed form it's 600 pages.
+![]({{ "/assets/Killing-It-Softly-2-200x300.jpg" | absolute_url }})This reprint anthology includes 38 dark fiction tales, all told by women writers. It's over 185,000 words, and in printed form it's 600 pages.
 
 My story, "A Great and Terrible Hunger," first appeared in the Chaosium anthology _Madness on the Orient Express_, edited by James Lowder.
 

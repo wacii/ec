@@ -12,7 +12,7 @@ categories:
 - Writing about writing
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/06/Hath-No-Fury.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/06/Hath-No-Fury.jpg)This anthology is coming together and is scheduled for an August release, but that's not the subject of this post. It's about a moment of pure joy that reminded me why I read and tell stories.
+![]({{ "/assets/Hath-No-Fury.jpg" | absolute_url }})This anthology is coming together and is scheduled for an August release, but that's not the subject of this post. It's about a moment of pure joy that reminded me why I read and tell stories.
 
 **_Hath No Fury_** was funded through a Kickstarter campaign. The editors encouraged the authors to offer rewards for higher levels of patronage, including Tuckerization, which allows a supporter to name a character after himself  or someone he knows. I've never encountered this practice before, and I had a hard time envisioning why anyone would plunk down $150 to name a character, but hey--why not. It's important to be a team player. To my astonishment, someone bought the Tuckerization. When I learned who it was for, the motivation made perfect sense. The parents of an avid reader, a "dragon crazy" girl who just turned 13, are giving her a fictitious namesake.
 

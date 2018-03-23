@@ -9,7 +9,7 @@ title: Bio
 wordpress_id: 32
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/05/Headshot-1-1-277x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/05/Headshot-1-1.jpg)Thanks for stopping by my website, and for taking time to read my Bio page. Instead of diving right into the usual Author Bio stuff, I'd like to talk a little about four concepts that are important to me, things that shape and inform the stories I write.
+![]({{ "/assets/Headshot-1-1-277x300.jpg" | absolute_url }})Thanks for stopping by my website, and for taking time to read my Bio page. Instead of diving right into the usual Author Bio stuff, I'd like to talk a little about four concepts that are important to me, things that shape and inform the stories I write.
 
 
 

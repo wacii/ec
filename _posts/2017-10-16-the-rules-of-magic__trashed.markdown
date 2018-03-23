@@ -14,7 +14,7 @@ categories:
 - Writing process
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/10/The-Rules-of-Magic.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/10/The-Rules-of-Magic.jpg)This was a filling-the-well sort of weekend. Friday evening at the RI Philharmonic, listening to my favorite Mozart piano concerto and the Saint-Saëns organ symphony. Saturday at the RI Festival of Children's Books during the day and playing games (Roll for the Galaxy, Cacao, and The Dresden Files cooperative card game) at [**Rivendell Books and Games**](http://rivendellbooksandgames.com) in the evening. Sunday was for walking, our weekly everyone-in-the-kitchen family lunch, and tending to necessary weekly routines. 
+![]({{ "/assets/The-Rules-of-Magic.jpg" | absolute_url }})This was a filling-the-well sort of weekend. Friday evening at the RI Philharmonic, listening to my favorite Mozart piano concerto and the Saint-Saëns organ symphony. Saturday at the RI Festival of Children's Books during the day and playing games (Roll for the Galaxy, Cacao, and The Dresden Files cooperative card game) at [**Rivendell Books and Games**](http://rivendellbooksandgames.com) in the evening. Sunday was for walking, our weekly everyone-in-the-kitchen family lunch, and tending to necessary weekly routines. 
 
 
 

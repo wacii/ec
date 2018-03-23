@@ -22,6 +22,6 @@ In addition to its use in gunpowder, saltpeter has several medicinal and culinar
 
 The best charcoal for gunpowder comes from willow, alder, blackthorn, and pine.  All of these trees grow on Sevrin's islands.
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/06/sulfur.gif)](http://www.elainecunningham.com/wp-content/uploads/2011/06/sulfur.gif)Sulfur, a non-metallic crystal abundant in nature, is one of the three "heavenly substances" and widely used by alchemists. Sometimes called brimstone, it is regarded as an essential element of Life and a symbol of man's search for knowledge.  In its natural form, it's a pale yellow crystal.
+![]({{ "/assets/sulfur.gif" | absolute_url }})Sulfur, a non-metallic crystal abundant in nature, is one of the three "heavenly substances" and widely used by alchemists. Sometimes called brimstone, it is regarded as an essential element of Life and a symbol of man's search for knowledge.  In its natural form, it's a pale yellow crystal.
 
 Proportions for gunpowder are approximately 75 parts saltpeter, 15 parts finely ground charcoal, and 10 parts sulfur.

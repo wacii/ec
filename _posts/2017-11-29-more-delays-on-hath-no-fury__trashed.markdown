@@ -12,6 +12,6 @@ categories:
 - Short Fiction
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/06/Hath-No-Fury-197x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/06/Hath-No-Fury.jpg)The December 1 publication date for this anthology has been pushed back.  No word from the publisher just yet, but according to Amazon.com, the new drop date is February 1. I'll post updated information as news is passed along.
+![]({{ "/assets/Hath-No-Fury-197x300.jpg" | absolute_url }})The December 1 publication date for this anthology has been pushed back.  No word from the publisher just yet, but according to Amazon.com, the new drop date is February 1. I'll post updated information as news is passed along.
 
 

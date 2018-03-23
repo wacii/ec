@@ -12,7 +12,7 @@ categories:
 - Writing about writing
 ---
 
-#### **January in review:![](http://www.elainecunningham.com/wp-content/uploads/2017/01/Victorian-writer.gif)**
+#### **January in review:![]({{ "/assets/Victorian-writer.gif" | absolute_url }})**
 ``
 
 

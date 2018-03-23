@@ -14,4 +14,4 @@ categories:
 ---
 
 ...because October is shaping up to be a ridiculously busy month.
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/10/Halloween-Haiku-1024x683.jpeg)](http://www.elainecunningham.com/wp-content/uploads/2017/10/Halloween-Haiku.jpeg)
+![]({{ "/assets/Halloween-Haiku-1024x683.jpeg" | absolute_url }})

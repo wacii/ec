@@ -9,7 +9,7 @@ title: 'SEVRIN LORE: The role of storytelling'
 wordpress_id: 1116
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/10/Vishni-crop.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/10/Vishni-crop.jpg)Why are exiled fairies sentenced to collect interesting tales from the mortal realm?
+![]({{ "/assets/Vishni-crop.jpg" | absolute_url }})Why are exiled fairies sentenced to collect interesting tales from the mortal realm?
 
 There are two reasons.
 

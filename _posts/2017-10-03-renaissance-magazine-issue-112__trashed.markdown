@@ -14,7 +14,7 @@ categories:
 - Work in progress
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/10/RenMag-Issue-112-cover-234x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/10/RenMag-Issue-112-cover.jpg)The latest issue of [_**Renaissance Magazine**_](http://www.renaissancemagazine.com) is out.  There's lots of castle lore, a comprehensive listing of Renaissance Fairs, ads for all sorts of intriguing stuff that's hard to justify purchasing because you (mostly) live in the 21st century, and the **Tomes of Lore** column. In the latter is my review of Allison Weir's latest historical novel:  _Anne Boleyn: A King's Obsession_.
+![]({{ "/assets/RenMag-Issue-112-cover-234x300.jpg" | absolute_url }})The latest issue of [_**Renaissance Magazine**_](http://www.renaissancemagazine.com) is out.  There's lots of castle lore, a comprehensive listing of Renaissance Fairs, ads for all sorts of intriguing stuff that's hard to justify purchasing because you (mostly) live in the 21st century, and the **Tomes of Lore** column. In the latter is my review of Allison Weir's latest historical novel:  _Anne Boleyn: A King's Obsession_.
 
 I've been writing articles and reviews for this periodical for several years now. It's a fun publication that appeals to RenFaire enthusiasts, as well as people who enjoy popular history and historical novels, games, and music.  And since I'm spending a great deal of time in the Renaissance these days, I have several more reviews in the pipeline, most of them for recently released histories.
 

@@ -9,7 +9,7 @@ title: EverQuest
 wordpress_id: 2513
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2013/02/The-Blood-Red-Harp-194x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2013/02/The-Blood-Red-Harp.jpg)Several years ago, fantasy author R.A. Salvatore, an avid online gamer, got the ball rolling for a series of novels set in the word of EverQuest.  The series was short-lived: **_The Blood Red Harp_ **was the fourth and final novel.
+![]({{ "/assets/The-Blood-Red-Harp-194x300.jpg" | absolute_url }})Several years ago, fantasy author R.A. Salvatore, an avid online gamer, got the ball rolling for a series of novels set in the word of EverQuest.  The series was short-lived: **_The Blood Red Harp_ **was the fourth and final novel.
 
 
 

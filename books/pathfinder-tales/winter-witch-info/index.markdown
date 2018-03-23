@@ -9,7 +9,7 @@ title: Winter Witch
 wordpress_id: 2224
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2013/01/Winter-Witch-188x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2013/01/Winter-Witch.jpg)Snowbound Irrisen is home to a race of witches descended from the mysterious Baba Yaga. They do as they please, take what and whom they want--including  a magically-gifted young girl from a neighboring land. No one is powerful enough to challenge them.
+![]({{ "/assets/Winter-Witch-188x300.jpg" | absolute_url }})Snowbound Irrisen is home to a race of witches descended from the mysterious Baba Yaga. They do as they please, take what and whom they want--including  a magically-gifted young girl from a neighboring land. No one is powerful enough to challenge them.
 
 There is, however, one person _stubborn_ enough.
 

@@ -15,6 +15,6 @@ categories:
 
 Year three of this event in northern Massachusetts, established and run by author Christopher Golden. It will be my first year attending. I won't be one of the participating authors, but I'm looking forward to meeting other New England writers!
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/10/Halloween-Book-Festival.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/10/Halloween-Book-Festival.jpg)
+![]({{ "/assets/Halloween-Book-Festival.jpg" | absolute_url }})
 
 

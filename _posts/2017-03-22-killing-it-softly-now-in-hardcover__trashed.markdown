@@ -13,7 +13,7 @@ categories:
 - Short Fiction
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/03/Killing-It-Softly-hardcover-188x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/03/Killing-It-Softly-hardcover.jpg)A book that's considered worthy of hardcover treatment usually makes its debut in that format. The horror anthology **_Killing It Softly_**  is an exception. It has been out for three months in digital and paperback format, and recently became available in hardcover with new cover art.
+![]({{ "/assets/Killing-It-Softly-hardcover-188x300.jpg" | absolute_url }})A book that's considered worthy of hardcover treatment usually makes its debut in that format. The horror anthology **_Killing It Softly_**  is an exception. It has been out for three months in digital and paperback format, and recently became available in hardcover with new cover art.
 
 This is a collection of dark fiction by women writers, and apparently we're going at this publishing thing backwards and in high heels.
 

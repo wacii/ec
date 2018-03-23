@@ -11,7 +11,7 @@ tags:
 - cats
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/10/wc100-300x211.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/10/wc100.jpg)Twenty years ago, the people of Sevrin greeted the formation of the Council of Adepts with enthusiasm and accepted the changes this new regime proposed.  One rare but notable exception was the Cat Tail Crusade.
+![]({{ "/assets/wc100-300x211.jpg" | absolute_url }})Twenty years ago, the people of Sevrin greeted the formation of the Council of Adepts with enthusiasm and accepted the changes this new regime proposed.  One rare but notable exception was the Cat Tail Crusade.
 
 No one knows how cats first came to the islands of Sevrin, but sages agree they predated human settlement.  Sevrin's cats are uncanny creatures, and they possess an  inscrutable culture that falls uncomfortably close to human notions of magic and ritual.  Whether ferril or domestic, cats gather under the full moon and again at moondark, "singing" in eerie unison before slinking off into the shadows.
 

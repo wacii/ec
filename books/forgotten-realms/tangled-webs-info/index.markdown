@@ -9,7 +9,7 @@ title: Tangled Webs
 wordpress_id: 2331
 ---
 
-![Tangled Webs](http://www.elainecunningham.com/wp-content/uploads/2012/12/Tangled-Webs-175x300.jpg)In the second book of the Starlight & Shadows trilogy, Liriel and Fyodor set sail for Ruathym aboard _The Elfmaid_, a pirate ship owned by one Hrolf the Unruly.  Her enemies follow, joining forces with Ruathym's enemies to become a devastating invasion force. And a certain goddess is intrigued by the drow girl at the center of so much turmoil and chaos.
+![Tangled Webs]({{ "/assets/Tangled-Webs-175x300.jpg" | absolute_url }})In the second book of the Starlight & Shadows trilogy, Liriel and Fyodor set sail for Ruathym aboard _The Elfmaid_, a pirate ship owned by one Hrolf the Unruly.  Her enemies follow, joining forces with Ruathym's enemies to become a devastating invasion force. And a certain goddess is intrigued by the drow girl at the center of so much turmoil and chaos.
 
 Liriel is so close to having all she desires:  a father in spirit if not in blood, a companion she can love and trust, a shared quest nearing completion. But Liriel's drow nature is not easily ignored, and neither is the temptation to do anything, even yield herself to an evil goddess, to protect what is hers.
 

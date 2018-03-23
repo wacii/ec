@@ -12,7 +12,7 @@ categories:
 - Audio books
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/10/The-Magehound-178x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/10/The-Magehound.jpg)Another of my Forgotten Realms books has been released as an audio book.  **[Here's a link](http://www.audible.com/pd/ref=sr_1_6?asin=B00BTOJCCS&qid=1364230421&sr=1-6)** to its page on Audible.com.
+![]({{ "/assets/The-Magehound-178x300.jpg" | absolute_url }})Another of my Forgotten Realms books has been released as an audio book.  **[Here's a link](http://www.audible.com/pd/ref=sr_1_6?asin=B00BTOJCCS&qid=1364230421&sr=1-6)** to its page on Audible.com.
 
 **_[The Magehound](http://www.elainecunningham.com/books/forgotten-realms/the-magehound-info/)_** is the first book in the Counselors & Kings trilogy, set in the magic-rich southern land of Halruaa.  This trilogy gives Forgotten Realms fans a rare and, sadly, last look at this fascinating realm, for most of Halruaa was destroyed by the Spellplague.  And by "destroyed" I mean _gone_.  Instead of land, there's sea and swamp.
 

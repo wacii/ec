@@ -12,7 +12,7 @@ categories:
 - Poetry
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2013/10/Cthulhu-Haiju-II-cover.jpg)](http://www.elainecunningham.com/wp-content/uploads/2013/10/Cthulhu-Haiju-II-cover.jpg)For the last several years, **[ Popcorn Press](http://www.popcornpress.com) **has been releasing a collection of poetry around Halloween.  In addition to a _Halloween Haiku_ anthology, editor Lester Smith has focused on vampires, zombies, and the Cthulhu Mythos.  This year's theme is a return to Lovecraft-inspired haiku and short fiction.
+![]({{ "/assets/Cthulhu-Haiju-II-cover.jpg" | absolute_url }})For the last several years, **[ Popcorn Press](http://www.popcornpress.com) **has been releasing a collection of poetry around Halloween.  In addition to a _Halloween Haiku_ anthology, editor Lester Smith has focused on vampires, zombies, and the Cthulhu Mythos.  This year's theme is a return to Lovecraft-inspired haiku and short fiction.
 
 I was very pleased to learn that three of my poems will be included in this volume.
 

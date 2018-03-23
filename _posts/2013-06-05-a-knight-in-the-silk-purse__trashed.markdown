@@ -12,7 +12,7 @@ categories:
 - Short Fiction
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2013/06/Tales-of-the-Emerald-Serpent-209x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2013/06/Tales-of-the-Emerald-Serpent.jpg)A while back, I saw this gorgeous cover by [Todd Lockwood](http://www.toddlockwood.com/) and was immediately filled with Anthology Envy.  You know what I'm talking about--that moment when you see or hear of a nifty short fiction project and think, "Crap! Wish I could've been part of that."
+![]({{ "/assets/Tales-of-the-Emerald-Serpent-209x300.jpg" | absolute_url }})A while back, I saw this gorgeous cover by [Todd Lockwood](http://www.toddlockwood.com/) and was immediately filled with Anthology Envy.  You know what I'm talking about--that moment when you see or hear of a nifty short fiction project and think, "Crap! Wish I could've been part of that."
 
 Well, it turns out that I can.  Editor Scott Taylor is following up with a second anthology in the same setting, and I was invited to play.
 

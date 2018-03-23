@@ -14,7 +14,7 @@ categories:
 
 Last week's Audible releases included the following Forgotten Realms anthologies:
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2013/01/Realms-of-Valor-175x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2013/01/Realms-of-Valor.jpeg)Realms of Valor (1993) Realms of Infamy (1994) Realms of Magic (1995) Realms of the Underdark (1996) Realms of the Arcane (1997) Realms of  Mystery (1998) Realms of the Deep (2000) Realms of Shadow (2002) Realms of Dragons (2004) Realms of the Elves (2006) Realms of War (2008) Best of the Dead (2010) 
+![]({{ "/assets/Realms-of-Valor-175x300.jpg" | absolute_url }})Realms of Valor (1993) Realms of Infamy (1994) Realms of Magic (1995) Realms of the Underdark (1996) Realms of the Arcane (1997) Realms of  Mystery (1998) Realms of the Deep (2000) Realms of Shadow (2002) Realms of Dragons (2004) Realms of the Elves (2006) Realms of War (2008) Best of the Dead (2010) 
 
 
 

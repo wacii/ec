@@ -9,7 +9,7 @@ title: 'SEVRIN LORE: Green-blooded elves'
 wordpress_id: 904
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/09/Wood-Elf.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/09/Wood-Elf.jpg)The blood of elves is not literally green, but it does contain a mysterious substance that has more in common with plants than with anything found in any other warm-blooded creature.
+![]({{ "/assets/Wood-Elf.jpg" | absolute_url }})The blood of elves is not literally green, but it does contain a mysterious substance that has more in common with plants than with anything found in any other warm-blooded creature.
 
 Elven blood teems with tiny organisms, so small that they would barely be visible under the strongest lenses Sevrin's artisans can craft.  These organisms are similar in nature to algae, and like these tiny plants, they can transform sunlight into energy.  They are sensitive to light cycles and multiply quickly as the days lengthen. This explains, at least in part, why the Greening occurs when the long winter finally gives way to spring.
 

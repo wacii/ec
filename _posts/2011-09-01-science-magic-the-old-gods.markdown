@@ -13,7 +13,7 @@ tags:
 
 The old gods are dead, if indeed they ever existed.
 
-This is the position of Sevrin's alchemists, who celebrate the wonders of scie[![](http://www.elainecunningham.com/wp-content/uploads/2011/09/Annivan-symbol.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/09/Annivan-symbol.jpg)nce and their own mastery over the natural world.
+This is the position of Sevrin's alchemists, who celebrate the wonders of scie![]({{ "/assets/Annivan-symbol.jpg" | absolute_url }})nce and their own mastery over the natural world.
 
 Most people of Sevrin view magic as part of this natural world, like the tides and the seasons. There is power in the land which the knowledgeable can harness and shape. Whether or not the practice of magic is advisable is another matter, but few people doubt that it exists.
 

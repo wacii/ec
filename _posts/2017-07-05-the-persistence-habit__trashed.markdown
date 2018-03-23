@@ -15,7 +15,7 @@ categories:
 
 
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/07/917hildegarde23-300x294.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/07/917hildegarde23.jpg)Over the years, I've written for several projects that, for various reasons, went off the rails before my story was published.  When  one such story reverted to me, I filed off the shared-world serial numbers and started sending it out in search of a new home. 
+![]({{ "/assets/917hildegarde23-300x294.jpg" | absolute_url }})Over the years, I've written for several projects that, for various reasons, went off the rails before my story was published.  When  one such story reverted to me, I filed off the shared-world serial numbers and started sending it out in search of a new home. 
 
 
 
@@ -39,7 +39,7 @@ categories:
 
 
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/07/hildegard-container-of-relics-at-the-shrine-of-St-Hildegard-300x200.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/07/hildegard-container-of-relics-at-the-shrine-of-St-Hildegard.jpg)I assumed this story was going to be difficult to place. It is a VERY odd little tale--a cyberpunk story set in a far-future abbey, the Order of St. Hildegard. The first-person narrator is what one Trusted Reader calls a "nunbot," and the abbess is a biological computer based upon DNA taken from the relics of St. Hildegard of Bigen. Not my usual thing, but it does incorporate several familiar themes: music, history, and the complexity of human nature.
+![]({{ "/assets/hildegard-container-of-relics-at-the-shrine-of-St-Hildegard-300x200.jpg" | absolute_url }})I assumed this story was going to be difficult to place. It is a VERY odd little tale--a cyberpunk story set in a far-future abbey, the Order of St. Hildegard. The first-person narrator is what one Trusted Reader calls a "nunbot," and the abbess is a biological computer based upon DNA taken from the relics of St. Hildegard of Bigen. Not my usual thing, but it does incorporate several familiar themes: music, history, and the complexity of human nature.
 
 (NOTE: The image shows the shrine that holds the saint's relics. In the story, the computer's cabinet is a reproduction of this.)
 

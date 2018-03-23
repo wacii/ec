@@ -9,7 +9,7 @@ title: 'SEVRIN LORE: The Captain''s Keep'
 wordpress_id: 1802
 ---
 
-![](http://www.elainecunningham.com/wp-content/uploads/2012/04/Volgos-keep.jpg)Sevrinspire is the largest city on Heartstone, which in turn is the largest island in the Sevrin archipelago.  Although Sevrinspire is built along the coast, it has no deep-water ports and therefore trade is dependant upon a system of small boats and overland routes. The primary road leading south into Sevrinspire is guarded by an ancient, sprawling castle know as The Captain's Keep, or, to the folks who live in the village and the nearby city, simply the Keep.
+![]({{ "/assets/Volgos-keep.jpg" | absolute_url }})Sevrinspire is the largest city on Heartstone, which in turn is the largest island in the Sevrin archipelago.  Although Sevrinspire is built along the coast, it has no deep-water ports and therefore trade is dependant upon a system of small boats and overland routes. The primary road leading south into Sevrinspire is guarded by an ancient, sprawling castle know as The Captain's Keep, or, to the folks who live in the village and the nearby city, simply the Keep.
 
 This is the abode of Volgo, captain of the adept Rhendish's guard. Since Rhendish rules the island and is the foremost member of the Council of Adepts, Volgo's position is extremely powerful. In addition to holding the northern approach to the city, he oversees the collection of trade tolls and is responsible for training future members of the guard. A select group of talented young warriors is housed and trained in the keep.
 

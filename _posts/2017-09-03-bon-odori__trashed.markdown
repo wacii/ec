@@ -13,7 +13,7 @@ categories:
 - Poetry
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/09/obon-lanterns-300x132.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/09/obon-lanterns.jpg)Today is the first day of Obon, the Japanese festival of the dead. It's somewhat similar to Mexico's _Día de Muertos, _in which family graves are tended and there's feasting and celebration. In Okinawa, offerings of food and drink are left for the returning ancesters, and the final day is celebrated with a dance, the Bon Odori, that expresses appreciation for the ancesters and the joy that memories of them bring.
+![]({{ "/assets/obon-lanterns-300x132.jpg" | absolute_url }})Today is the first day of Obon, the Japanese festival of the dead. It's somewhat similar to Mexico's _Día de Muertos, _in which family graves are tended and there's feasting and celebration. In Okinawa, offerings of food and drink are left for the returning ancesters, and the final day is celebrated with a dance, the Bon Odori, that expresses appreciation for the ancesters and the joy that memories of them bring.
 
 In honor of the day, I'm posting a ghost story, narrated by a ghost. Each stanza is in haiku format, though they are not, strictly speaking, Haiku.
 

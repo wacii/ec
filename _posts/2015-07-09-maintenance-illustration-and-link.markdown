@@ -19,4 +19,4 @@ Some people will do anything to stay young.  This isn't that kind of story.
 **[Read now](http://www.evilgirlfriendmedia.com/830/news/maintenance-by-elaine-cunningham/)**
 
 
-![Maintenance illo](http://www.elainecunningham.com/wp-content/uploads/2015/07/Maintenance-illo-300x224.jpg)
+![Maintenance illo]({{ "/assets/Maintenance-illo-300x224.jpg" | absolute_url }})

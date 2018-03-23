@@ -13,7 +13,7 @@ categories:
 - Urban fantasy
 ---
 
-[![killing-it-softly-cover](http://www.elainecunningham.com/wp-content/uploads/2016/09/Killing-It-Softly-cover-205x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2016/09/Killing-It-Softly-cover.jpg)Just in time for Halloween, a collection of dark fantasy tales by women writers. The official release is October 12 for both ebook and trade paperback. The ebook will be on sale for $.99 through November 1, which is a better treat than a full-sized candy bar.
+[![killing-it-softly-cover]({{ "/assets/Killing-It-Softly-cover-205x300.jpg" | absolute_url }})]({{ "/assets/Killing-It-Softly-cover.jpg" | absolute_url }})Just in time for Halloween, a collection of dark fantasy tales by women writers. The official release is October 12 for both ebook and trade paperback. The ebook will be on sale for $.99 through November 1, which is a better treat than a full-sized candy bar.
 
 My story, "Ravens" is a reprint tale, a ghost story set in a little New England town.  It's one of my favorite stories, and I'm delighted that it has found its way into a new collection.
 

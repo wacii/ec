@@ -9,7 +9,7 @@ title: 'SEVRIN LORE: Meadow sprites'
 wordpress_id: 802
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/08/fairy2.gif)](http://www.elainecunningham.com/wp-content/uploads/2011/08/fairy2.gif)Many children's stories speak of meadow sprites, tiny winged fey no bigger than butterflies. Indeed, most humans who see meadow sprites take them for butterflies, thanks to the deeply hooded cloaks the meadow sprites wear. When a sprite flicks up the hood and wraps the cloak around herself, she is nearly indistinquishable from an insect.  Even children, who have more time and inclination to study butterflies, seldom catch more than a glimpse of the sprites' true forms.
+![]({{ "/assets/fairy2.gif" | absolute_url }})Many children's stories speak of meadow sprites, tiny winged fey no bigger than butterflies. Indeed, most humans who see meadow sprites take them for butterflies, thanks to the deeply hooded cloaks the meadow sprites wear. When a sprite flicks up the hood and wraps the cloak around herself, she is nearly indistinquishable from an insect.  Even children, who have more time and inclination to study butterflies, seldom catch more than a glimpse of the sprites' true forms.
 
 Most people describe meadow sprites as tiny winged maidens with short, wind-blown hair. The more common wing colors are, predictably, hues found in meadow flowers:  yellow, blue, orange.  Pure white meadow sprites have been sighted, and a few people claim to have seen meadow sprites with green wings, skin, and hair.
 

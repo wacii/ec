@@ -89,7 +89,7 @@ Projects currently in circulation: 6
   * Drew, inked, and colored the first draft of a cartoon illustration for the flash fiction tale "Family Matters," which will be part of my upcoming Patreon launch.
 
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/11/Family-Matters-cartoon-1024x753.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/11/Family-Matters-cartoon.jpg)
+![]({{ "/assets/Family-Matters-cartoon-1024x753.jpg" | absolute_url }})
 
 **Books read:**
 

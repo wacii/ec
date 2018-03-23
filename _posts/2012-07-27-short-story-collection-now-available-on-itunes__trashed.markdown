@@ -12,7 +12,7 @@ categories:
 - Writing updates
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2012/04/Just-Keep-Weaving-ebook-cover.jpg)](http://www.elainecunningham.com/wp-content/uploads/2012/04/Just-Keep-Weaving-ebook-cover.jpg)This eBook collection has been available for Kindle, Nook, and all  formats supported by Smashwords for nearly four months now, but I'm pleased to announce that it has finally found its way into Apple's iTunes catalog.
+![]({{ "/assets/Just-Keep-Weaving-ebook-cover.jpg" | absolute_url }})This eBook collection has been available for Kindle, Nook, and all  formats supported by Smashwords for nearly four months now, but I'm pleased to announce that it has finally found its way into Apple's iTunes catalog.
 
 There's a wide variety of tones and topics in this collection, including Arthurian fantasy, ghost stories, historical fantasy, flash fiction, urban fantasy, several tales inspired by folklore and mythology, and a couple of tales that are difficult to classify.
 

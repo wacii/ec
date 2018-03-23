@@ -11,7 +11,7 @@ tags:
 - Honor
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/08/Honor-Bound-avatar.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/08/Honor-Bound-avatar.jpg)**Spoiler warning**:  This is background info on the titular character.  If you have not yet read _Honor Among Thieves,_ you may wish to do so before reading this post.
+![]({{ "/assets/Honor-Bound-avatar.jpg" | absolute_url }})**Spoiler warning**:  This is background info on the titular character.  If you have not yet read _Honor Among Thieves,_ you may wish to do so before reading this post.
 
 
 * * * * * * * * * * *

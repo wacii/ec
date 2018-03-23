@@ -14,7 +14,7 @@ categories:
 
 
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2013/08/When-the-Hero-Comes-Home-2-cover-205x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2013/08/When-the-Hero-Comes-Home-2-cover.jpg)
+![]({{ "/assets/When-the-Hero-Comes-Home-2-cover-205x300.jpg" | absolute_url }})
 
 
 

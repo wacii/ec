@@ -9,7 +9,7 @@ title: Silver Shadows
 wordpress_id: 2285
 ---
 
-![Silver Shadows](http://www.elainecunningham.com/wp-content/uploads/2012/12/Silver-Shadows-179x300.jpg)After their meeting in Elfshadow, Arilyn and Danilo part ways to pursue separate adventures. Danilo heads north to pursue the mysteries of _Elfsong,_ while Arilyn returns to the southern land of Tethyr.  These stories run in the same time slot, different channel.
+![Silver Shadows]({{ "/assets/Silver-Shadows-179x300.jpg" | absolute_url }})After their meeting in Elfshadow, Arilyn and Danilo part ways to pursue separate adventures. Danilo heads north to pursue the mysteries of _Elfsong,_ while Arilyn returns to the southern land of Tethyr.  These stories run in the same time slot, different channel.
 
 The elves of the Wealdath forest have a long, troubled history with Tethyr's humans. When someone starts staging atrocities that are blamed on the forest elves, Queen Amlaruil of Evermeet sends an offer of a home on the elven island. The Harper chosen to carry this message--half-elf Arilyn Moonblade--is barred from Evermeet by her mixed blood, despite the fact that she is Amlaruil's granddaughter. But she takes on the job, determined to demand as payment answers about the sword she carries.  This quest for her elven roots takes on a new dimension when she finds in a treasure hoard a moon elf warrior in deep magical sleep, displayed in a glass case. Arilyn's moonblade recognizes this elf woman as a former wielder, and the elves of the Wealdath recognize her as an ancient hero returning in a time of need.
 

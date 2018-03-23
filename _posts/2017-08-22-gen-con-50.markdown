@@ -11,7 +11,7 @@ categories:
 - Conventions
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/08/GenCon-2017-fan-photo-300x225.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/08/GenCon-2017-fan-photo.jpg)Since Gen Con badges sold out for the first time ever, I was expecting wall to wall people. There were lots of people, but there was also so much to do, in so many places, that the crowds never felt overwhelming. And everyone looked so happy to be there, so the general mood was upbeat and energizing.
+![]({{ "/assets/GenCon-2017-fan-photo-300x225.jpg" | absolute_url }})Since Gen Con badges sold out for the first time ever, I was expecting wall to wall people. There were lots of people, but there was also so much to do, in so many places, that the crowds never felt overwhelming. And everyone looked so happy to be there, so the general mood was upbeat and energizing.
 
 Except for an occasional foray into the dealers' hall and an afternoon spent gaming at the Worldbuilders Party, I spent most of my time at the Writer's Symposium. It's a great program, very well run. Some of the panels went better than others, but in general the people who attended asked good questions and seemed genuinely interested in the topics under discussion.  I was particularly impressed with the moderator of the Candlekeep seminar, which was packed with hardcore Forgotten Realms fans. He kept the tone upbeat and enthusiastic--no small feat when you consider that the fiction line has been put on indefinite hold and game products are few and far between. Thanks to the [**Dungeon Master's Guild**](http://www.dmsguild.com), there is new content coming out, and a lot of the discussion focused on this new(ish) venture.
 

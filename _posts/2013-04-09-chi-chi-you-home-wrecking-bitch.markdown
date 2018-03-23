@@ -11,7 +11,7 @@ categories:
 - Writing about writing
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2013/04/strippers-jfk-and-stalin-229x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2013/04/strippers-jfk-and-stalin.jpg)I was amused by a post on the [Candlekeep forum](http://forum.candlekeep.com) by a fan of** R.A. Salvatore** who was distressed by something he read in [an interview posted on the **Powell's Books** website](http://www.powells.com/blog/qa/powells-qa-r-a-salvatore-by-r-a-salvatore/):
+![]({{ "/assets/strippers-jfk-and-stalin-229x300.jpg" | absolute_url }})I was amused by a post on the [Candlekeep forum](http://forum.candlekeep.com) by a fan of** R.A. Salvatore** who was distressed by something he read in [an interview posted on the **Powell's Books** website](http://www.powells.com/blog/qa/powells-qa-r-a-salvatore-by-r-a-salvatore/):
 
 
 _Or, on the flip side, I sit on the beach at Ka'anapali (Maui) with **my beautiful wife, Chi Chi,** in hand._

@@ -11,7 +11,7 @@ wordpress_id: 2348
 
 ** Book 1 of the Counselors & Kings trilogy**
 
-![Magehound](http://www.elainecunningham.com/wp-content/uploads/2012/12/Magehound.jpg)In the land of Halruaa, magic is commonplace. Nearly everyone owns a magical trinket of some sort, children learn to read from simple spell books, and wizard lords rule under the leadership of the powerful wizard-king Zalathorm.  Serving the wizard aristocracy is a caste of well-trained scholar-warriors known as the Jordain--men who avoid the practice of magic and have an exceptionally high resistance to it.
+![Magehound]({{ "/assets/Magehound.jpg" | absolute_url }})In the land of Halruaa, magic is commonplace. Nearly everyone owns a magical trinket of some sort, children learn to read from simple spell books, and wizard lords rule under the leadership of the powerful wizard-king Zalathorm.  Serving the wizard aristocracy is a caste of well-trained scholar-warriors known as the Jordain--men who avoid the practice of magic and have an exceptionally high resistance to it.
 
 Matteo is one of the most gifted Jordaini of his generation, but none of his training prepares the idealistic young man for the political intrigue he faces--not only in Halruaa's royal city, but among his fellow counselors.  He finds an unlikely ally in Tzigone, a street-smart waif who, like Matteo, has drawn the attention of the magehound Kiva.
 

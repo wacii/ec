@@ -15,7 +15,7 @@ categories:
 
 Writing short fiction is a good way to experiment with new voices, styles, even genres.
 **"Plot Problems"** is a little hard to classify, but let's call it urban fantasy chick lit.  Very short, very frenetic, and lots of fun to write.
-![Plot Problems](http://www.elainecunningham.com/wp-content/uploads/2016/01/Plot-Problems-300x224.jpg)It's available free on the EGM Shorts feature of **Evil Girlfriend Media**, which is rapidly becoming one of my favorite micro-press houses.
+![Plot Problems]({{ "/assets/Plot-Problems-300x224.jpg" | absolute_url }})It's available free on the EGM Shorts feature of **Evil Girlfriend Media**, which is rapidly becoming one of my favorite micro-press houses.
 
 **[Here's a link.
 ](http://www.evilgirlfriendmedia.com/1288/news/plot-problems-by-elaine-cunningham/)**

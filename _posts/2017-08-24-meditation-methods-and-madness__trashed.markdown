@@ -13,7 +13,7 @@ categories:
 - Writing process
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/08/Chakra-meditation-225x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/08/Chakra-meditation.jpg)Learning to meditate can be a long, slow process. **[As I've previously discussed](http://www.elainecunningham.com/habits-goals/adventures-in-meditation/)**, I have a bad case of squirrel brain, and it's never easy to get my thoughts to sit down and shut up. But I keep at it, a little every morning, and it's starting to get a bit easier.
+![]({{ "/assets/Chakra-meditation-225x300.jpg" | absolute_url }})Learning to meditate can be a long, slow process. **[As I've previously discussed](http://www.elainecunningham.com/habits-goals/adventures-in-meditation/)**, I have a bad case of squirrel brain, and it's never easy to get my thoughts to sit down and shut up. But I keep at it, a little every morning, and it's starting to get a bit easier.
 
 When I'm feeling particularly scattered, one thing that helps is starting out with a home-brewed chakra meditation. This gives me several things to focus on. I silently repeat the name of the chakra point and the related color as I breathe in, and on the exhale I focus on two qualities associated with that point and color. Moving my attention down the body also helps me identify and eliminate tension. (I carry an enormous amount of tension in my neck and shoulders, which probably explains the herniated disk. Being mindful of this, if only for a few minutes a day, does seem to help.)
 

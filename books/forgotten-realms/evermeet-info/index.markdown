@@ -9,7 +9,7 @@ title: Evermeet
 wordpress_id: 2199
 ---
 
-![Evermeet](http://www.elainecunningham.com/wp-content/uploads/2012/12/Evermeet-1.jpg)Serene, beautiful, inviolate, rich in magic and treasure. For centuries Evermeet has been a refuge to the beleaguered elves of Toril. But when the bard Danilo Thann began to gather elven legends to compile a history of the royal Moonflower family, he finds the roots of an emerging story:  a massive, devastating invasion of the elven island.
+![Evermeet]({{ "/assets/Evermeet-1.jpg" | absolute_url }})Serene, beautiful, inviolate, rich in magic and treasure. For centuries Evermeet has been a refuge to the beleaguered elves of Toril. But when the bard Danilo Thann began to gather elven legends to compile a history of the royal Moonflower family, he finds the roots of an emerging story:  a massive, devastating invasion of the elven island.
 
 Mythology, history, a family saga that spans millennia, and the uncovering of secrets still known only to Danilo, a few elves, and real-world readers, _Evermeet _is twice a labor of love. Danilo intended it to be a gift for Arilyn, a half-elf of royal blood.  And this book, more than any since _Elfshadow_, embodies my deep and lasting affection for the Forgotten Realms.
 

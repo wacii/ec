@@ -13,7 +13,7 @@ categories:
 - Short Fiction
 ---
 
-![COVER, Madness on the Orient Express](http://www.elainecunningham.com/wp-content/uploads/2015/04/COVER-Madness-on-the-Orient-Express-195x300.jpg)If you've been thinking about picking up this anthology but wanted to get more info first, this detailed, story-by-story review ought to do it.    [Here's a link](http://diehardgamefan.com/2014/12/22/book-review-madness-on-the-orient-express-call-of-cthulhu/).
+![COVER, Madness on the Orient Express]({{ "/assets/COVER-Madness-on-the-Orient-Express-195x300.jpg" | absolute_url }})If you've been thinking about picking up this anthology but wanted to get more info first, this detailed, story-by-story review ought to do it.    [Here's a link](http://diehardgamefan.com/2014/12/22/book-review-madness-on-the-orient-express-call-of-cthulhu/).
 
 The reviewer commented on the anthology's diversity. This is a hallmark of Jim Lowder's projects, all the more impressive when you consider the ven diagram suggested by TWO very specific themes: the Cthulhu mythos and the Orient Express luxury train.
 

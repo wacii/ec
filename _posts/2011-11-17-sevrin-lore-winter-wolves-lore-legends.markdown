@@ -13,7 +13,7 @@ tags:
 - Winter Wolves
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/11/White-wolves.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/11/White-wolves.jpg)Wolves were last seen on the islands of Sevrin at least two centuries past, but stories persist of a pair of white wolves sighted during the first winter snow. Legend claims that any wish overheard by these Winter Wolves might be granted, but it's more likely to be turned upside down. As a result, people throughout Sevrin have a deeply ingrained superstition against making a wish, even one made in jest, during the first snowfall.
+![]({{ "/assets/White-wolves.jpg" | absolute_url }})Wolves were last seen on the islands of Sevrin at least two centuries past, but stories persist of a pair of white wolves sighted during the first winter snow. Legend claims that any wish overheard by these Winter Wolves might be granted, but it's more likely to be turned upside down. As a result, people throughout Sevrin have a deeply ingrained superstition against making a wish, even one made in jest, during the first snowfall.
 
 Even so, the first snowfall brings hunters out in great numbers and festive spirits. No one actually expects to find the Winter Wolves, but the hunt is a fine excuse for spending a few hours in good company, either tramping the woods or sharing a flask and a few tales in one of the hunting huts built on high wooden platforms or into ancient trees.
 
@@ -25,6 +25,6 @@ A sharp _woof! _came from the forest floor, a sound that, though canine in natu
 
 The fishermen exchanged a look of sheer panic. More worried about wishes than wolves, they scrambled down the ladder and raced back to their village.
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/11/Vishni-crop.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/11/Vishni-crop.jpg)Behind them, the illusion of fur and fangs melted away to reveal a slim, winged girl with short brown curls and laughing dark eyes. She settled down on a fallen log and opened a leather volume that proclaimed itself _The Book of Vishni's Exile_.  She wrote _Winter Wolves _at the top of the page and began to record the unfinished tale.
+![]({{ "/assets/Vishni-crop.jpg" | absolute_url }})Behind them, the illusion of fur and fangs melted away to reveal a slim, winged girl with short brown curls and laughing dark eyes. She settled down on a fallen log and opened a leather volume that proclaimed itself _The Book of Vishni's Exile_.  She wrote _Winter Wolves _at the top of the page and began to record the unfinished tale.
 
 The ending would have to wait until tomorrow.  First, she had some introductions to make.

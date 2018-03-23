@@ -17,7 +17,7 @@ No elves have ever lived on the multi-island city of Sevrin, and few of Sevrin'
 
 The forest elves are not humans with pointed ears.  There are no half-elves, for the fey are too different from humans to permit offspring.  One of the most conspicuous differences is the elven ability to change coloring with the seasons.
 
-The Greening is exactly what it sounds like:  A gradual shift fro[![](http://www.elainecunningham.com/wp-content/uploads/2011/05/Wood-Elf-300x225.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/05/Wood-Elf.jpg)m winter hues of white, silvery and brown to spring green.  The shift typically starts with eye color, which changes from pale silvery grey to woodland shades of green and brown.  Hair and skin darken, taking on tints of green and brown and gold.
+The Greening is exactly what it sounds like:  A gradual shift fro![]({{ "/assets/Wood-Elf-300x225.jpg" | absolute_url }})m winter hues of white, silvery and brown to spring green.  The shift typically starts with eye color, which changes from pale silvery grey to woodland shades of green and brown.  Hair and skin darken, taking on tints of green and brown and gold.
 
 A few human alchemists are aware of this phenomenon but so far no one has come up with a satisfying explanation.  The alchemist Avidan believes that elves and plants share certain complex chemicals that are sensitive to sunlight and temperature, and he suspects that elves can use sunlight as a source of sustenance and energy.
 

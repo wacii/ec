@@ -9,7 +9,7 @@ title: 'SEVRIN LORE: Reading the lees'
 wordpress_id: 555
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/08/mead-barrels.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/08/mead-barrels.jpg)Folk traditions are often firmly rooted in the magic of another age. So it is with the custom of fortune telling by "reading the lees"--seeking patterns in the sediment left in the bottom of a mead barrel.
+![]({{ "/assets/mead-barrels.jpg" | absolute_url }})Folk traditions are often firmly rooted in the magic of another age. So it is with the custom of fortune telling by "reading the lees"--seeking patterns in the sediment left in the bottom of a mead barrel.
 
 In a land where storytelling is a principle art and entertainment, this harvest ritual has become an occasion for merriment and the spinning of  ribald, improbable tales that grow more ribald and less probable with each round of mead.  Yet there's an undercurrent to such gatherings, a tense hum of mingled dread and hope and fascination.  It's an emotion familiar to children who venture into a graveyard hoping--and fearing--to see a ghost.
 

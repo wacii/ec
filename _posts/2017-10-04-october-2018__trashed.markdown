@@ -12,7 +12,7 @@ categories:
 - Halloween
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/10/Jack-olanterns-1024x678.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/10/Jack-olanterns.jpg)What would you like to do during (or by) next October that you are not doing this year?  I'll go first.
+![]({{ "/assets/Jack-olanterns-1024x678.jpg" | absolute_url }})What would you like to do during (or by) next October that you are not doing this year?  I'll go first.
 
 
 

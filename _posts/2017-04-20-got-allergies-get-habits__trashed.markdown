@@ -12,7 +12,7 @@ categories:
 - Habits
 ---
 
-**[![](http://www.elainecunningham.com/wp-content/uploads/2017/04/pollen.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/04/pollen.jpg)[Here's a link to a blog post on GIGID,](http://ow.ly/CawG30b14jM)** but I also want to provide some background info here, as this is one of those rare times when I feel that I have something truly useful to say.
+**![]({{ "/assets/pollen.jpg" | absolute_url }})[Here's a link to a blog post on GIGID,](http://ow.ly/CawG30b14jM)** but I also want to provide some background info here, as this is one of those rare times when I feel that I have something truly useful to say.
 
 I've probably had seasonal allergies all my life. When I was a kid, we called them "spring colds," and a lot of them probably did segue into viral infections. As an adult, I had a few years that were pretty much end-to-end respiratory issues. Sinus infections were frequent, asthma episodes were scary, bronchitis was a twice-yearly event, and I've been diagnosed with pneumonia at least five times. Many of these episodes were triggered by seasonal allergies.
 

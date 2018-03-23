@@ -13,7 +13,7 @@ categories:
 - Halloween
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/10/Not-a-princess-haiku.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/10/Not-a-princess-haiku.jpg)
+![]({{ "/assets/Not-a-princess-haiku.jpg" | absolute_url }})
 
 
 

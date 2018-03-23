@@ -11,7 +11,7 @@ tags:
 - Sveonis
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2012/02/belavezhskaja_pusc_2_galleryfull.jpg)](http://www.elainecunningham.com/wp-content/uploads/2012/02/belavezhskaja_pusc_2_galleryfull.jpg)There are many oaths you can swear in Sevrin to indicate that your word is to be taken very seriously, but if you swear "by the trees of Sveonis," you're indicating a steadfastness of purpose that will transcend eternity.
+![]({{ "/assets/belavezhskaja_pusc_2_galleryfull.jpg" | absolute_url }})There are many oaths you can swear in Sevrin to indicate that your word is to be taken very seriously, but if you swear "by the trees of Sveonis," you're indicating a steadfastness of purpose that will transcend eternity.
 
 This is not an oath sworn lightly or often, for if you turn this coin over you'll find a darker side: A deeply held belief that Sevrin's survival is tied to the trees of Sveonis.  Few Sevriners are willing to tempt this fate.
 

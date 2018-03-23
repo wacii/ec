@@ -28,7 +28,7 @@ Let the thought go. Open the door, let the squirrels _out...2 3 4... _
 
 Okay, THAT was a mistake. Now I know there are a half dozen hyper-caffeinated squirrels out there.  How am I supposed to concentrate when there are squirrels lurking in my peripheral vision? _ In 2 3 4..._
 
-[![hammy](http://www.elainecunningham.com/wp-content/uploads/2016/11/Hammy-293x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2016/11/Hammy.jpg)::Sudden mental image of one of the squirrels yanking up my eyelid, peering into my eye, then scampering off, giggling maniacally....  _Out 2 3 4... _
+[![hammy]({{ "/assets/Hammy-293x300.jpg" | absolute_url }})]({{ "/assets/Hammy.jpg" | absolute_url }})::Sudden mental image of one of the squirrels yanking up my eyelid, peering into my eye, then scampering off, giggling maniacally....  _Out 2 3 4... _
 
 Banish the squirrels. Envision pure light filling the open cage.  _In 2 3 4...._
 
@@ -36,7 +36,7 @@ Okay, now it's raining. That's not a bad thing, I guess--it'll wash the squirrel
 
 Huh.  Don't think I've ever seen squirrel poop. Wonder what it looks like. Acorns, probably. _In 2 3 4..._
 
-[![frank-the-flying-squirrel](http://www.elainecunningham.com/wp-content/uploads/2016/11/Frank-the-flying-squirrel-1.jpg)](http://www.elainecunningham.com/wp-content/uploads/2016/11/Frank-the-flying-squirrel-1.jpg)THAT could be problematic, seeing that **squirrels are jerks.**  There's got to be one squirrel in every crowd that packs poop into empty acorn caps and hides the fake acorns in another squirrel's stash. _Out 2 3 4..._
+[![frank-the-flying-squirrel]({{ "/assets/Frank-the-flying-squirrel-1.jpg" | absolute_url }})]({{ "/assets/Frank-the-flying-squirrel-1.jpg" | absolute_url }})THAT could be problematic, seeing that **squirrels are jerks.**  There's got to be one squirrel in every crowd that packs poop into empty acorn caps and hides the fake acorns in another squirrel's stash. _Out 2 3 4..._
 
 ::image of two cartoon squirrels pops into mind::
 "Ack!"  ::phooey::  "What the--  Oh, man, I am gonna KILL that Dave..."
@@ -48,6 +48,6 @@ Oh, right.  FOCUS.  _In 2 3 4..._
 
 But I will keep at it, because meditation is also on my list of habits that foster grit and persistence.
 
-[![sisyphus](http://www.elainecunningham.com/wp-content/uploads/2016/11/Sisyphus.jpeg)](http://www.elainecunningham.com/wp-content/uploads/2016/11/Sisyphus.jpeg)
+[![sisyphus]({{ "/assets/Sisyphus.jpeg" | absolute_url }})]({{ "/assets/Sisyphus.jpeg" | absolute_url }})
 
 

@@ -16,6 +16,6 @@ categories:
 
 I'm currently going through the process of focusing and simplifying several areas of my life, including writing. One of my primary tasks for February is figuring out what I want to write going forward, and THAT includes breaking the habit of wanting to do All The Things, All The Time.
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/02/canstockphoto27545655.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/02/canstockphoto27545655.jpg)
+![]({{ "/assets/canstockphoto27545655.jpg" | absolute_url }})
 
 

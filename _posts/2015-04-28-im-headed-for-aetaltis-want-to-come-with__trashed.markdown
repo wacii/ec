@@ -12,7 +12,7 @@ categories:
 - Short Fiction
 ---
 
-![Cover, Heroes of Thornwall](http://www.elainecunningham.com/wp-content/uploads/2015/04/Cover-Heroes-of-Thornwall.jpg)Happy Book Birthday to Marc Tassin and the [**_Heroes of Thornwall_**](http://drivethrurpg.com/product/145499/Heroes-of-Thornwall)!
+![Cover, Heroes of Thornwall]({{ "/assets/Cover-Heroes-of-Thornwall.jpg" | absolute_url }})Happy Book Birthday to Marc Tassin and the [**_Heroes of Thornwall_**](http://drivethrurpg.com/product/145499/Heroes-of-Thornwall)!
 
 This is his first adventure set in Aetaltis, a Pathfinder-compatible RPG setting. It's classic sword and sorcery, done very well.
 
@@ -22,9 +22,9 @@ This is his first adventure set in Aetaltis, a Pathfinder-compatible RPG setting
 
 This is a beautiful book. The art is striking, and fantasy cartography doesn't get much better than this:
 
-![Thornwall map](http://www.elainecunningham.com/wp-content/uploads/2015/04/Thornwall-map-300x237.jpg)![GreenbriarTavern Map](http://www.elainecunningham.com/wp-content/uploads/2015/04/GreenbriarTavern-Map-300x237.jpg)
+![Thornwall map]({{ "/assets/Thornwall-map-300x237.jpg" | absolute_url }})![GreenbriarTavern Map]({{ "/assets/GreenbriarTavern-Map-300x237.jpg" | absolute_url }})
 
-![Champions of Aetaltis](http://www.elainecunningham.com/wp-content/uploads/2015/04/Champions-of-Aetaltis-300x300.jpg)
+![Champions of Aetaltis]({{ "/assets/Champions-of-Aetaltis-300x300.jpg" | absolute_url }})
 
 **And fiction is not far behind!**
 

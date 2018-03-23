@@ -13,4 +13,4 @@ categories:
 - Poetry
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/10/Last-revision-1024x676.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/10/Last-revision.jpg)
+![]({{ "/assets/Last-revision-1024x676.jpg" | absolute_url }})

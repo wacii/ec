@@ -11,7 +11,7 @@ categories:
 - Writing about writing
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/05/Cookies-300x225.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/05/Cookies.jpg)I've been baking cookies since I had to stand on a stool to reach the kitchen counter. It's a thing I do. People like cookies, and I like baking cookies for them.
+![]({{ "/assets/Cookies-300x225.jpg" | absolute_url }})I've been baking cookies since I had to stand on a stool to reach the kitchen counter. It's a thing I do. People like cookies, and I like baking cookies for them.
 
 We all have our favorites and preferences. Some people have strong opinions on whether or not there should be nuts in brownies, but in general, no one feels the need to explain or justify the appeal of small, flat cakes.
 

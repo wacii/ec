@@ -12,7 +12,7 @@ categories:
 - Conventions
 ---
 
-[caption id="attachment_4370" align="alignright" width="300"][![](http://www.elainecunningham.com/wp-content/uploads/2017/07/Goats-300x225.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/07/Goats.jpg) Everyone loves goats![/caption]
+[caption id="attachment_4370" align="alignright" width="300"]![]({{ "/assets/Goats-300x225.jpg" | absolute_url }}) Everyone loves goats![/caption]
 
 If you're going to **Gen Con** and you're interested in donating to a great cause, consider the **Worldbuilder's Party**, an afternoon of gaming and goats. Lots of goats! Every ticket purchased will provide a goat for an impoverished family, via the wonderful Heifer International organization.
 

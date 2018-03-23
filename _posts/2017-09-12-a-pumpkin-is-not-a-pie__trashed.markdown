@@ -20,9 +20,9 @@ If you're a writer, or if you've spent some time thinking about the process, you
 
 Without further ado, let's proceed to the metaphor.
 
-This is an idea: [![](http://www.elainecunningham.com/wp-content/uploads/2017/09/Pumpkin-1-300x190.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/09/Pumpkin-1.jpg)
+This is an idea: ![]({{ "/assets/Pumpkin-1-300x190.jpg" | absolute_url }})
 
-This is a story:[![](http://www.elainecunningham.com/wp-content/uploads/2017/09/Pumpkin-Pie-300x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/09/Pumpkin-Pie.jpg)
+This is a story:![]({{ "/assets/Pumpkin-Pie-300x300.jpg" | absolute_url }})
 
 That pretty, orange pumpkin is bright and colorful and vastly appealing, but it is not a pie. It is the _raw material_ for a pie. There's a lot of peeling and chopping and roasting and pureeing and pumpkin-spicing and mixing and baking and maybe even cinnamon pie crust leaf-making that happens between pumpkin and pie. The first time you attempt pie, you might be less than happy with the outcome. A crisp, flaky crust takes practice. Technique matters. Great results come from knowing the basic rules of baking, then doing your own creative spin. Do all that, and do it often enough, and you'll soon be helping pumpkins reach their glorious potential.
 

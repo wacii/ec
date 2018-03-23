@@ -16,6 +16,6 @@ categories:
 
 Here's today's bit of seasonal micro-poetry.  As fellow corvid afficianados are likely to know, this haiku states fact: crows and ravens don't fly at night. As twilight approaches, they return to their roost and stay until early morning. So if you DO see a crow-like creature out and about at night, you might want to reach for that bottle of holy water in your pocket.
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/10/Crows-at-night-850x1024.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/10/Crows-at-night.jpg)
+![]({{ "/assets/Crows-at-night-850x1024.jpg" | absolute_url }})
 
 

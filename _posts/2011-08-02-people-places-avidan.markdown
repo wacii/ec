@@ -30,7 +30,7 @@ About four years ago, the band of thieves who live in the tunnels below Rhendi
 
 
 
-Days passed before he regained ![](http://www.elainecunningham.com/wp-content/uploads/2011/08/Fox-300x146.jpg)consciousness.  Dazed and disoriented, he could give no explanation as to how he found his way into the hidden den. In fact, months passed before he spoke a single word.
+Days passed before he regained ![]({{ "/assets/Fox-300x146.jpg" | absolute_url }})consciousness.  Dazed and disoriented, he could give no explanation as to how he found his way into the hidden den. In fact, months passed before he spoke a single word.
 
 
 

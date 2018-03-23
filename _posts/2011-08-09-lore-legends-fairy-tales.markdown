@@ -14,7 +14,7 @@ tags:
 
 Though most of Sevrin's ruling elite shrug off stories of a Faerie Realm, belief in fairies is persistent and widespread.  So are folk remedies designed to ward off the Fey Folk.  No right-thinking person would seek out a fairy, for they are believed to be capricious and mischievous, if not downright malevolent.
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/08/Vishni-crop.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/08/Vishni-crop.jpg)This attitude is based largely on legends of Fairy Tales, twisty little stories gathered from the mortal world.  It has been observed that fairies nudge events in the direction of irony, dark humor, or surprising reversals. There are many theories about their motives for this meddling, but few mortals suspect the truth:
+![]({{ "/assets/Vishni-crop.jpg" | absolute_url }})This attitude is based largely on legends of Fairy Tales, twisty little stories gathered from the mortal world.  It has been observed that fairies nudge events in the direction of irony, dark humor, or surprising reversals. There are many theories about their motives for this meddling, but few mortals suspect the truth:
 
 When a fairy commits a crime against her people, she is exiled from the fey realm until she has gathered enough entertaining tales to balance the scales of fairy justice.
 

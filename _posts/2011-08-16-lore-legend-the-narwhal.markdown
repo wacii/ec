@@ -16,7 +16,7 @@ tags:
 - Stormwall Island
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/08/narwhal2-Paul-Nicklen-Natgeo.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/08/narwhal2-Paul-Nicklen-Natgeo.jpg)When the people of Sevrin speak of narwhals, they might be talking about the small, tusked whales that summer in the shallow waters around Sevrin's northern islands.  More likely they're referring to Narwhal Harbor, a legendary seaport on Stormwall island, and the pirates who once ruled it.
+![]({{ "/assets/narwhal2-Paul-Nicklen-Natgeo.jpg" | absolute_url }})When the people of Sevrin speak of narwhals, they might be talking about the small, tusked whales that summer in the shallow waters around Sevrin's northern islands.  More likely they're referring to Narwhal Harbor, a legendary seaport on Stormwall island, and the pirates who once ruled it.
 
 Like many island cultures, Sevrin has a history of piracy.  It is particularly suited to raiding parties of several small ships--the famed Narwhal "pods"--which could disappear into rocky coves impassible to larger ships. But large-scale piracy was also practiced, with some pirate lords commanding fleets of well armed vessels.
 

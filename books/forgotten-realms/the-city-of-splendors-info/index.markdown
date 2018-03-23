@@ -9,7 +9,7 @@ title: The City of Splendors
 wordpress_id: 2386
 ---
 
-![The_City_of_Splendors_novel](http://www.elainecunningham.com/wp-content/uploads/2012/12/The_City_of_Splendors_novel-185x300.jpg)No one in Waterdeep expects much from the swaggering band of young noblemen, or from the daughters of a tradesman. But heroism takes many forms, and a great city is built on many small stories...
+![The_City_of_Splendors_novel]({{ "/assets/The_City_of_Splendors_novel-185x300.jpg" | absolute_url }})No one in Waterdeep expects much from the swaggering band of young noblemen, or from the daughters of a tradesman. But heroism takes many forms, and a great city is built on many small stories...
 
 A stand-alone novel featuring a cast of new, "low-level" characters, _**The City of Splendors **_takes place after the devastating attack on Faerun's seacoast and before the Spellplague.
 

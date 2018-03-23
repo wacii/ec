@@ -11,7 +11,7 @@ wordpress_id: 2380
 
 **Book 3 of the Counselors & Kings trilogy**
 
-![Wizardwar](http://www.elainecunningham.com/wp-content/uploads/2012/12/Wizardwar.jpg)Once again, the counselors of Halruaa have beaten back an attack by the wizard Akhlaur.  Once more, the kingdom has been saved from its enemies.
+![Wizardwar]({{ "/assets/Wizardwar.jpg" | absolute_url }})Once again, the counselors of Halruaa have beaten back an attack by the wizard Akhlaur.  Once more, the kingdom has been saved from its enemies.
 
 But victory comes at a terrible price. The aged king is weakened, his powers diminished. His chief counselor, Matteo, is torn between his duty and his heart. Tzigone, the hero of the battle of Akhlaur's Swamp, has been hurled into a dark world from which she may never escape. And at the edge of time, Akhlaur and his ally, the Magehound, plot their final revenge.
 

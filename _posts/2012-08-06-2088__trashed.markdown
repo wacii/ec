@@ -12,7 +12,7 @@ categories:
 - Writing updates
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2012/08/Evermeet-cover.jpg)](http://www.elainecunningham.com/wp-content/uploads/2012/08/Evermeet-cover.jpg)A lot can happen in 14 years. Take Evermeet, for example.
+![]({{ "/assets/Evermeet-cover.jpg" | absolute_url }})A lot can happen in 14 years. Take Evermeet, for example.
 
 Back in 1998, the island of Evermeet was an inviolate elven homeland, protected by high magic and peerless elven warriors. It had been a refuge for thousands of years, and the elves saw no reason to think things might change. Then, in the year DR 1371 (aka 1998), they got a disturbing wake-up call--an invasion that forced them to rethink their assumptions and shore up their defenses.
 

@@ -14,7 +14,7 @@ tags:
 - dragon tooth
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/06/dragon-tooth1-257x300.jpg)](http://www.elainecunningham.com/2011/06/02/science-magic-the-alkahest-conundrum/dragon-tooth-2/)One of the most ancient alchemical quests involves the search for _**alkahest**_, a universal solvent.
+![]({{ "/assets/dragon-tooth1-257x300.jpg" | absolute_url }})One of the most ancient alchemical quests involves the search for _**alkahest**_, a universal solvent.
 
 The definition of alkahest varies from from one alchemist to another.  To some, alkahest is a solvent that will reduce composed material into its component parts.
 

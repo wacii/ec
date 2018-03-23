@@ -16,7 +16,7 @@ categories:
 
 
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/07/iceberg-300x195.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/07/iceberg.jpg)Last night, I had a very helpful Skype chat with my son Sean about the outline of my novel-in-progress. He asked a very important question about two of the characters:  "Why are they friends?"
+![]({{ "/assets/iceberg-300x195.jpg" | absolute_url }})Last night, I had a very helpful Skype chat with my son Sean about the outline of my novel-in-progress. He asked a very important question about two of the characters:  "Why are they friends?"
 
 
 

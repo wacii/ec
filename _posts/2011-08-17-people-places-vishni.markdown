@@ -12,7 +12,7 @@ tags:
 - Vishni
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/08/VishniFIN.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/08/VishniFIN.jpg)To all appearance, Vishni is a small, slim human girl who has yet to see her twentieth winter. Her dark eyes and mop of short, nearly-black curls are unusual in Sevrin, but her face is so alive with mischief and energy that people seldom linger on other details.
+![]({{ "/assets/VishniFIN.jpg" | absolute_url }})To all appearance, Vishni is a small, slim human girl who has yet to see her twentieth winter. Her dark eyes and mop of short, nearly-black curls are unusual in Sevrin, but her face is so alive with mischief and energy that people seldom linger on other details.
 
 Vishni is, in fact, a fairy, currently exiled from the Faerie realm until she can gather enough entertaining tales to balance the scales of fairy justice.  Vishni's crimes have not yet been specified, but if pressed, she might admit that she's been collecting tales for nearly ten years.  If asked what a typical sentence is, she'll airily respond, "Oh, that depends."  (For the record, fairies are seldom exiled for more than a few months.)
 

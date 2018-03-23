@@ -12,7 +12,7 @@ categories:
 - Short Fiction
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/06/Literal-Illusion-196x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/06/Literal-Illusion.jpg)"Lorelei," a historical fantasy tale that takes place near the Rhine in pre-Roman times, has been published in a new reprint anthology.
+![]({{ "/assets/Literal-Illusion-196x300.jpg" | absolute_url }})"Lorelei," a historical fantasy tale that takes place near the Rhine in pre-Roman times, has been published in a new reprint anthology.
 
 
 

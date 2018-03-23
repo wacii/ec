@@ -15,4 +15,4 @@ categories:
 
 Here's a new limerick.  Feel free to share these, if you're so inclined.
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2017/09/Bitey-and-stabby.jpg)](http://www.elainecunningham.com/wp-content/uploads/2017/09/Bitey-and-stabby.jpg)
+![]({{ "/assets/Bitey-and-stabby.jpg" | absolute_url }})

@@ -21,7 +21,7 @@ tags:
 - short stories
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2014/01/Chthulh-Haiku-2-188x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2014/01/Chthulh-Haiku-2.jpg)Because clearly, one book of Mythos-inspired poetry is not enough.
+![]({{ "/assets/Chthulh-Haiku-2-188x300.jpg" | absolute_url }})Because clearly, one book of Mythos-inspired poetry is not enough.
 
 Poet and editor Lester Smith is a man with a mission. He believes that poetry should be a part of everyone's life, an everyday occurrence rather than a rare event.  Popcorn, not caviar.  This is the reasoning behind [Popcorn Press](http://www.popcornpress.com), a micro-press devoted to poetry and to stories that don't necessarily fit conventional publishing lengths and genres. For several years, he has been publishing an annualHalloween poetry anthology. This year's book is a little late in coming, due to Life, but it's now available in ebook and paperback at Amazon.com or throughout the Popcorn Press website.
 

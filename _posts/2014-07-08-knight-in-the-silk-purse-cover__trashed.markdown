@@ -13,7 +13,7 @@ categories:
 - Short Fiction
 ---
 
-![COVER, A knight in the silk purse](http://www.elainecunningham.com/wp-content/uploads/2014/07/COVER-A-knight-in-the-silk-purse-200x300.jpg)The second anthology set in the fantasy city of Taux is finally available in ebook format.
+![COVER, A knight in the silk purse]({{ "/assets/COVER-A-knight-in-the-silk-purse-200x300.jpg" | absolute_url }})The second anthology set in the fantasy city of Taux is finally available in ebook format.
 
 Here's the link to the **[Kindle ebook](http://www.amazon.com/Knight-Silk-Purse-Emerald-Serpent-ebook/dp/B00LO1MPRU/ref=sr_1_1?s=books&ie=UTF8&qid=1405203784&sr=1-1&keywords=A+knight+in+the+silk+purse)** at Amazon.com
 

@@ -12,7 +12,7 @@ tags:
 - Sim Neverslain
 ---
 
-[![](http://www.elainecunningham.com/wp-content/uploads/2011/09/Fairy-door.jpg)](http://www.elainecunningham.com/wp-content/uploads/2011/09/Fairy-door.jpg)A favorite midsummer sport among Se[](http://www.elainecunningham.com/wp-content/uploads/2011/09/Fairy-door.jpg)vrin's children is searching the forests for pixie portals.  This is far riskier than it sounds, as pixies have been known to lay traps near their homes, or to place them near lairs of dangerous forest creatures.  Adventurous lads and maids sometimes follow boar hunters in hope of finding a nearby portal.  This is strictly forbidden, as it not infrequently ends in tragedy, but children continue to find ways to slip into the forest.
+![]({{ "/assets/Fairy-door.jpg" | absolute_url }})A favorite midsummer sport among Se[]({{ "/assets/Fairy-door.jpg" | absolute_url }})vrin's children is searching the forests for pixie portals.  This is far riskier than it sounds, as pixies have been known to lay traps near their homes, or to place them near lairs of dangerous forest creatures.  Adventurous lads and maids sometimes follow boar hunters in hope of finding a nearby portal.  This is strictly forbidden, as it not infrequently ends in tragedy, but children continue to find ways to slip into the forest.
 
 A few children climb trees to search for pixie portals amid the branches, but most legends agree that these are placed too high for even the smallest human to reach. Portals placed near the base of trees, however, are easier game, as are the pixies who live within.  These are not winged creatures, but tiny beings who live primarily on the forest floor.
 

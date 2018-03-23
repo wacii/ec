@@ -13,7 +13,7 @@ categories:
 - Writing about writing
 ---
 
-It's a goo[![](http://www.elainecunningham.com/wp-content/uploads/2015/05/tangled_webs-205x300.jpg)](http://www.elainecunningham.com/wp-content/uploads/2015/05/tangled_webs.jpg)d idea to have a basic author bio (more than one, actually, in different lengths and tones), but I always seem to end up customizing. The other day, it was pertinent to note in a bio that many, if not most, of my stories involved elves of some sort.
+It's a goo![]({{ "/assets/tangled_webs-205x300.jpg" | absolute_url }})d idea to have a basic author bio (more than one, actually, in different lengths and tones), but I always seem to end up customizing. The other day, it was pertinent to note in a bio that many, if not most, of my stories involved elves of some sort.
 
 That got me thinking about the various sorts of elves. Turns out there are quite a few varieties:
 
