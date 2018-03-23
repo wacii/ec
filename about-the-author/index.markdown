@@ -2,7 +2,7 @@
 author: zerobyte
 comments: true
 date: 2011-05-25 16:56:16+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/about-the-author/
 slug: about-the-author
 title: Bio

@@ -2,7 +2,7 @@
 author: zerobyte
 comments: true
 date: 2011-05-25 16:55:04+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/short-fiction/
 slug: short-fiction
 title: Short works

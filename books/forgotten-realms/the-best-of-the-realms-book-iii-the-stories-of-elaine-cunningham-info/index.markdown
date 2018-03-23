@@ -2,7 +2,7 @@
 author: zerobyte
 comments: true
 date: 2013-01-04 14:49:56+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/books/forgotten-realms/the-best-of-the-realms-book-iii-the-stories-of-elaine-cunningham-info/
 slug: the-best-of-the-realms-book-iii-the-stories-of-elaine-cunningham-info
 title: 'The Best of the Realms Book III: The Stories of Elaine Cunningham'

@@ -2,7 +2,7 @@
 author: zerobyte
 comments: true
 date: 2013-01-26 19:03:43+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/books/star-wars/
 slug: star-wars
 title: STAR WARS

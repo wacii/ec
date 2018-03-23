@@ -2,7 +2,7 @@
 author: zerobyte
 comments: true
 date: 2012-12-20 16:17:30+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/books/forgotten-realms/
 slug: forgotten-realms
 title: FORGOTTEN REALMS

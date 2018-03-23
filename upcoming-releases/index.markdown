@@ -2,7 +2,7 @@
 author: zerobyte
 comments: false
 date: 2015-10-27 00:05:16+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/upcoming-releases/
 slug: upcoming-releases
 title: What's next

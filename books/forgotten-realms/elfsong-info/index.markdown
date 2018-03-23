@@ -2,7 +2,7 @@
 author: zerobyte
 comments: true
 date: 2012-12-12 17:24:32+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/books/forgotten-realms/elfsong-info/
 slug: elfsong-info
 title: Elfsong

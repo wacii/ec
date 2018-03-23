@@ -2,7 +2,7 @@
 author: zerobyte
 comments: false
 date: 2016-12-08 02:38:52+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/habits/
 slug: habits
 title: Habits

@@ -2,7 +2,7 @@
 author: zerobyte
 comments: true
 date: 2012-12-09 13:13:32+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/books/forgotten-realms/evermeet-info/
 slug: evermeet-info
 title: Evermeet

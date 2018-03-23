@@ -2,7 +2,7 @@
 author: zerobyte
 comments: true
 date: 2012-12-16 13:31:48+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/books/forgotten-realms/daughter-of-the-drow-info/
 slug: daughter-of-the-drow-info
 title: Daughter of the Drow

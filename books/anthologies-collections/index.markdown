@@ -2,7 +2,7 @@
 author: zerobyte
 comments: true
 date: 2013-02-17 20:33:35+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/books/anthologies-collections/
 slug: anthologies-collections
 title: Anthologies & Collections

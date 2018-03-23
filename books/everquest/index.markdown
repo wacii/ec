@@ -2,7 +2,7 @@
 author: zerobyte
 comments: true
 date: 2013-02-17 14:48:29+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/books/everquest/
 slug: everquest
 title: EverQuest

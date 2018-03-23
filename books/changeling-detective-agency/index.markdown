@@ -2,7 +2,7 @@
 author: zerobyte
 comments: true
 date: 2013-02-17 21:41:11+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/books/changeling-detective-agency/
 slug: changeling-detective-agency
 title: CHANGELING DETECTIVE

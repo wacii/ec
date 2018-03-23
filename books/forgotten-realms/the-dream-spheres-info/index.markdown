@@ -2,7 +2,7 @@
 author: zerobyte
 comments: true
 date: 2012-12-15 11:09:23+00:00
-layout: page
+layout: single
 link: http://www.elainecunningham.com/books/forgotten-realms/the-dream-spheres-info/
 slug: the-dream-spheres-info
 title: The Dream Spheres
