@@ -1,0 +1,14 @@
+main:
+  - title: "Upcoming Releases"
+    url: /upcoming-releases
+  - title: "Upcoming Events"
+    url: /upcoming-events-2
+  - title: "Books"
+    url: /books
+  - title: "Short Fiction"
+    url: /short-fiction
+  - title: "About"
+    url: /about-the-author
+  - title: "Contact"
+    url: /contact
+    

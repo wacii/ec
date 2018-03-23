@@ -1,0 +1,202 @@
+---
+author: zerobyte
+comments: true
+date: 2011-05-25 16:54:50+00:00
+layout: page
+link: http://www.elainecunningham.com/books/
+slug: books
+title: Books
+wordpress_id: 26
+---
+
+### **FANTASY NOVELS**
+
+
+
+
+
+* * *
+
+
+
+
+
+#### **Forgotten Realms**
+
+
+
+
+##### **Songs & Swords series**
+
+
+
+
+[_Elfshadow_](http://www.elainecunningham.com/books/forgotten-realms/elfshadow-info/) _[Elfsong](http://www.elainecunningham.com/elfsong-info/)_ [_Silver Shadows_](http://www.elainecunningham.com/books/forgotten-realms/silver-shadows-info/)
+
+
+
+
+[_Thornhold_](http://www.elainecunningham.com/books/forgotten-realms/thornhold-info/)
+
+
+
+
+[_Dream Spheres_](http://www.elainecunningham.com/books/forgotten-realms/the-dream-spheres-info/)
+
+
+
+
+
+##### **Starlight & Shadows trilogy**
+
+
+
+
+[_Daughter of the Drow_](http://www.elainecunningham.com/books/forgotten-realms/daughter-of-the-drow-info/)
+
+
+
+
+[_Tangled Webs_](http://www.elainecunningham.com/books/forgotten-realms/tangled-webs-info/)
+
+
+
+
+[_Windwalker_](http://www.elainecunningham.com/books/forgotten-realms/windwalker-info/)
+
+
+
+
+
+##### **Counselors & Kings trilogy**
+
+
+
+
+[_The Magehound_](http://www.elainecunningham.com/?page_id=2348&preview=true)
+
+
+
+
+[_The Floodgate_](http://www.elainecunningham.com/?page_id=2354&preview=true)
+
+
+
+
+[_The Wizardwar__** **_](http://www.elainecunningham.com/?page_id=2380&preview=true)
+
+
+
+
+
+#### **Other Forgotten Realms books**
+
+
+
+
+[_Evermeet_](http://www.elainecunningham.com/?page_id=2199&preview=true)
+
+
+
+
+_[City of Splendors](http://www.elainecunningham.com/?page_id=2386&preview=true) (with Ed Greenwood)_
+
+
+
+
+[_Best of the Realms Book 3:  The Stories of Elaine Cunningham_](http://www.elainecunningham.com/?page_id=2393&preview=true)
+
+
+
+
+
+
+* * *
+
+
+
+
+
+### **Other Shared-world Settings**
+
+
+
+
+**EverQuest: ** _The Blood Red Harp_**                               **
+
+
+
+
+**Pathfinder Tales:** _Winter Witch _(with Dave Gross)**                    **
+
+
+
+
+**StarWars: **_Dark Journey_
+
+
+
+
+**First Quest: ** _The Unicorn Hunt_**                               **
+
+
+
+
+**Spelljammer: **_The Radiant Dragon_
+
+
+
+
+
+
+* * *
+
+
+
+
+
+### **URBAN FANTASY NOVELS **
+
+
+
+
+**Changeling Detective Agency:**
+
+
+
+
+_Shadows in the Darkness_
+
+
+
+
+_Shadows in the Starlight  _
+
+
+
+
+
+
+* * *
+
+
+
+
+
+### **SHORT STORY COLLECTIONS**
+
+
+
+
+_Best of the Realms Book 3:  The Stories of Elaine Cunningham_
+
+
+
+
+
+
+* * *
+
+
+
+

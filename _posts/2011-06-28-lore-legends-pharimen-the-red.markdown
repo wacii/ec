@@ -1,0 +1,34 @@
+---
+author: zerobyte
+comments: true
+date: 2011-06-28 13:50:17+00:00
+layout: single
+link: http://www.elainecunningham.com/uncategorized/lore-legends-pharimen-the-red/
+slug: lore-legends-pharimen-the-red
+title: 'SEVRIN LORE: Pharimen the Red'
+wordpress_id: 278
+tags:
+- Elves
+- Kordessa
+- Pharimen the Red
+---
+
+Many centuries have passed since dragons last flew over the islands of Sevrin. Most people believe them to be extinct, or perhaps withdrawn into the fey realm from whence they came.
+
+The old races know better. Elves and dwarves know that dragons live in the deep forests and high mountain passes, but the few humans who venture into their lands seldom return to bring tales.  These creatures tend to be young and adventurous--deadly foes, but far smaller and less dangerous than the ancient dragons that sleep in mountain caverns and in the vast sea caves hidden in the most impassible of the mainland fyords.
+
+One of the most infamous of these ancient dragons is Pharimen the Red.  Several centuries past, an elven sorceress who later became known as Red Kordessa awoke the dragon and struck a bargain:  If Pharimen joined the fight against the fey army besieging an elven stronghold, Kordessa would lead him to the mint where humans turned locally mined gold into coin.
+
+This was an act of desperation on Kordessa's part, a hidden pact that carried high risk.  Pharimen played his part in breaking the siege, but with a gleeful brutality that created a deep rift between the elves and all the creatures of the fey realm, not just the trollkin involved in the attack. 
+
+Kordessa and Pharimen agreed that the elf would acquire the gold through sorcerous means. The dragon violated the terms of this agreement and destroyed the entire walled town surrounding the mint.  The few survivors assumed that the elf woman riding the fire-spewing dragon directed the attack, or was at the very least a willing participant.  This tale spread, creating lasting enmity between Kordessa's clan and the humans whose wealth Pharimen stole. 
+
+Today the elven stronghold stands in ruins. The location of the lost town is unknown. No human is entirely certain whether the ruler whose face was imprinted on those lost coins was one of a dozen heroes or villians, a compilation of several such men, or a complete fabrication.
+
+Pharimen's attack was one of those rare incidents that captures human imagination and scatters storytelling seed by the handful.  In some of the tales, the king (or warlord, or prince who aspired to the hand of the king's daughter, or a rogue seeking to redeem his reputation) marched against the red dragon (and sometimes the elf, as well) and reclaimed the treasure.  In some tales, the gold was lost in a lake or river; in others, it had been elf-crafted into various works of art with magical properties.  Scores of tales deal with this goldmagic treasure.  Many more address the beautiful elven "villain" who allied herself with the dragon.
+
+This event lingers in human speech as well as legend. A "red dream" is a portent of disaster or, by extension, a feeling of unease.  If a situation feels dangerous or simply out of the ordinary, a human of the northlands is likely to say, "I had a red dream that started out like this..."
+
+The elves remember this event far more accurately, and with none of the heroic trappings humans have created over the centuries.  They know that Pharimen the Red sleeps atop a pile of treasure that includes coins bearing the image of a minor warlord.  They remember that Kordessa broke ancient taboos when she dealt with an evil, powerful dragon.  They remember years of fighting that resulted in the decimation of a human kingdom, and the centuries of fey retribution that led to the downfall of the elves' mountain stronghold. They remember the forest fires Pharimen started when he attacked the trollkin hoard and again when he leveled the human town.  And even though Kordessa's action broke the siege and no doubt saved elven lives, she is remembered as an elf who started a long and ruinous war.
+
+To the elves, there is no surer definition of treachery.
