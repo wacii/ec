@@ -1,53 +1,51 @@
 ---
-
-
 date: 2012-12-13 12:29:32+00:00
 layout: single
-
 slug: silver-shadows-info
 title: Silver Shadows
-
 ---
 
-![Silver Shadows]({{ "/assets/Silver-Shadows-179x300.jpg" | absolute_url }})After their meeting in Elfshadow, Arilyn and Danilo part ways to pursue separate adventures. Danilo heads north to pursue the mysteries of _Elfsong,_ while Arilyn returns to the southern land of Tethyr.  These stories run in the same time slot, different channel.
+![Silver Shadows Cover]({{ "/assets/Silver-Shadows-179x300.jpg" | absolute_url }})
+
+After their meeting in Elfshadow, Arilyn and Danilo part ways to pursue separate adventures. Danilo heads north to pursue the mysteries of _Elfsong,_ while Arilyn returns to the southern land of Tethyr.  These stories run in the same time slot, different channel.
 
 The elves of the Wealdath forest have a long, troubled history with Tethyr's humans. When someone starts staging atrocities that are blamed on the forest elves, Queen Amlaruil of Evermeet sends an offer of a home on the elven island. The Harper chosen to carry this message--half-elf Arilyn Moonblade--is barred from Evermeet by her mixed blood, despite the fact that she is Amlaruil's granddaughter. But she takes on the job, determined to demand as payment answers about the sword she carries.  This quest for her elven roots takes on a new dimension when she finds in a treasure hoard a moon elf warrior in deep magical sleep, displayed in a glass case. Arilyn's moonblade recognizes this elf woman as a former wielder, and the elves of the Wealdath recognize her as an ancient hero returning in a time of need.
 
 What begins as a means to an end becomes a deeply personal commitment, and Arilyn is willing to sacrifice the sword that is her identity and purpose to win freedom for the forest elves. But when her personal quest endangers those she loves--Foxfire, the charismatic leader of the wild elves, and the human bard Danilo Thann, her Harper partner--she will risk far more.
 
-********************************
+***
 
 **[Read reviews on GoodReads](http://www.goodreads.com/book/show/19851.Silver_Shadows)**
 
 **[Sample Chapters](http://books.google.com/books?id=IQIXYlLffosC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)**
 
-********************************
-
+***
 
 ## Purchase the book:
 
-
 **Ebook:**
 
-[Amazon Kindle Bookstore](http://www.amazon.com/Silver-Shadows-Song-Swords-ebook/dp/B004ZZNN3M/ref=tmm_kin_title_0?ie=UTF8&qid=1355416588&sr=8-1)[Barnes & Noble NOOK Bookstore](http://www.barnesandnoble.com/w/forgotten-realms-elaine-cunningham/1103165631?ean=9780786959723)[Google Ebooks](http://books.google.com/books/about/Silver_Shadows.html?id=IQIXYlLffosC)**Audio book:** Available on [Amazon.com](http://www.amazon.com/Silver-Shadows-Forgotten-Realms-Swords/dp/B00BA1ZQHU/ref=sr_1_17?s=digital-text&ie=UTF8&qid=1360071850&sr=1-17&keywords=elaine+cunningham)
+[Amazon Kindle Bookstore](http://www.amazon.com/Silver-Shadows-Song-Swords-ebook/dp/B004ZZNN3M/ref=tmm_kin_title_0?ie=UTF8&qid=1355416588&sr=8-1)
+
+[Barnes & Noble NOOK Bookstore](http://www.barnesandnoble.com/w/forgotten-realms-elaine-cunningham/1103165631?ean=9780786959723)
+
+[Google Ebooks](http://books.google.com/books/about/Silver_Shadows.html?id=IQIXYlLffosC)
+
+**Audio book:** Available on [Amazon.com](http://www.amazon.com/Silver-Shadows-Forgotten-Realms-Swords/dp/B00BA1ZQHU/ref=sr_1_17?s=digital-text&ie=UTF8&qid=1360071850&sr=1-17&keywords=elaine+cunningham)
 
 **Paperback:** Currently out of print. See [this page on Amazon.com](http://www.amazon.com/Silver-Shadows-Forgotten-Realms-Swords/dp/0786917997/ref=sr_1_1?ie=UTF8&qid=1355416588&sr=8-1&keywords=silver+shadows) for used copies.
 
-*******************************
-
+***
 
 ## Even more info:
 
-
-**[Go to the info page for _Elfshadow_ ](http://www.elainecunningham.com/elfshadow-info)**to see a list of novels and short stories featuring Danilo, Elaith, and Arilyn.
+**[Go to the info page for _Elfshadow_]({{ site.baseurl }}{% link books/forgotten-realms/elfshadow-info.md %})** to see a list of novels and short stories featuring Danilo, Elaith, and Arilyn.
 
 **Flash Fiction:**
 
 Moonblades were designed to be a test of kingship, a visual symbol of the right and fitness to rule. But over the years, concept creep has set in. For those who are in need of clarification, consider, if you will, an imaginary conversation that I'll call...
 
-
 **A CONNECTICUT GAMER IN KING ARTHUR'S COURT**
-
 
 I woke up in a stable, though I'll be damned if I could tell you how I got here. One minute, I'm racing an approaching thunderstorm so I can level up before logging out, the next, I'm face down in straw. Everything hurt, and I smelled like a bucket of KFC that had been left in the fryer a little too long.
 
@@ -137,11 +135,7 @@ Merlin stared at me for a long moment.
 
 The wizard rose and gestured to a lanky kid who was foot-dragging his way toward us, scratching himself and yawning widely.
 
-
-###### The kid glanced my way. His gaze sharpened as he took in tee shirt:  **4th edition blows. Also, WTF are ELADRIN?!!**
-
-
-
+The kid glanced my way. His gaze sharpened as he took in tee shirt: **4th edition blows. Also, WTF are ELADRIN?!!**
 
 “Let me guess: Moonblades again?”
 
@@ -154,6 +148,5 @@ The world spun and rolled. When it came to a stop, I was eye-level with the pile
 Interesting. I’d heard that the brain takes a few minutes to shut down after decapitation. I lasted long enough to see young Arthur head off in the direction the goat had taken, Excalibur in hand.
 
 I guess a future king can’t be too careful when it comes to potential rivals.
-
 
 THE END
