@@ -27,7 +27,7 @@ title: Books
 
 [_Daughter of the Drow_]({{ site.baseurl }}{% link books/forgotten-realms/daughter-of-the-drow-info.md %})
 
-[_Tangled Webs_](http://www.elainecunningham.com/books/forgotten-realms/tangled-webs-info/)
+[_Tangled Webs_]({{ site.baseurl }}{% link books/forgotten-realms/tangled-webs-info.md %})
 
 [_Windwalker_](http://www.elainecunningham.com/books/forgotten-realms/windwalker-info/)
 
