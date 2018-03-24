@@ -29,7 +29,7 @@ title: Books
 
 [_Tangled Webs_]({{ site.baseurl }}{% link books/forgotten-realms/tangled-webs-info.md %})
 
-[_Windwalker_](http://www.elainecunningham.com/books/forgotten-realms/windwalker-info/)
+[_Windwalker_]({{ site.baseurl }}{% link books/forgotten-realms/windwalker-info.md %})
 
 ##### **Counselors & Kings trilogy**
 
