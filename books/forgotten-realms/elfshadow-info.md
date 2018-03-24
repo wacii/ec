@@ -45,9 +45,9 @@ Here's a list of  stories featuring Arilyn, Danilo, and Elaith:
 
 "Games of Chance"—_Dragon magazine_ #335 (2005)/_The Best of the Realms, Book III: The Stories of Elaine Cunningham_ (2007)  (Elaith tries to improve his daughter's chances of inheriting the Craulnober moonblade.)
 
-"The Knights of Samular"—_The Best of the Realms, Book III: The Stories of Elaine Cunningham_ (2007)  (This story ties up some of the loose ends of _Thornhold. _This is Algorind's story, but Danilo appears as a secondary character.)
+"The Knights of Samular"—_The Best of the Realms, Book III: The Stories of Elaine Cunningham_ (2007)  (This story ties up some of the loose ends of _Thornhold_. This is Algorind's story, but Danilo appears as a secondary character.)
 
-"Redemption"--_Realms of War_(2008)  (Elaith is called upon to help the Wealdath's elves.)
+"Redemption"-- _Realms of War_(2008)  (Elaith is called upon to help the Wealdath's elves.)
 
 **Graphic Novels:**
 
