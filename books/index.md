@@ -25,24 +25,11 @@ title: Books
 
 ##### **Starlight & Shadows trilogy**
 
-
-
-
-[_Daughter of the Drow_](http://www.elainecunningham.com/books/forgotten-realms/daughter-of-the-drow-info/)
-
-
-
+[_Daughter of the Drow_]({{ site.baseurl }}{% link books/forgotten-realms/daughter-of-the-drow-info.md %})
 
 [_Tangled Webs_](http://www.elainecunningham.com/books/forgotten-realms/tangled-webs-info/)
 
-
-
-
 [_Windwalker_](http://www.elainecunningham.com/books/forgotten-realms/windwalker-info/)
-
-
-
-
 
 ##### **Counselors & Kings trilogy**
 
