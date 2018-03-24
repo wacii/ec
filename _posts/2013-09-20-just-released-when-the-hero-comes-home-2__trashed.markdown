@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-09-20 17:08:29+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/just-released-when-the-hero-comes-home-2__trashed/
+
 published: false
 slug: just-released-when-the-hero-comes-home-2__trashed
 title: 'Just released: When the Hero Comes Home 2'
-wordpress_id: 2835
+
 categories:
 - Short Fiction
 ---

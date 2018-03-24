@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-11-07 21:34:00+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-hedvig-people-places/
+
 slug: sevrin-lore-hedvig-people-places
 title: 'SEVRIN LORE:  Hedvig'
-wordpress_id: 1401
+
 tags:
 - Hedvig
 ---

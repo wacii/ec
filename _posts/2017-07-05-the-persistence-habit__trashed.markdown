@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-07-05 13:50:07+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/the-persistence-habit__trashed/
+
 published: false
 slug: the-persistence-habit__trashed
 title: The persistence habit
-wordpress_id: 4320
+
 categories:
 - Writing about writing
 ---

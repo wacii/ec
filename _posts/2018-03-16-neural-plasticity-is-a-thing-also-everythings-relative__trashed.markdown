@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2018-03-16 13:44:29+00:00
 layout: single
-link: http://www.elainecunningham.com/learning/neural-plasticity-is-a-thing-also-everythings-relative__trashed/
+
 published: false
 slug: neural-plasticity-is-a-thing-also-everythings-relative__trashed
 title: Neural plasticity is a thing. Also, everything's relative.
-wordpress_id: 4799
+
 categories:
 - Learning
 ---

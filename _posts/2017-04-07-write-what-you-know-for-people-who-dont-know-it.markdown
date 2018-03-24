@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-04-07 13:11:24+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/write-what-you-know-for-people-who-dont-know-it/
+
 slug: write-what-you-know-for-people-who-dont-know-it
 title: Write what you know, for people who don't know it.
-wordpress_id: 4003
+
 categories:
 - Writing about writing
 ---

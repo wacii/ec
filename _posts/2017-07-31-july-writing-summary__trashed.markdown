@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-07-31 11:47:54+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-updates/july-writing-summary__trashed/
+
 published: false
 slug: july-writing-summary__trashed
 title: July writing summary
-wordpress_id: 4312
+
 categories:
 - Writing updates
 ---

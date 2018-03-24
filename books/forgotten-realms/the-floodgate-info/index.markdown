@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-12-20 09:07:32+00:00
 layout: single
-link: http://www.elainecunningham.com/books/forgotten-realms/the-floodgate-info/
+
 slug: the-floodgate-info
 title: The Floodgate
-wordpress_id: 2354
+
 ---
 
 **Book 2 of the Counselors & Kings trilogy.**

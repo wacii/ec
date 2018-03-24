@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-10-03 13:55:33+00:00
 layout: single
-link: http://www.elainecunningham.com/book-reviews/renaissance-magazine-issue-112__trashed/
+
 published: false
 slug: renaissance-magazine-issue-112__trashed
 title: 'Renaissance Magazine Issue #112'
-wordpress_id: 4541
+
 categories:
 - Book reviews
 - Renaissance history

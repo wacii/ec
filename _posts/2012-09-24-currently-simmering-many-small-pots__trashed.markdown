@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-09-24 14:39:49+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/currently-simmering-many-small-pots__trashed/
+
 published: false
 slug: currently-simmering-many-small-pots__trashed
 title: 'Currently simmering: Many small pots'
-wordpress_id: 2134
+
 categories:
 - Short Fiction
 ---

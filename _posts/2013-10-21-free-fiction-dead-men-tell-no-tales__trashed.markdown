@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-10-21 17:23:25+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/free-fiction-dead-men-tell-no-tales__trashed/
+
 published: false
 slug: free-fiction-dead-men-tell-no-tales__trashed
 title: 'Free fiction: Dead Men Tell No Tales'
-wordpress_id: 2858
+
 categories:
 - Short Fiction
 ---

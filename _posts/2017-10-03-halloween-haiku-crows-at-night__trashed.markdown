@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-10-03 13:37:43+00:00
 layout: single
-link: http://www.elainecunningham.com/poetry/halloween-haiku-crows-at-night__trashed/
+
 published: false
 slug: halloween-haiku-crows-at-night__trashed
 title: 'Halloween Haiku: Crows at night'
-wordpress_id: 4533
+
 categories:
 - Halloween
 - Poetry

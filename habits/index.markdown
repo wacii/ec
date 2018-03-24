@@ -1,12 +1,12 @@
 ---
-author: zerobyte
+
 comments: false
 date: 2016-12-08 02:38:52+00:00
 layout: single
-link: http://www.elainecunningham.com/habits/
+
 slug: habits
 title: Habits
-wordpress_id: 3649
+
 ---
 
 ![]({{ "/assets/Categories-Vector-Art-FINAL-296x300.jpg" | absolute_url }})Three years ago, I started a serious exploration of habits--what they are, why they matter, how to build them, and how to change them. This became a personal obsession and a family project. We've been working on a web app called GIDIG that's a toolkit for habit acquisition.

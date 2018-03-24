@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-01-31 12:00:40+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/writing-update-wrapping-up-january-diving-into-february__trashed/
+
 published: false
 slug: writing-update-wrapping-up-january-diving-into-february__trashed
 title: 'Writing update: January'
-wordpress_id: 3749
+
 categories:
 - Writing about writing
 ---

@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-09-15 16:39:30+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-green-blooded-elves/
+
 slug: science-magic-green-blooded-elves
 title: 'SEVRIN LORE: Green-blooded elves'
-wordpress_id: 904
+
 ---
 
 ![]({{ "/assets/Wood-Elf.jpg" | absolute_url }})The blood of elves is not literally green, but it does contain a mysterious substance that has more in common with plants than with anything found in any other warm-blooded creature.

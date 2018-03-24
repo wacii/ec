@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-12-11 13:00:42+00:00
 layout: single
-link: http://www.elainecunningham.com/books/forgotten-realms/elfshadow-info/
+
 slug: elfshadow-info
 title: Elfshadow
-wordpress_id: 2240
+
 ---
 
 ![Elfshadow]({{ "/assets/Elfshadow-174x300.jpg" | absolute_url }})Initially published in 1991 as a stand-alone novel in the Harpers series, [**_Elfshadow_**](https://www.amazon.com/gp/product/1560761172/ref=as_li_tl?ie=UTF8&tag=elainecu-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1560761172&linkId=0dc699fa2391dff68a799a4a0e31efa6) was later reprinted as book 1 of the Songs & Swords series.  These tales follow the adventures of half-elf fighter Arilyn Moonblade, nobleman Danilo Thann, and elven crime lord Elaith Craulnober.

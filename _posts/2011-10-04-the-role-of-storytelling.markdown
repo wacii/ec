@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-10-04 14:40:44+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/the-role-of-storytelling/
+
 slug: the-role-of-storytelling
 title: 'SEVRIN LORE: The role of storytelling'
-wordpress_id: 1116
+
 ---
 
 ![]({{ "/assets/Vishni-crop.jpg" | absolute_url }})Why are exiled fairies sentenced to collect interesting tales from the mortal realm?

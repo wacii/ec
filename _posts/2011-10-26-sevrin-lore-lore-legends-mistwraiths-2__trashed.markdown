@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-10-26 18:33:39+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-lore-legends-mistwraiths-2__trashed/
+
 published: false
 slug: sevrin-lore-lore-legends-mistwraiths-2__trashed
 title: 'SEVRIN LORE : "Mistwraiths"'
-wordpress_id: 3206
+
 ---
 
 If you find yourself out late on a misty summer night, don't expect to find the windows unshuttered and a light burning to welcome you home. Everyone knows lantern wicks draw more than oil.

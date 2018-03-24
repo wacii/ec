@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-03-14 20:08:39+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-selkies/
+
 slug: sevrin-lore-selkies
 title: 'SEVRIN LORE:  Selkies'
-wordpress_id: 1735
+
 ---
 
 ![]({{ "/assets/SealpupJohnGilesPA4.jpg" | absolute_url }})Seals are a common sight in the waters around Sevrin, but they are most likely to be found sunning on the rocks surrounding the forest island of Sveonis.  Tales of selkies--seals that can take on human form--are common fireside tales, but few people in Sevrin believe they truly exist.

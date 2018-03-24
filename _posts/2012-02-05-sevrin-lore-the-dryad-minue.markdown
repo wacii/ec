@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-02-05 01:08:29+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-the-dryad-minue/
+
 slug: sevrin-lore-the-dryad-minue
 title: 'SEVRIN LORE:  The dryad Minue'
-wordpress_id: 1630
+
 ---
 
 ![]({{ "/assets/Dryad-Schroeder.jpg" | absolute_url }})Elves belong to the natural world, and their ties to the land, the stars, and the seasons are deep and profound. Fairies belong to the fey realms, a strange and alien place on another plane of existence. But there are portals between the worlds, and beings who have a place in both. One of these creatures is Minue, a dryad who makes her home in the deep forests surrounding Starsingers grove.

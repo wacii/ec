@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-09-14 11:56:33+00:00
 layout: single
-link: http://www.elainecunningham.com/poetry/halloween-haiku__trashed/
+
 published: false
 slug: halloween-haiku__trashed
 title: Halloween Haiku
-wordpress_id: 4481
+
 categories:
 - Halloween
 - Poetry

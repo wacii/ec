@@ -1,12 +1,12 @@
 ---
-author: zerobyte
+
 comments: false
 date: 2017-07-02 01:47:50+00:00
 layout: single
-link: http://www.elainecunningham.com/upcoming-events-2/
+
 slug: upcoming-events-2
 title: 2018 events
-wordpress_id: 4314
+
 ---
 
 ******Boskone, **February 16-18, 2018, Westin Waterfront Hotel, Boston

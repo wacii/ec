@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-10-04 13:08:49+00:00
 layout: single
-link: http://www.elainecunningham.com/halloween/october-2018__trashed/
+
 published: false
 slug: october-2018__trashed
 title: October 2018
-wordpress_id: 4547
+
 categories:
 - Halloween
 ---

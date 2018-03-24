@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-08-05 00:20:25+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-reading-the-lees/
+
 slug: science-magic-reading-the-lees
 title: 'SEVRIN LORE: Reading the lees'
-wordpress_id: 555
+
 ---
 
 ![]({{ "/assets/mead-barrels.jpg" | absolute_url }})Folk traditions are often firmly rooted in the magic of another age. So it is with the custom of fortune telling by "reading the lees"--seeking patterns in the sediment left in the bottom of a mead barrel.

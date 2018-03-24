@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-12-18 17:54:37+00:00
 layout: single
-link: http://www.elainecunningham.com/books/forgotten-realms/windwalker-info/
+
 slug: windwalker-info
 title: Windwalker
-wordpress_id: 2339
+
 ---
 
 _**![Windwalker]({{ "/assets/Windwalker-178x300.jpg" | absolute_url }})Windwalker, **_the final book in the Starlight & Shadows trilogy, picks up right after the events of _**[Tangled Webs](http://www.elainecunningham.com/tangled-webs-info)**_. Now that Liriel's quest is complete, she returns with Fyodor to Rashemen, a land ruled by masked witches and surrounded by enemies that test the mettle of her berserker defenders.  But Fyodor's homecoming is not at all what Liriel expected...

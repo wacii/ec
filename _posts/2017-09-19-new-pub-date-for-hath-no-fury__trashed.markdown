@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-09-19 12:57:31+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/new-pub-date-for-hath-no-fury__trashed/
+
 published: false
 slug: new-pub-date-for-hath-no-fury__trashed
 title: New pub date for HATH NO FURY
-wordpress_id: 4488
+
 categories:
 - New releases
 - Short Fiction

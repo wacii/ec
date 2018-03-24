@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-11-30 14:44:57+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-nimbolk-people-and-places/
+
 slug: sevrin-lore-nimbolk-people-and-places
 title: 'SEVRIN LORE:  Nimbolk'
-wordpress_id: 1466
+
 ---
 
 ![]({{ "/assets/Nimbolk.jpg" | absolute_url }})Nimbolk is an warrior of Mistheim, the elven settlement hidden deep within the mainland's northern forests.  Though he has never set foot on Sevrin, he is well acquainted with one of its current residents. He grew up with the elf who calls herself Honor. Throughout their youth they were friendly rivals who competed at arms, feats of skill, and nearly everything else. But the thing Nimbolk most desired, the role of queen's champion, went to Honor.

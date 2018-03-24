@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-01-13 16:00:26+00:00
 layout: single
-link: http://www.elainecunningham.com/audio-books/more-audio-book-releases-forgotten-realms-anthologies__trashed/
+
 published: false
 slug: more-audio-book-releases-forgotten-realms-anthologies__trashed
 title: More audio book releases--Forgotten Realms anthologies
-wordpress_id: 2420
+
 categories:
 - Audio books
 ---

@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-11-01 10:04:57+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-updates/october-writing-summary__trashed/
+
 published: false
 slug: october-writing-summary__trashed
 title: October Writing Summary
-wordpress_id: 4509
+
 categories:
 - Writing updates
 ---

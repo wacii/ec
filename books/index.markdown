@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-05-25 16:54:50+00:00
 layout: single
-link: http://www.elainecunningham.com/books/
+
 slug: books
 title: Books
-wordpress_id: 26
+
 ---
 
 ### **FANTASY NOVELS**

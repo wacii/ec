@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-05-04 01:10:50+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/__trashed/
+
 slug: __trashed
 title: Cookies, anyone?
-wordpress_id: 4039
+
 categories:
 - Writing about writing
 ---

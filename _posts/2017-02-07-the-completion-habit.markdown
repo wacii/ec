@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-02-07 19:10:42+00:00
 layout: single
-link: http://www.elainecunningham.com/habits-goals/the-completion-habit/
+
 slug: the-completion-habit
 title: The Completion Habit
-wordpress_id: 3809
+
 categories:
 - Habits
 - Writing about writing

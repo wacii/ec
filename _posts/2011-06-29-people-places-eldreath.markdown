@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-06-29 14:04:40+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-eldreath/
+
 slug: people-places-eldreath
 title: 'SEVRIN LORE: Eldreath'
-wordpress_id: 295
+
 tags:
 - Council of Adepts
 - Eldreath

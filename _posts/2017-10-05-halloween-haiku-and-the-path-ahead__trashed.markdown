@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-10-05 13:08:40+00:00
 layout: single
-link: http://www.elainecunningham.com/habits-goals/halloween-haiku-and-the-path-ahead__trashed/
+
 published: false
 slug: halloween-haiku-and-the-path-ahead__trashed
 title: Halloween Haiku, and the path ahead
-wordpress_id: 4553
+
 categories:
 - Habits
 - Halloween

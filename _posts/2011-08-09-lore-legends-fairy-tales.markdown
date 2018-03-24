@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-08-09 10:32:00+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/lore-legends-fairy-tales/
+
 slug: lore-legends-fairy-tales
 title: 'SEVRIN LORE: Fairy Tales'
-wordpress_id: 598
+
 tags:
 - Fairy tales
 - Rainfeather Pearl

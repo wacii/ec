@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-11-10 02:07:53+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-philandras-philters-science-magic/
+
 slug: sevrin-lore-philandras-philters-science-magic
 title: 'SEVRIN LORE: Philandra''s Philters'
-wordpress_id: 1414
+
 ---
 
 Two doors down from the Cat & Cauldron, which is as cozy and welcoming a tavern as anyone could wish to find, looms a narrow stone building as grim and forbidding as any building has a right to be.

@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-08-06 12:53:40+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-updates/2088__trashed/
+
 published: false
 slug: 2088__trashed
 title: EVERMEET now available as an eBook
-wordpress_id: 2088
+
 categories:
 - Writing updates
 ---

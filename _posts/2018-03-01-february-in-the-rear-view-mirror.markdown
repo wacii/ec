@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2018-03-01 14:12:59+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/february-in-the-rear-view-mirror/
+
 slug: february-in-the-rear-view-mirror
 title: February in the rear view mirror
-wordpress_id: 4724
+
 categories:
 - Short Fiction
 - Work in progress

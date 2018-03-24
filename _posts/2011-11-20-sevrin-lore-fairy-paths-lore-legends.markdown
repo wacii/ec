@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-11-20 16:56:36+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-fairy-paths-lore-legends/
+
 slug: sevrin-lore-fairy-paths-lore-legends
 title: 'SEVRIN LORE: Fairy paths'
-wordpress_id: 1446
+
 ---
 
 ![]({{ "/assets/Moonbeams1.jpg" | absolute_url }})In Sevrin's folklore, moonbeams and sunbeams provide pathways for the fey, who travel quickly and invisibly along the beams of light.  The young, the highly credulous, and the intoxicated have been known to take to the woods with fairy sieves--wooden hoops that resemble hand drums, but with fine mesh rather than solid hide--in hope of capturing a traveling fey in mid-slide.

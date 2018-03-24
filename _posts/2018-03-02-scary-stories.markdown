@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2018-03-02 15:45:53+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/scary-stories/
+
 slug: scary-stories
 title: Scary Stories
-wordpress_id: 4750
+
 categories:
 - HWA (Horror Writers of America)
 - Short Fiction

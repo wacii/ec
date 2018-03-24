@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2016-08-09 01:53:40+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/hath-no-fury-kickstarter-has-launched__trashed/
+
 published: false
 slug: hath-no-fury-kickstarter-has-launched__trashed
 title: 'Update:  HATH NO FURY Kickstarter has funded!'
-wordpress_id: 3521
+
 categories:
 - Short Fiction
 ---

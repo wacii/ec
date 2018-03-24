@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-07-07 13:14:49+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/constructing-the-iceburg__trashed/
+
 published: false
 slug: constructing-the-iceburg__trashed
 title: Constructing the iceburg
-wordpress_id: 4330
+
 categories:
 - Forgotten Realms
 - Writing about writing

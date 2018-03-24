@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-07-23 05:48:35+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-updates/website-update__trashed/
+
 published: false
 slug: website-update__trashed
 title: Website update
-wordpress_id: 2065
+
 categories:
 - Writing updates
 ---

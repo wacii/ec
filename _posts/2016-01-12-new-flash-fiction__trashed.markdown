@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2016-01-12 23:35:36+00:00
 layout: single
-link: http://www.elainecunningham.com/free-online-fiction/new-flash-fiction__trashed/
+
 published: false
 slug: new-flash-fiction__trashed
 title: New flash fiction
-wordpress_id: 3453
+
 categories:
 - Free online fiction
 - Short Fiction

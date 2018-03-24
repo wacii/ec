@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-02-25 14:20:06+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/so-bad-yet-so-good__trashed/
+
 published: false
 slug: so-bad-yet-so-good__trashed
 title: So bad, yet so good...
-wordpress_id: 3849
+
 categories:
 - Writing about writing
 tags:

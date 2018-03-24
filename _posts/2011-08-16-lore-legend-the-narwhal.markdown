@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-08-16 18:16:15+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/lore-legend-the-narwhal/
+
 slug: lore-legend-the-narwhal
 title: 'SEVRIN LORE: The Narwhal'
-wordpress_id: 697
+
 tags:
 - adepts
 - Eldreath

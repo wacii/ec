@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-12-10 20:55:30+00:00
 layout: single
-link: http://www.elainecunningham.com/books/pathfinder-tales/winter-witch-info/
+
 slug: winter-witch-info
 title: Winter Witch
-wordpress_id: 2224
+
 ---
 
 ![]({{ "/assets/Winter-Witch-188x300.jpg" | absolute_url }})Snowbound Irrisen is home to a race of witches descended from the mysterious Baba Yaga. They do as they please, take what and whom they want--including  a magically-gifted young girl from a neighboring land. No one is powerful enough to challenge them.

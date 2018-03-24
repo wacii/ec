@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-07-07 16:23:01+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-and-magic-starsong/
+
 slug: science-and-magic-starsong
 title: 'SEVRIN LORE: Starsong'
-wordpress_id: 364
+
 tags:
 - crystal
 - Elves

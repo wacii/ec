@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-08-28 19:24:03+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/setting-as-character-part-2-unique-knowledge/
+
 slug: setting-as-character-part-2-unique-knowledge
 title: 'Setting as character, Part 2:  Unique knowledge'
-wordpress_id: 4422
+
 categories:
 - Writing about writing
 - Writing process

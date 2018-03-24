@@ -1,12 +1,8 @@
 ---
-author: zerobyte
-comments: true
 date: 2011-06-21 17:00:28+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/legends-lore-summer-solstice/
 slug: legends-lore-summer-solstice
 title: 'SEVRIN LORE:  Summer Solstice'
-wordpress_id: 263
 tags:
 - fairies
 - mead

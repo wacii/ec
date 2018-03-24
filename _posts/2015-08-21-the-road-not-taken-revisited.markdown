@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2015-08-21 14:53:03+00:00
 layout: single
-link: http://www.elainecunningham.com/poetry/the-road-not-taken-revisited/
+
 slug: the-road-not-taken-revisited
 title: The Road Not Taken, revisited
-wordpress_id: 3326
+
 categories:
 - Poetry
 ---

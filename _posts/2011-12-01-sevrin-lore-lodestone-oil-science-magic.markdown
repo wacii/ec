@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-12-01 17:08:21+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-lodestone-oil-science-magic/
+
 slug: sevrin-lore-lodestone-oil-science-magic
 title: 'SEVRIN LORE: Lodestone Oil'
-wordpress_id: 1474
+
 ---
 
 Sevrinspire, the port city of Heartstone, Sevrin's central and l![]({{ "/assets/Viking.jpg" | absolute_url }})argest island, is a haven for artists who work in stone.  Over the past ten years, dozens of commissioned statues have taken up residence near public buildings, along busy streets, and beside the harbors. All are carved from blocks of dull grey stone, provided by the adept Rhendish, who also pays the sculptors and provides the  pedestals on which the statues stand.

@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-09-27 20:18:38+00:00
 layout: single
-link: http://www.elainecunningham.com/poetry/halloween-haiku-and-limericks__trashed/
+
 published: false
 slug: halloween-haiku-and-limericks__trashed
 title: Halloween Haiku (and limericks)
-wordpress_id: 4502
+
 categories:
 - Halloween
 - Poetry

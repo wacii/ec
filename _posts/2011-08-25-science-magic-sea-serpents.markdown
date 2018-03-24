@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-08-25 15:03:24+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-sea-serpents/
+
 slug: science-magic-sea-serpents
 title: 'SEVRIN LORE: Sea serpents'
-wordpress_id: 707
+
 tags:
 - Blue Selkie
 - sea dragons

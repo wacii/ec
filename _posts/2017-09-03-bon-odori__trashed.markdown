@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-09-03 21:13:53+00:00
 layout: single
-link: http://www.elainecunningham.com/free-online-fiction/bon-odori__trashed/
+
 published: false
 slug: bon-odori__trashed
 title: Bon Odori
-wordpress_id: 4461
+
 categories:
 - Free online fiction
 - Poetry

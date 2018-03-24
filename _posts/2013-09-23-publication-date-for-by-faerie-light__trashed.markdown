@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-09-23 13:36:20+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/publication-date-for-by-faerie-light__trashed/
+
 published: false
 slug: publication-date-for-by-faerie-light__trashed
 title: Publication date for BY FAERIE LIGHT
-wordpress_id: 2838
+
 categories:
 - Short Fiction
 ---

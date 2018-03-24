@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-02-24 15:22:19+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-post-by-the-trees-of-sveonis-2/
+
 slug: sevrin-lore-post-by-the-trees-of-sveonis-2
 title: 'SEVRIN LORE: "By the Trees of Sveonis"'
-wordpress_id: 3208
+
 tags:
 - Sveonis
 ---

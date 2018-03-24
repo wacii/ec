@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2014-06-09 13:59:50+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/toc-for-madness-on-the-orient-express-2__trashed/
+
 published: false
 slug: toc-for-madness-on-the-orient-express-2__trashed
 title: ToC for "Madness on the Orient Express"
-wordpress_id: 3229
+
 categories:
 - Short Fiction
 ---

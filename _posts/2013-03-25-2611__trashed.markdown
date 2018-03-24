@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-03-25 19:58:36+00:00
 layout: single
-link: http://www.elainecunningham.com/audio-books/2611__trashed/
+
 published: false
 slug: 2611__trashed
 title: The Magehound, now available as an audio book
-wordpress_id: 2611
+
 categories:
 - Audio books
 ---

@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-02-28 21:51:55+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/villains-we-love-to-hate-and-hate-to-love__trashed/
+
 published: false
 slug: villains-we-love-to-hate-and-hate-to-love__trashed
 title: Villains we love to hate, and hate to love
-wordpress_id: 3854
+
 categories:
 - Writing about writing
 ---

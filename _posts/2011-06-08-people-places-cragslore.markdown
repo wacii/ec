@@ -1,12 +1,8 @@
 ---
-author: zerobyte
-comments: true
 date: 2011-06-08 11:13:32+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-cragslore/
 slug: people-places-cragslore
 title: 'SEVRIN LORE: Cragslore'
-wordpress_id: 199
 tags:
 - Carmot
 - Cragslore

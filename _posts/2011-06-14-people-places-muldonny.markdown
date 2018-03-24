@@ -1,12 +1,8 @@
 ---
-author: zerobyte
-comments: true
 date: 2011-06-14 16:02:42+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-muldonny/
 slug: people-places-muldonny
 title: 'SEVRIN LORE: Muldonny'
-wordpress_id: 239
 tags:
 - adept
 - alchemical weapons

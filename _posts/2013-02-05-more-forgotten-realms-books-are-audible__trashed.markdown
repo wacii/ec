@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-02-05 13:56:56+00:00
 layout: single
-link: http://www.elainecunningham.com/audio-books/more-forgotten-realms-books-are-audible__trashed/
+
 published: false
 slug: more-forgotten-realms-books-are-audible__trashed
 title: More Forgotten Realms books are Audible
-wordpress_id: 2492
+
 categories:
 - Audio books
 ---

@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-09-01 20:19:26+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-the-old-gods/
+
 slug: science-magic-the-old-gods
 title: 'SEVRIN LORE: The old gods'
-wordpress_id: 814
+
 tags:
 - Annivan
 ---

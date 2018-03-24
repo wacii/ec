@@ -1,12 +1,8 @@
 ---
-author: zerobyte
-comments: true
 date: 2011-06-01 17:12:54+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-rhendish-manor/
 slug: people-places-rhendish-manor
 title: 'SEVRIN LORE: Rhendish Manor'
-wordpress_id: 153
 tags:
 - adept
 - alchemist

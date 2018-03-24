@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-06-09 14:21:59+00:00
 layout: single
-link: http://www.elainecunningham.com/book-reviews/what-im-reading-how-to-be-a-tudor__trashed/
+
 published: false
 slug: what-im-reading-how-to-be-a-tudor__trashed
 title: 'What I''m reading: How to Be a Tudor'
-wordpress_id: 4273
+
 categories:
 - Book reviews
 ---

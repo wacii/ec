@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-07-19 16:07:12+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/lore-legends-ghost-song/
+
 slug: lore-legends-ghost-song
 title: 'SEVRIN LORE: Ghost Song'
-wordpress_id: 437
+
 tags:
 - fiddlers
 - ghost song

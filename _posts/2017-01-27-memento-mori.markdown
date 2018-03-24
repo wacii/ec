@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-01-27 02:25:29+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/memento-mori/
+
 slug: memento-mori
 title: MEMENTO MORI
-wordpress_id: 3759
+
 categories:
 - Short Fiction
 ---

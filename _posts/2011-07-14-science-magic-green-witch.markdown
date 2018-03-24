@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-07-14 13:10:33+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-green-witch/
+
 slug: science-magic-green-witch
 title: 'SEVRIN LORE:  Green witch'
-wordpress_id: 416
+
 tags:
 - Green Witch
 - herbs

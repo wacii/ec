@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-05-19 14:21:02+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/writing-with-my-feet__trashed/
+
 published: false
 slug: writing-with-my-feet__trashed
 title: Writing with my feet
-wordpress_id: 4165
+
 categories:
 - Writing about writing
 ---

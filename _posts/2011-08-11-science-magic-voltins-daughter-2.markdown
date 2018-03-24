@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-08-11 10:00:14+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-voltins-daughter-2/
+
 slug: science-magic-voltins-daughter-2
 title: 'SEVRIN LORE: Voltin''s Daughter'
-wordpress_id: 3201
+
 tags:
 - astronomers
 - Ellamir

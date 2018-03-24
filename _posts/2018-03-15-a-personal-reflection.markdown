@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2018-03-15 12:29:03+00:00
 layout: single
-link: http://www.elainecunningham.com/life/a-personal-reflection/
+
 slug: a-personal-reflection
 title: A personal reflection
-wordpress_id: 4794
+
 categories:
 - Life
 ---

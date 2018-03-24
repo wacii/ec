@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-10-19 13:36:31+00:00
 layout: single
-link: http://www.elainecunningham.com/halloween/this-weekend-halloween-book-festival__trashed/
+
 published: false
 slug: this-weekend-halloween-book-festival__trashed
 title: 'This weekend: Halloween Book Festival'
-wordpress_id: 4586
+
 categories:
 - Book festivals
 - Halloween

@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-12-23 19:18:49+00:00
 layout: single
-link: http://www.elainecunningham.com/books/forgotten-realms/the-city-of-splendors-info/
+
 slug: the-city-of-splendors-info
 title: The City of Splendors
-wordpress_id: 2386
+
 ---
 
 ![The_City_of_Splendors_novel]({{ "/assets/The_City_of_Splendors_novel-185x300.jpg" | absolute_url }})No one in Waterdeep expects much from the swaggering band of young noblemen, or from the daughters of a tradesman. But heroism takes many forms, and a great city is built on many small stories...

@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-07-23 13:38:21+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-updates/foreshadows-the-ghost-of-zero__trashed/
+
 published: false
 slug: foreshadows-the-ghost-of-zero__trashed
 title: 'Foreshadows: The Ghost of Zero'
-wordpress_id: 2069
+
 categories:
 - Writing updates
 ---

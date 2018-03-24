@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-05-01 10:00:27+00:00
 layout: single
-link: http://www.elainecunningham.com/book-reviews/april-writing-update__trashed/
+
 published: false
 slug: april-writing-update__trashed
 title: April writing update
-wordpress_id: 3970
+
 categories:
 - Book reviews
 - Short Fiction

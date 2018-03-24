@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-04-04 12:24:18+00:00
 layout: single
-link: http://www.elainecunningham.com/book-reviews/by-faerie-light-one-review-and-two-ideas__trashed/
+
 published: false
 slug: by-faerie-light-one-review-and-two-ideas__trashed
 title: 'By Faerie Light: One review and two ideas'
-wordpress_id: 3962
+
 categories:
 - Book reviews
 - Games

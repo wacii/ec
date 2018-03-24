@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-03-28 18:43:29+00:00
 layout: single
-link: http://www.elainecunningham.com/games/you-need-a-new-card-game-yes-really__trashed/
+
 published: false
 slug: you-need-a-new-card-game-yes-really__trashed
 title: Master of Spies Kickstarter!
-wordpress_id: 3942
+
 categories:
 - Games
 ---

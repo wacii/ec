@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-11-30 21:41:12+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-updates/november-writing-summary__trashed/
+
 published: false
 slug: november-writing-summary__trashed
 title: November writing summary
-wordpress_id: 4594
+
 categories:
 - Work in progress
 - Writing updates

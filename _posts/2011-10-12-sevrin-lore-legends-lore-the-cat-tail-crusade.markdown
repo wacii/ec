@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-10-12 15:04:14+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-legends-lore-the-cat-tail-crusade/
+
 slug: sevrin-lore-legends-lore-the-cat-tail-crusade
 title: 'SEVRIN LORE: The Cat Tail Crusade'
-wordpress_id: 1193
+
 tags:
 - cats
 ---

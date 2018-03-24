@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2015-04-21 18:42:04+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/madness__trashed/
+
 published: false
 slug: madness__trashed
 title: Madness!
-wordpress_id: 3233
+
 categories:
 - Short Fiction
 ---

@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-07-21 00:15:11+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-and-places-captain-volgo/
+
 slug: people-and-places-captain-volgo
 title: 'SEVRIN LORE: Captain Volgo'
-wordpress_id: 444
+
 tags:
 - Gatherers
 - Rhendish

@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2015-04-28 13:16:27+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/im-headed-for-aetaltis-want-to-come-with__trashed/
+
 published: false
 slug: im-headed-for-aetaltis-want-to-come-with__trashed
 title: I'm headed for Aetaltis. Want to come with?
-wordpress_id: 3256
+
 categories:
 - Short Fiction
 ---

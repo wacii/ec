@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-03-22 13:24:31+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/killing-it-softly-now-in-hardcover__trashed/
+
 published: false
 slug: killing-it-softly-now-in-hardcover__trashed
 title: KILLING IT SOFTLY, now in hardcover
-wordpress_id: 3911
+
 categories:
 - New releases
 - Short Fiction

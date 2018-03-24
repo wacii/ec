@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-02-16 00:30:04+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-faunmere/
+
 slug: sevrin-lore-faunmere
 title: 'SEVRIN LORE: Faunmere'
-wordpress_id: 1661
+
 ---
 
 ![]({{ "/assets/Faunmere.jpg" | absolute_url }})To the south of Stormwall, the fortress island guarding the approach to the Sevrin archipelago, lies a tiny, wooded island known as Faunmere.  Like most of Sevrin's islands, it offers few hospitable havens for boats.  The water drops off suddenly, and thick brambles grow nearly to the water's edge. The only good place to pull a rowboat ashore is a small cove with a narrow, gravel-strewn beach.

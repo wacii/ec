@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-02-23 16:42:17+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/fantasy-epics-boy-books/
+
 slug: fantasy-epics-boy-books
 title: 'Fantasy epics: "Boy Books?"'
-wordpress_id: 2567
+
 categories:
 - Writing about writing
 ---

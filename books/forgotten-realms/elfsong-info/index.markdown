@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-12-12 17:24:32+00:00
 layout: single
-link: http://www.elainecunningham.com/books/forgotten-realms/elfsong-info/
+
 slug: elfsong-info
 title: Elfsong
-wordpress_id: 2260
+
 ---
 
 ![Elfsong]({{ "/assets/Elfsong-184x300.jpg" | absolute_url }}) This story is an homage to the bards of Second Edition AD&D. The C_omplete Bard's Handbook _opened up new possibilities for Forgotten Realms bards, and _Elfsong_ explores most of them--skalds, minstrels, a riddlemaster--and adds a newly invented class: political cartoonist, in the form of the dwarf maiden Morgalla and her satirical and sometimes scathing depictions of the rich and powerful.

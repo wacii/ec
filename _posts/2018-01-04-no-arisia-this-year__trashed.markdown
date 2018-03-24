@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2018-01-04 13:13:54+00:00
 layout: single
-link: http://www.elainecunningham.com/conventions/no-arisia-this-year__trashed/
+
 published: false
 slug: no-arisia-this-year__trashed
 title: No Arisia this year
-wordpress_id: 4703
+
 categories:
 - Conventions
 ---

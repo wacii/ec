@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-09-22 19:33:54+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-the-thorn/
+
 slug: science-magic-the-thorn
 title: 'SEVRIN LORE: The Thorn'
-wordpress_id: 945
+
 tags:
 - carmite
 - crystal

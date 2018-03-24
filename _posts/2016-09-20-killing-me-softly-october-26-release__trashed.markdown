@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2016-09-20 14:27:44+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/killing-me-softly-october-26-release__trashed/
+
 published: false
 slug: killing-me-softly-october-26-release__trashed
 title: 'Update: KILLING IT SOFTLY release moved to October 12'
-wordpress_id: 3573
+
 categories:
 - Short Fiction
 - Urban fantasy

@@ -1,12 +1,8 @@
 ---
-author: zerobyte
-comments: true
 date: 2011-06-07 12:23:23+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/lore-legends-carmot-dwarves/
 slug: lore-legends-carmot-dwarves
 title: 'SEVRIN LORE: Carmot dwarves'
-wordpress_id: 190
 tags:
 - adept
 - alchemist

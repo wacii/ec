@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-09-30 12:16:58+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-updates/september-writing-update__trashed/
+
 published: false
 slug: september-writing-update__trashed
 title: September writing update
-wordpress_id: 4449
+
 categories:
 - Writing updates
 ---

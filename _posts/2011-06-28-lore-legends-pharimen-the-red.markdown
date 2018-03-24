@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-06-28 13:50:17+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/lore-legends-pharimen-the-red/
+
 slug: lore-legends-pharimen-the-red
 title: 'SEVRIN LORE: Pharimen the Red'
-wordpress_id: 278
+
 tags:
 - Elves
 - Kordessa

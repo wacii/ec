@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-06-02 01:37:55+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-updates/may-writing-summary__trashed/
+
 published: false
 slug: may-writing-summary__trashed
 title: May writing summary
-wordpress_id: 4044
+
 categories:
 - Writing updates
 ---

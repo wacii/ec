@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-12-15 11:09:23+00:00
 layout: single
-link: http://www.elainecunningham.com/books/forgotten-realms/the-dream-spheres-info/
+
 slug: the-dream-spheres-info
 title: The Dream Spheres
-wordpress_id: 2308
+
 ---
 
 ![Dream Spheres]({{ "/assets/Dream-Spheres-182x300.jpg" | absolute_url }})This is the first novel that was actually written for the Songs & Swords series. It's also the last published novel in the series, though I'm certain that Arilyn and Danilo's adventures continue offstage.

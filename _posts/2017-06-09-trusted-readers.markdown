@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-06-09 13:16:30+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/trusted-readers/
+
 slug: trusted-readers
 title: Trusted Readers
-wordpress_id: 4263
+
 ---
 
 Yesterday I got revision notes from one of my favorite editors for a short story, and spent an hour in a Skype conversation with a Trusted Reader ON THE OTHER SIDE OF THE  GLOBE about another story.  (Digression:  I love Skype. It's pure magic.) The feedback from both gentlemen was invaluable, and will make both stories much stronger.

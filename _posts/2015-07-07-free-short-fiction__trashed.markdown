@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2015-07-07 12:19:25+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/free-short-fiction__trashed/
+
 published: false
 slug: free-short-fiction__trashed
 title: Free short fiction
-wordpress_id: 3300
+
 categories:
 - Short Fiction
 ---

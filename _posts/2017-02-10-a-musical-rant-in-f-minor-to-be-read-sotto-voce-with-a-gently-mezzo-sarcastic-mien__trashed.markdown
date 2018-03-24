@@ -1,14 +1,14 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-02-10 13:11:28+00:00
 layout: single
-link: http://www.elainecunningham.com/music/a-musical-rant-in-f-minor-to-be-read-sotto-voce-with-a-gently-mezzo-sarcastic-mien__trashed/
+
 published: false
 slug: a-musical-rant-in-f-minor-to-be-read-sotto-voce-with-a-gently-mezzo-sarcastic-mien__trashed
 title: A musical rant in F# minor, to be read sotto voce with a gently mezzo-sarcastic
   mien
-wordpress_id: 3818
+
 categories:
 - Music
 ---

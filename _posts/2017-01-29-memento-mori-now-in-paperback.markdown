@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-01-29 23:42:18+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/memento-mori-now-in-paperback/
+
 slug: memento-mori-now-in-paperback
 title: MEMENTO MORI, now in paperback
-wordpress_id: 3770
+
 categories:
 - Short Fiction
 ---

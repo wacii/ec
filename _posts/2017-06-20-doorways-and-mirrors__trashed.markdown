@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-06-20 12:22:35+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/doorways-and-mirrors__trashed/
+
 published: false
 slug: doorways-and-mirrors__trashed
 title: Doorways and mirrors
-wordpress_id: 4296
+
 categories:
 - Writing about writing
 ---

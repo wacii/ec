@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-09-20 00:28:02+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/cover-and-toc-for-sword-sorceress-32__trashed/
+
 published: false
 slug: cover-and-toc-for-sword-sorceress-32__trashed
 title: Cover and ToC for SWORD & SORCERESS 32
-wordpress_id: 4491
+
 categories:
 - New releases
 - Short Fiction

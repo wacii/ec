@@ -1,12 +1,8 @@
 ---
-author: zerobyte
-comments: true
 date: 2011-06-09 11:08:08+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-alchemy-in-sevrin/
 slug: science-magic-alchemy-in-sevrin
 title: 'SEVRIN LORE: Alchemy in Sevrin'
-wordpress_id: 210
 tags:
 - alchemy
 - alkahest

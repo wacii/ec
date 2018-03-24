@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-06-30 14:15:12+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-updates/june-writing-summary__trashed/
+
 published: false
 slug: june-writing-summary__trashed
 title: June writing summary
-wordpress_id: 4230
+
 categories:
 - Writing updates
 ---

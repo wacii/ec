@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-06-08 12:35:33+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/knight-in-the-silk-purse-the-fairest-flower__trashed/
+
 published: false
 slug: knight-in-the-silk-purse-the-fairest-flower__trashed
 title: 'Knight in the Silk Purse: "The Fairest Flower"'
-wordpress_id: 2708
+
 categories:
 - Short Fiction
 ---

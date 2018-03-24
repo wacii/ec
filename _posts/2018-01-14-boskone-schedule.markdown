@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2018-01-14 22:16:58+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/boskone-schedule/
+
 slug: boskone-schedule
 title: Boskone schedule!
-wordpress_id: 4709
+
 ---
 
 

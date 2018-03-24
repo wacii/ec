@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-04-20 13:10:58+00:00
 layout: single
-link: http://www.elainecunningham.com/audio-books/wizardwar-now-available-as-an-audio-book__trashed/
+
 published: false
 slug: wizardwar-now-available-as-an-audio-book__trashed
 title: Wizardwar, now available as an audio book
-wordpress_id: 2666
+
 categories:
 - Audio books
 ---

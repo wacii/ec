@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-01-04 14:49:56+00:00
 layout: single
-link: http://www.elainecunningham.com/books/forgotten-realms/the-best-of-the-realms-book-iii-the-stories-of-elaine-cunningham-info/
+
 slug: the-best-of-the-realms-book-iii-the-stories-of-elaine-cunningham-info
 title: 'The Best of the Realms Book III: The Stories of Elaine Cunningham'
-wordpress_id: 2393
+
 ---
 
 ![Best of the Realms Book 3]({{ "/assets/Best-of-the-Realms-Book-3.jpg" | absolute_url }})Published in 2007, this short story collection includes most of my Forgotten Realms short stories*, as well as a fairly long new tale, "The Knights of Samular," which ties up a few of the loose ends in the novel _[Thornhold](http://www.elainecunningham.com/books/forgotten-realms/thornhold-info/). _This was the only new story commissioned, but I tossed in a couple of extras. "Answered Prayers" checks in on Liriel and her elven sword-sisters ten years after the events of _[Windwalker](http://www.elainecunningham.com/books/forgotten-realms/windwalker-info/). _"Tribute" is a very short folktale--the sort of story that might be told to children on a winter night. It's an out-take from the novel _[City of Splendors](http://www.elainecunningham.com/books/forgotten-realms/the-city-of-splendors-info/)_, one of the tales a young nobleman was collecting as a gift for the infant king of Cormyr.  There's also "Elminster's Jest," an expanded version of the ballad Danilo's singing sword belts out in the novel _[Elfsong](http://www.elainecunningham.com/books/forgotten-realms/elfsong-info/)._

@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-09-07 17:19:04+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-sveonis/
+
 slug: people-places-sveonis
 title: 'SEVRIN LORE: Sveonis'
-wordpress_id: 847
+
 tags:
 - Book of Vishni's Exile
 - Fairy Falls

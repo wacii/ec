@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-08-31 20:11:40+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-farriandor-lord-of-klimit/
+
 slug: people-places-farriandor-lord-of-klimit
 title: 'SEVRIN LORE: Farriandor, Lord of Klimit'
-wordpress_id: 808
+
 ---
 
 Dwarves don't have kings, precisely, but the regional lord holds all the power and authority of a warrior king.  Among the most famous of these, at least among the old races, is Farriandor, lord of a vast territory encompassing the Klimit mountain range and the rough but beautiful lands surrounding Dragonsdive Gorge, as well as the grasslands that stretch between the Gorge and the elven forest to the west.

@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-04-09 15:57:49+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/chi-chi-you-home-wrecking-bitch/
+
 slug: chi-chi-you-home-wrecking-bitch
 title: Chi Chi, you home-wrecking hussy!
-wordpress_id: 2632
+
 categories:
 - Writing about writing
 ---

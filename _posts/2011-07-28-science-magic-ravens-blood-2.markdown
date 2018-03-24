@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-07-28 13:43:50+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-ravens-blood-2/
+
 slug: science-magic-ravens-blood-2
 title: 'SEVRIN LORE:  Ravens'' Blood'
-wordpress_id: 3200
+
 tags:
 - Eldreath
 - Ravens' Blood

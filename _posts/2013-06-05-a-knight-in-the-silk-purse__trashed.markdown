@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-06-05 14:23:33+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/a-knight-in-the-silk-purse__trashed/
+
 published: false
 slug: a-knight-in-the-silk-purse__trashed
 title: A Knight in the Silk Purse
-wordpress_id: 2680
+
 categories:
 - Short Fiction
 ---

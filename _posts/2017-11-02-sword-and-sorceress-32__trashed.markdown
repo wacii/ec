@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-11-02 15:14:55+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/sword-and-sorceress-32__trashed/
+
 published: false
 slug: sword-and-sorceress-32__trashed
 title: Sword and Sorceress 32
-wordpress_id: 4614
+
 categories:
 - New releases
 - Short Fiction

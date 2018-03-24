@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-07-27 14:29:01+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-updates/short-story-collection-now-available-on-itunes__trashed/
+
 published: false
 slug: short-story-collection-now-available-on-itunes__trashed
 title: Short story collection now available on iTunes
-wordpress_id: 2083
+
 categories:
 - Writing updates
 ---

@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-11-29 13:37:55+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/more-delays-on-hath-no-fury__trashed/
+
 published: false
 slug: more-delays-on-hath-no-fury__trashed
 title: More delays on HATH NO FURY
-wordpress_id: 4649
+
 categories:
 - Short Fiction
 ---

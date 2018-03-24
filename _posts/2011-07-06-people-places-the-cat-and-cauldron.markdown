@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-07-06 16:34:34+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-the-cat-and-cauldron/
+
 slug: people-places-the-cat-and-cauldron
 title: 'SEVRIN LORE: The Cat and Cauldron'
-wordpress_id: 357
+
 tags:
 - Cat and Cauldron
 - Pennilee

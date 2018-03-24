@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2016-11-22 21:04:26+00:00
 layout: single
-link: http://www.elainecunningham.com/poetry/lupine-lunes__trashed/
+
 published: false
 slug: lupine-lunes__trashed
 title: Lupine Lunes
-wordpress_id: 3597
+
 categories:
 - Poetry
 ---

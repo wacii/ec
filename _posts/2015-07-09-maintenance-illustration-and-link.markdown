@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2015-07-09 23:47:18+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/maintenance-illustration-and-link/
+
 slug: maintenance-illustration-and-link
 title: '"Maintenance" illustration and link'
-wordpress_id: 3303
+
 categories:
 - Short Fiction
 ---

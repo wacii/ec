@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2015-04-01 12:35:31+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/query-letters-demystified/
+
 slug: query-letters-demystified
 title: Query letters, demystified
-wordpress_id: 3138
+
 categories:
 - Writing about writing
 ---

@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-07-27 19:33:08+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-the-fox-den/
+
 slug: people-places-the-fox-den
 title: 'SEVRIN LORE: The Fox Den'
-wordpress_id: 490
+
 tags:
 - Avidan
 - Delgar

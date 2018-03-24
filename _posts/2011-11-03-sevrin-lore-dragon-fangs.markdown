@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-11-03 13:41:03+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-dragon-fangs/
+
 slug: sevrin-lore-dragon-fangs
 title: 'SEVRIN LORE:  Dragon fangs'
-wordpress_id: 1396
+
 ---
 
 ![]({{ "/assets/steamdragon_web.jpg" | absolute_url }})The clockwork sculpture garden in the shadow of Crystal Mountain, the hill crowned by the manor of the Adapt Rhendish, is popular at any time of year, but as winter approaches and the days grow short and cold, children look forward to a special treat:  Dragon fangs.

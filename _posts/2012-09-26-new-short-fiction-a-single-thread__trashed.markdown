@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-09-26 10:47:17+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/new-short-fiction-a-single-thread__trashed/
+
 published: false
 slug: new-short-fiction-a-single-thread__trashed
 title: 'New short fiction:  "A Single Thread"'
-wordpress_id: 2113
+
 categories:
 - Short Fiction
 ---

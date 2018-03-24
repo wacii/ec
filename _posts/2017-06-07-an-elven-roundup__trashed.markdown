@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-06-07 15:28:35+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/an-elven-roundup__trashed/
+
 published: false
 slug: an-elven-roundup__trashed
 title: An elven roundup
-wordpress_id: 4254
+
 categories:
 - Elves
 - Writing about writing

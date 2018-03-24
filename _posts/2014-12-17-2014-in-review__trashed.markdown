@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2014-12-17 14:10:55+00:00
 layout: single
-link: http://www.elainecunningham.com/habits-goals/2014-in-review__trashed/
+
 published: false
 slug: 2014-in-review__trashed
 title: 2014 in review
-wordpress_id: 3035
+
 categories:
 - Habits
 ---

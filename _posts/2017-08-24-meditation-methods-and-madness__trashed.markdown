@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-08-24 14:20:29+00:00
 layout: single
-link: http://www.elainecunningham.com/habits-goals/meditation-methods-and-madness__trashed/
+
 published: false
 slug: meditation-methods-and-madness__trashed
 title: 'Meditation:  Methods and madness'
-wordpress_id: 4411
+
 categories:
 - Habits
 - Writing process

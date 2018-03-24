@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-10-16 13:23:31+00:00
 layout: single
-link: http://www.elainecunningham.com/book-reviews/the-rules-of-magic__trashed/
+
 published: false
 slug: the-rules-of-magic__trashed
 title: The Rules of Magic
-wordpress_id: 4578
+
 categories:
 - Book festivals
 - Book reviews

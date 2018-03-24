@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-08-25 15:17:57+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-process/setting-as-character-part-1-genius-loci/
+
 slug: setting-as-character-part-1-genius-loci
 title: 'Setting as character, Part 1: Genius loci'
-wordpress_id: 4420
+
 categories:
 - Writing process
 ---

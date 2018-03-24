@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2018-02-22 14:40:16+00:00
 layout: single
-link: http://www.elainecunningham.com/conventions/boskone-reflections/
+
 slug: boskone-reflections
 title: Boskone reflections
-wordpress_id: 4736
+
 categories:
 - Conventions
 ---

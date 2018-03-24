@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-12-03 16:09:04+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-whalespout-legends-lore/
+
 slug: sevrin-lore-whalespout-legends-lore
 title: 'SEVRIN LORE: Whalespout'
-wordpress_id: 1486
+
 ---
 
 ![]({{ "/assets/right-whale-spouting.jpg" | absolute_url }})Sevrin is a land of islands, and many of its people make their living from the sea.  Two fishermen called Askur and Bejarki live in Whalespout, a small village on the island of Heartstone, not far from the port city of Sevrinspire.  The village's name comes from the geyser that bursts from a rocky hillock overlooking the village.  Legend has it that the hill was once a living whale, turned to stone by dwarven magic in a time before humans came to the islands. The geyser is evidence of a spark of life in the stone creature. If its struggles to free itself succeed, or so the story goes, it will roll back into the sea, crushing the village in the process.

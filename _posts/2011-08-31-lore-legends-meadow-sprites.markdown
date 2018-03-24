@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-08-31 14:25:24+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/lore-legends-meadow-sprites/
+
 slug: lore-legends-meadow-sprites
 title: 'SEVRIN LORE: Meadow sprites'
-wordpress_id: 802
+
 ---
 
 ![]({{ "/assets/fairy2.gif" | absolute_url }})Many children's stories speak of meadow sprites, tiny winged fey no bigger than butterflies. Indeed, most humans who see meadow sprites take them for butterflies, thanks to the deeply hooded cloaks the meadow sprites wear. When a sprite flicks up the hood and wraps the cloak around herself, she is nearly indistinquishable from an insect.  Even children, who have more time and inclination to study butterflies, seldom catch more than a glimpse of the sprites' true forms.

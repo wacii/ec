@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-02-02 16:06:55+00:00
 layout: single
-link: http://www.elainecunningham.com/games/channa-ti/
+
 slug: channa-ti
 title: Channa Ti
-wordpress_id: 3793
+
 categories:
 - Games
 - Short Fiction

@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-10-18 20:32:27+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-the-lute-overheard-in-cat-and-cauldron-2__trashed/
+
 published: false
 slug: sevrin-lore-the-lute-overheard-in-cat-and-cauldron-2__trashed
 title: 'SEVRIN LORE:  The lute (Overheard in "Cat and Cauldron")'
-wordpress_id: 3205
+
 tags:
 - Cat and Cauldron
 - lute

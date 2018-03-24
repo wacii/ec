@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-08-22 12:14:12+00:00
 layout: single
-link: http://www.elainecunningham.com/conventions/gen-con-50/
+
 slug: gen-con-50
 title: Gen Con 50
-wordpress_id: 4395
+
 categories:
 - Conventions
 ---

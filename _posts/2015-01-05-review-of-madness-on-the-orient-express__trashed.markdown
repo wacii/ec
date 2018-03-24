@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2015-01-05 13:32:32+00:00
 layout: single
-link: http://www.elainecunningham.com/book-reviews/review-of-madness-on-the-orient-express__trashed/
+
 published: false
 slug: review-of-madness-on-the-orient-express__trashed
 title: Review of MADNESS ON THE ORIENT EXPRESS
-wordpress_id: 3039
+
 categories:
 - Book reviews
 - Short Fiction

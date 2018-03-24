@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-08-31 12:52:23+00:00
 layout: single
-link: http://www.elainecunningham.com/conventions/august-writing-summary__trashed/
+
 published: false
 slug: august-writing-summary__trashed
 title: August writing summary
-wordpress_id: 4383
+
 categories:
 - Conventions
 - Short Fiction

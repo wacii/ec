@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-07-05 22:48:30+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/lore-legends-the-squirrel-bane/
+
 slug: lore-legends-the-squirrel-bane
 title: 'SEVRIN LORE: Varn Squirrel Bane'
-wordpress_id: 346
+
 tags:
 - feyflight
 - folklore

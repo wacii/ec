@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2014-07-08 12:31:31+00:00
 layout: single
-link: http://www.elainecunningham.com/art/knight-in-the-silk-purse-cover__trashed/
+
 published: false
 slug: knight-in-the-silk-purse-cover__trashed
 title: Knight in the Silk Purse, ebook
-wordpress_id: 2957
+
 categories:
 - Art
 - Short Fiction

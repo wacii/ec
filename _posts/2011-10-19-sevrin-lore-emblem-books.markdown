@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-10-19 14:41:22+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-emblem-books/
+
 slug: sevrin-lore-emblem-books
 title: 'SEVRIN LORE:  Emblem books'
-wordpress_id: 1233
+
 ---
 
 []({{ "/assets/amcl15.jpg" | absolute_url }})![]({{ "/assets/emblem-book-300x216.jpg" | absolute_url }})"Alchemy isn't for everyone," Sorvin said as he dipped his brush into a paint pot. Several moments passed in silence as he applied spiceberry red to his sketch of a whale-sized serpent. "That is why so many of our writings take the form of emblem books. The pictures work with the text, sometimes illuminating, sometimes obscuring or even contradicting."![]({{ "/assets/k_karras_bath-243x300.jpg" | absolute_url }})

@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2016-12-10 14:22:22+00:00
 layout: single
-link: http://www.elainecunningham.com/music/today-is-messiah-day__trashed/
+
 published: false
 slug: today-is-messiah-day__trashed
 title: Handel's MESSIAH
-wordpress_id: 3665
+
 categories:
 - Music
 ---

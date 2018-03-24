@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-04-20 14:48:46+00:00
 layout: single
-link: http://www.elainecunningham.com/habits-goals/got-allergies-get-habits__trashed/
+
 published: false
 slug: got-allergies-get-habits__trashed
 title: Got allergies?  Get habits.
-wordpress_id: 4028
+
 categories:
 - Habits
 ---

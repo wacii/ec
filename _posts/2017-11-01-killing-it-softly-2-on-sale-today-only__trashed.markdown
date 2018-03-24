@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-11-01 10:14:44+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/killing-it-softly-2-on-sale-today-only__trashed/
+
 published: false
 slug: killing-it-softly-2-on-sale-today-only__trashed
 title: Killing It Softly 2
-wordpress_id: 4608
+
 categories:
 - New releases
 - Short Fiction

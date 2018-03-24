@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-07-21 13:25:24+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-troll-watch/
+
 slug: science-magic-troll-watch
 title: 'SEVRIN LORE: Troll Watch'
-wordpress_id: 448
+
 tags:
 - Muldonny
 - Rhendish

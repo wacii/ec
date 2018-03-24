@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-06-16 13:59:37+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-gunpowder/
+
 slug: science-magic-gunpowder
 title: 'SEVRIN LORE: Gunpowder'
-wordpress_id: 244
+
 tags:
 - alchemy
 - gunpowder

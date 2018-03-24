@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-03-27 19:25:12+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/conflict-and-desire__trashed/
+
 published: false
 slug: conflict-and-desire__trashed
 title: Conflict and desire
-wordpress_id: 3936
+
 categories:
 - Writing about writing
 ---

@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-09-06 19:11:53+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/lore-legends-pixie-portals__trashed/
+
 published: false
 slug: lore-legends-pixie-portals__trashed
 title: 'SEVRIN LORE: Lore & legends:  Pixie portals'
-wordpress_id: 841
+
 tags:
 - pixie portals
 - Sim Neverslain

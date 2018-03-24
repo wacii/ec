@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-12-23 02:28:13+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/dark-and-twisty-fairy-tales__trashed/
+
 published: false
 slug: dark-and-twisty-fairy-tales__trashed
 title: Dark and twisty fairy tales
-wordpress_id: 2880
+
 categories:
 - Short Fiction
 ---

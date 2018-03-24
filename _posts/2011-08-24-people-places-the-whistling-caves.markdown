@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-08-24 15:20:56+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-the-whistling-caves/
+
 slug: people-places-the-whistling-caves
 title: 'People & places: The Whistling Caves'
-wordpress_id: 738
+
 tags:
 - dwarves
 - Karivala

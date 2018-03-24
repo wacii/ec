@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-08-02 18:46:05+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-avidan/
+
 slug: people-places-avidan
 title: 'SEVRIN LORE: Avidan'
-wordpress_id: 545
+
 tags:
 - alchemist
 - Avidan

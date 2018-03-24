@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-05-01 02:34:29+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/when-the-hero-comes-home__trashed/
+
 published: false
 slug: when-the-hero-comes-home__trashed
 title: When the Hero Comes Home
-wordpress_id: 2676
+
 categories:
 - Short Fiction
 ---

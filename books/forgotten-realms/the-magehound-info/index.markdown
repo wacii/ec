@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-12-19 14:24:56+00:00
 layout: single
-link: http://www.elainecunningham.com/books/forgotten-realms/the-magehound-info/
+
 slug: the-magehound-info
 title: The Magehound
-wordpress_id: 2348
+
 ---
 
 ** Book 1 of the Counselors & Kings trilogy**

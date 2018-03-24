@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2016-07-19 19:00:43+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/press-release-for-upcoming-anthology-hath-no-fury__trashed/
+
 published: false
 slug: press-release-for-upcoming-anthology-hath-no-fury__trashed
 title: Press release for upcoming anthology HATH NO FURY
-wordpress_id: 3516
+
 categories:
 - Short Fiction
 ---

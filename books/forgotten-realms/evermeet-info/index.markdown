@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-12-09 13:13:32+00:00
 layout: single
-link: http://www.elainecunningham.com/books/forgotten-realms/evermeet-info/
+
 slug: evermeet-info
 title: Evermeet
-wordpress_id: 2199
+
 ---
 
 ![Evermeet]({{ "/assets/Evermeet-1.jpg" | absolute_url }})Serene, beautiful, inviolate, rich in magic and treasure. For centuries Evermeet has been a refuge to the beleaguered elves of Toril. But when the bard Danilo Thann began to gather elven legends to compile a history of the royal Moonflower family, he finds the roots of an emerging story:  a massive, devastating invasion of the elven island.

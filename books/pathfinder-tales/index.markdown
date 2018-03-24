@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-01-26 18:08:13+00:00
 layout: single
-link: http://www.elainecunningham.com/books/pathfinder-tales/
+
 slug: pathfinder-tales
 title: PATHFINDER TALES
-wordpress_id: 2466
+
 ---
 
 [Pathfinder Tales](http://paizo.com/pathfinder/tales) are a series of novels, ebooks, and web fiction set in the world of Golarian, the setting of the Pathfinder role-playing game from [Paizo Publishing](http://www.paizo.com).

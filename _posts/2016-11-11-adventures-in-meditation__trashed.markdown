@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2016-11-11 15:01:27+00:00
 layout: single
-link: http://www.elainecunningham.com/habits-goals/adventures-in-meditation__trashed/
+
 published: false
 slug: adventures-in-meditation__trashed
 title: Adventures in meditation
-wordpress_id: 3583
+
 categories:
 - Habits
 ---

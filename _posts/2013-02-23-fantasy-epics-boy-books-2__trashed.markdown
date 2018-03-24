@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-02-23 16:42:17+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/fantasy-epics-boy-books-2__trashed/
+
 published: false
 slug: fantasy-epics-boy-books-2__trashed
 title: 'Fantasy epics: "Boy Books?"'
-wordpress_id: 3224
+
 categories:
 - Writing about writing
 ---

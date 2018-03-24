@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-04-01 06:00:40+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-updates/march-writing-update__trashed/
+
 published: false
 slug: march-writing-update__trashed
 title: March writing update
-wordpress_id: 3926
+
 categories:
 - Writing updates
 ---

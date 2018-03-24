@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-04-21 14:53:56+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/the-captains-keep-2/
+
 slug: the-captains-keep-2
 title: 'SEVRIN LORE: The Captain''s Keep'
-wordpress_id: 3209
+
 ---
 
 ![]({{ "/assets/Volgos-keep.jpg" | absolute_url }})Sevrinspire is the largest city on Heartstone, which in turn is the largest island in the Sevrin archipelago.  Although Sevrinspire is built along the coast, it has no deep-water ports and therefore trade is dependant upon a system of small boats and overland routes. The primary road leading south into Sevrinspire is guarded by an ancient, sprawling castle know as The Captain's Keep, or, to the folks who live in the village and the nearby city, simply the Keep.

@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-11-17 18:02:05+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-winter-wolves-lore-legends/
+
 slug: sevrin-lore-winter-wolves-lore-legends
 title: 'SEVRIN LORE:  Winter Wolves'
-wordpress_id: 1426
+
 tags:
 - fairies
 - The Books of Vishni's Exile

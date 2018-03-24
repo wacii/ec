@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-07-12 11:00:55+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/lore-legends-the-city-fox/
+
 slug: lore-legends-the-city-fox
 title: 'SEVRIN LORE:  The City Fox'
-wordpress_id: 395
+
 tags:
 - cheril
 - City Fox

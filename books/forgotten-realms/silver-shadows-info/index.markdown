@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-12-13 12:29:32+00:00
 layout: single
-link: http://www.elainecunningham.com/books/forgotten-realms/silver-shadows-info/
+
 slug: silver-shadows-info
 title: Silver Shadows
-wordpress_id: 2285
+
 ---
 
 ![Silver Shadows]({{ "/assets/Silver-Shadows-179x300.jpg" | absolute_url }})After their meeting in Elfshadow, Arilyn and Danilo part ways to pursue separate adventures. Danilo heads north to pursue the mysteries of _Elfsong,_ while Arilyn returns to the southern land of Tethyr.  These stories run in the same time slot, different channel.

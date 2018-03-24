@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2016-03-28 15:22:37+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/champions-of-aetaltis__trashed/
+
 published: false
 slug: champions-of-aetaltis__trashed
 title: Champions of Aetaltis
-wordpress_id: 3476
+
 categories:
 - Short Fiction
 tags:

@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-10-31 14:22:07+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/sevrin-lore-winterborn/
+
 slug: sevrin-lore-winterborn
 title: 'SEVRIN LORE: Winterborn'
-wordpress_id: 1369
+
 ---
 
 []({{ "/assets/witch771.jpg" | absolute_url }})The islands of Sevrin lie far to the north, so the coming of winter brings an end to the trade season, and, in troubled times, to warfare.  Winterborn, celebrated on the full moon between the autumn equinox and the winters solstice, is a time of peace and plenty.

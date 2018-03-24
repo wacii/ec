@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2018-01-01 14:29:55+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/2017-writing-summary-plus-plans-for-2018__trashed/
+
 published: false
 slug: 2017-writing-summary-plus-plans-for-2018__trashed
 title: 2017 writing summary, plus plans for 2018
-wordpress_id: 4681
+
 categories:
 - Patreon
 - Renaissance history

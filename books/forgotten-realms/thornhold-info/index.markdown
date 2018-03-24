@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2012-12-14 09:42:30+00:00
 layout: single
-link: http://www.elainecunningham.com/books/forgotten-realms/thornhold-info/
+
 slug: thornhold-info
 title: Thornhold
-wordpress_id: 2297
+
 ---
 
 **_![Thornhold]({{ "/assets/Thornhold-178x300.jpg" | absolute_url }})Thornhold, _**like the three Songs & Swords books before it, was originally part of the Harper series. It was intended to be the final book of the series--not an ending but a "pivot" that would lead into a new shared-author story line. This plan changed before the book was published, which left a lot of loose threads and more than a few puzzled readers.

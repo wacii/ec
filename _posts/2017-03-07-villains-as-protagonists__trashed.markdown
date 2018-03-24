@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-03-07 15:59:31+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/villains-as-protagonists__trashed/
+
 published: false
 slug: villains-as-protagonists__trashed
 title: Villains as protagonists
-wordpress_id: 3874
+
 categories:
 - Writing about writing
 ---

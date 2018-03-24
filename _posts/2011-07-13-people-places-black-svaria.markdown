@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-07-13 20:45:41+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-black-svaria/
+
 slug: people-places-black-svaria
 title: 'SEVRIN LORE:  Black Svaria'
-wordpress_id: 400
+
 tags:
 - Black Svaria
 - Cat and Cauldron

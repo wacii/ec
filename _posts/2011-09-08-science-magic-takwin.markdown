@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-09-08 15:45:39+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-takwin/
+
 slug: science-magic-takwin
 title: 'SEVRIN LORE: Takwin'
-wordpress_id: 850
+
 tags:
 - anthroparion
 - dyophysite

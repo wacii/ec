@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-09-06 19:11:53+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/lore-legends-pixie-portals-2/
+
 slug: lore-legends-pixie-portals-2
 title: 'SEVRIN LORE: Lore & legends:  Pixie portals'
-wordpress_id: 3203
+
 tags:
 - pixie portals
 - Sim Neverslain

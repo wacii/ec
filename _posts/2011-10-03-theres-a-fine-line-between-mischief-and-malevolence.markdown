@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-10-03 13:41:06+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/theres-a-fine-line-between-mischief-and-malevolence/
+
 slug: theres-a-fine-line-between-mischief-and-malevolence
 title: 'SEVRIN LORE: There''s a fine line between mischief and malevolence...'
-wordpress_id: 1112
+
 ---
 
 ...and fairies who are in danger of crossing that line are exiled from the fey realm.

@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-05-25 16:56:16+00:00
 layout: single
-link: http://www.elainecunningham.com/about-the-author/
+
 slug: about-the-author
 title: Bio
-wordpress_id: 32
+
 ---
 
 ![]({{ "/assets/Headshot-1-1-277x300.jpg" | absolute_url }})Thanks for stopping by my website, and for taking time to read my Bio page. Instead of diving right into the usual Author Bio stuff, I'd like to talk a little about four concepts that are important to me, things that shape and inform the stories I write.

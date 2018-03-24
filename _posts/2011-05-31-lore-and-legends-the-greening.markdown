@@ -1,12 +1,8 @@
 ---
-author: zerobyte
-comments: true
 date: 2011-05-31 13:46:00+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/lore-and-legends-the-greening/
 slug: lore-and-legends-the-greening
 title: 'SEVRIN LORE: The Greening'
-wordpress_id: 133
 tags:
 - Avidan
 - Elves

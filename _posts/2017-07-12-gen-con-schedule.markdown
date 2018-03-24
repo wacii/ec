@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-07-12 14:16:06+00:00
 layout: single
-link: http://www.elainecunningham.com/conventions/gen-con-schedule/
+
 slug: gen-con-schedule
 title: Gen Con schedule!
-wordpress_id: 4353
+
 categories:
 - Conventions
 ---

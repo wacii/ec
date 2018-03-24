@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-12-07 18:45:11+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/killing-it-softly-2-now-in-paperback/
+
 slug: killing-it-softly-2-now-in-paperback
 title: KILLING IT SOFTLY 2--Now in paperback
-wordpress_id: 4664
+
 categories:
 - New releases
 - Short Fiction

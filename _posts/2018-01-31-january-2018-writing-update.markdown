@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2018-01-31 16:05:02+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/january-2018-writing-update/
+
 slug: january-2018-writing-update
 title: January 2018 writing update
-wordpress_id: 4712
+
 categories:
 - Short Fiction
 - Writing updates

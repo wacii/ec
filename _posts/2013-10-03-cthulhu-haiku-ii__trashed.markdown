@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2013-10-03 19:05:16+00:00
 layout: single
-link: http://www.elainecunningham.com/poetry/cthulhu-haiku-ii__trashed/
+
 published: false
 slug: cthulhu-haiku-ii__trashed
 title: Cthulhu Haiku II
-wordpress_id: 2847
+
 categories:
 - Poetry
 ---

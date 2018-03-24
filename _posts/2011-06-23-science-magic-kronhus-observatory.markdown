@@ -1,12 +1,8 @@
 ---
-author: zerobyte
-comments: true
 date: 2011-06-23 11:56:28+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-kronhus-observatory/
 slug: science-magic-kronhus-observatory
 title: 'SEVRIN LORE:  Kronhus Observatory'
-wordpress_id: 269
 tags:
 - astrolabes
 - compass

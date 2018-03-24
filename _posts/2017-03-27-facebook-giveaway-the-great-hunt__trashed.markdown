@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-03-27 13:44:17+00:00
 layout: single
-link: http://www.elainecunningham.com/free-stuff/facebook-giveaway-the-great-hunt__trashed/
+
 published: false
 slug: facebook-giveaway-the-great-hunt__trashed
 title: 'Facebook giveaway: The Great Hunt'
-wordpress_id: 3931
+
 categories:
 - Free stuff!
 - Graphic novels

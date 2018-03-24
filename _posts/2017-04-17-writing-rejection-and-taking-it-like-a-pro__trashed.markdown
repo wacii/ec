@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-04-17 15:31:39+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/writing-rejection-and-taking-it-like-a-pro__trashed/
+
 published: false
 slug: writing-rejection-and-taking-it-like-a-pro__trashed
 title: '"Writing, rejection, and taking it like a pro"'
-wordpress_id: 4022
+
 categories:
 - Writing about writing
 ---

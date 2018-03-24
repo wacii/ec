@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-03-10 16:09:48+00:00
 layout: single
-link: http://www.elainecunningham.com/short-fiction/lorelei-returns__trashed/
+
 published: false
 slug: lorelei-returns__trashed
 title: '"Lorelei" returns'
-wordpress_id: 3883
+
 categories:
 - Short Fiction
 ---

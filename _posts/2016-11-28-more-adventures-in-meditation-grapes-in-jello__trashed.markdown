@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2016-11-28 15:49:47+00:00
 layout: single
-link: http://www.elainecunningham.com/habits-goals/more-adventures-in-meditation-grapes-in-jello__trashed/
+
 published: false
 slug: more-adventures-in-meditation-grapes-in-jello__trashed
 title: 'More adventures in meditation: Grapes in Jello'
-wordpress_id: 3594
+
 categories:
 - Habits
 ---

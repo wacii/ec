@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-08-10 10:00:57+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-honor-evenstar/
+
 slug: people-places-honor-evenstar
 title: 'SEVRIN LORE: Honor Evenstar'
-wordpress_id: 631
+
 tags:
 - Honor
 ---

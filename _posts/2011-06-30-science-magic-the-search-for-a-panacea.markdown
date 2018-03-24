@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-06-30 15:39:01+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-the-search-for-a-panacea/
+
 slug: science-magic-the-search-for-a-panacea
 title: 'SEVRIN LORE: The search for a panacea'
-wordpress_id: 307
+
 tags:
 - berries
 - elixir

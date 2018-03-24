@@ -1,13 +1,13 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-09-12 20:59:09+00:00
 layout: single
-link: http://www.elainecunningham.com/writing-about-writing/a-pumpkin-is-not-a-pie__trashed/
+
 published: false
 slug: a-pumpkin-is-not-a-pie__trashed
 title: A pumpkin is not a pie
-wordpress_id: 4474
+
 categories:
 - Writing about writing
 ---

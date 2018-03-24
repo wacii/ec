@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-08-17 13:54:46+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/people-places-vishni/
+
 slug: people-places-vishni
 title: 'SEVRIN LORE:  Vishni'
-wordpress_id: 703
+
 tags:
 - fairy
 - Vishni

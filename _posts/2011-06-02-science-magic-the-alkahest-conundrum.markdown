@@ -1,12 +1,8 @@
 ---
-author: zerobyte
-comments: true
 date: 2011-06-02 12:25:26+00:00
 layout: single
-link: http://www.elainecunningham.com/uncategorized/science-magic-the-alkahest-conundrum/
 slug: science-magic-the-alkahest-conundrum
 title: 'SEVRIN LORE: The Alkahest Conundrum'
-wordpress_id: 163
 tags:
 - alchemy
 - alkahest

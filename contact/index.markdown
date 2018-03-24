@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2011-07-01 13:38:55+00:00
 layout: single
-link: http://www.elainecunningham.com/contact/
+
 slug: contact
 title: Contact
-wordpress_id: 328
+
 ---
 
 ## 

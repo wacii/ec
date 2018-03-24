@@ -1,12 +1,12 @@
 ---
-author: zerobyte
-comments: true
+
+
 date: 2017-08-22 17:49:55+00:00
 layout: single
-link: http://www.elainecunningham.com/foreign-language-translations/winterhexe/
+
 slug: winterhexe
 title: Winterhexe!
-wordpress_id: 4398
+
 categories:
 - Foreign language translations
 ---
