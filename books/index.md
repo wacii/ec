@@ -1,51 +1,23 @@
 ---
-
-
 date: 2011-05-25 16:54:50+00:00
 layout: single
-
 slug: books
 title: Books
-
 ---
 
 ### **FANTASY NOVELS**
 
-
-
-
-
 * * *
-
-
-
-
 
 #### **Forgotten Realms**
 
-
-
-
 ##### **Songs & Swords series**
 
-
-
-
-[_Elfshadow_](http://www.elainecunningham.com/books/forgotten-realms/elfshadow-info/) _[Elfsong](http://www.elainecunningham.com/elfsong-info/)_ [_Silver Shadows_](http://www.elainecunningham.com/books/forgotten-realms/silver-shadows-info/)
-
-
-
-
+[_Elfshadow_]({{ site.baseurl }}{% link books/forgotten-realms/elfshadow-info.md %})
+[_Elfsong_](http://www.elainecunningham.com/elfsong-info/)
+[_Silver Shadows_](http://www.elainecunningham.com/books/forgotten-realms/silver-shadows-info/)
 [_Thornhold_](http://www.elainecunningham.com/books/forgotten-realms/thornhold-info/)
-
-
-
-
 [_Dream Spheres_](http://www.elainecunningham.com/books/forgotten-realms/the-dream-spheres-info/)
-
-
-
-
 
 ##### **Starlight & Shadows trilogy**
 
