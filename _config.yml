@@ -252,17 +252,23 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
   # _posts
-  - scope:
+  - 
+    scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+  - 
+    scope:
+      path: ""
+    values:
+      author_profile: false
+      sidebar: 
+        nav: "sidebar-nav"

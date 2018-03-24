@@ -1,4 +1,11 @@
 main:
+  - title: "About"
+    url: /about-the-author
+  - title: "Contact"
+    url: /contact
+sidebar-nav:
+  - title: "Home"
+    url: /
   - title: "Upcoming Releases"
     url: /upcoming-releases
   - title: "Upcoming Events"
@@ -7,8 +14,4 @@ main:
     url: /books
   - title: "Short Fiction"
     url: /short-fiction
-  - title: "About"
-    url: /about-the-author
-  - title: "Contact"
-    url: /contact
     
