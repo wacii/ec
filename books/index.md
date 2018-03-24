@@ -14,9 +14,13 @@ title: Books
 ##### **Songs & Swords series**
 
 [_Elfshadow_]({{ site.baseurl }}{% link books/forgotten-realms/elfshadow-info.md %})
+
 [_Elfsong_]({{ site.baseurl }}{% link books/forgotten-realms/elfsong-info.md %})
+
 [_Silver Shadows_]({{ site.baseurl }}{% link books/forgotten-realms/silver-shadows-info.md %})
-[_Thornhold_](http://www.elainecunningham.com/books/forgotten-realms/thornhold-info/)
+
+[_Thornhold_]({{ site.baseurl }}{% link books/forgotten-realms/thornhold-info.md %})
+
 [_Dream Spheres_](http://www.elainecunningham.com/books/forgotten-realms/the-dream-spheres-info/)
 
 ##### **Starlight & Shadows trilogy**
