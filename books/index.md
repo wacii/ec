@@ -21,7 +21,7 @@ title: Books
 
 [_Thornhold_]({{ site.baseurl }}{% link books/forgotten-realms/thornhold-info.md %})
 
-[_Dream Spheres_](http://www.elainecunningham.com/books/forgotten-realms/the-dream-spheres-info/)
+[_Dream Spheres_]({{ site.baseurl }}{% link books/forgotten-realms/the-dream-spheres-info.md %})
 
 ##### **Starlight & Shadows trilogy**
 
