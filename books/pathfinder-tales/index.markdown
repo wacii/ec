@@ -7,7 +7,7 @@ title: PATHFINDER TALES
 
 [Pathfinder Tales](http://paizo.com/pathfinder/tales) are a series of novels, ebooks, and web fiction set in the world of Golarian, the setting of the Pathfinder role-playing game from [Paizo Publishing](http://www.paizo.com).
 
-![]({{ "/assets/Winter-Witch-188x300.jpg" | absolute_url }}) I have published three stories in this setting:  the novel _**[Winter Witch, ](http://www.elainecunningham.com/books/winter-witch-info/)**_ written with Dave Gross; the six-part novella **"Dark Tapestry,"** originally published in an RPG adventure path and now available as an ebook; and **"The Illusionist,"** a short story written for the _Wayfinder_ fanzine and now available as an ebook.
+![]({{ "/assets/Winter-Witch-188x300.jpg" | absolute_url }}) I have published three stories in this setting:  the novel _**[Winter Witch, ]({{ site.baseurl }}{% link books/winter-witch-info.md %})**_ written with Dave Gross; the six-part novella **"Dark Tapestry,"** originally published in an RPG adventure path and now available as an ebook; and **"The Illusionist,"** a short story written for the _Wayfinder_ fanzine and now available as an ebook.
 
 * * *
 
