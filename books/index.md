@@ -33,24 +33,11 @@ title: Books
 
 ##### **Counselors & Kings trilogy**
 
-
-
-
-[_The Magehound_](http://www.elainecunningham.com/?page_id=2348&preview=true)
-
-
-
+[_The Magehound_]({{ site.baseurl }}{% link books/forgotten-realms/the-magehound-info.md %})
 
 [_The Floodgate_](http://www.elainecunningham.com/?page_id=2354&preview=true)
 
-
-
-
-[_The Wizardwar__** **_](http://www.elainecunningham.com/?page_id=2380&preview=true)
-
-
-
-
+[_The Wizardwar_](http://www.elainecunningham.com/?page_id=2380&preview=true)
 
 #### **Other Forgotten Realms books**
 
