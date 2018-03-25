@@ -49,90 +49,30 @@ _[The City of Splendors]({{ site.baseurl }}{% link books/forgotten-realms/the-ci
 
 ***
 
-
-
-
-
 ### **Other Shared-world Settings**
 
+**EverQuest:** _The Blood Red Harp_
 
+**Pathfinder Tales:** _Winter Witch_ (with Dave Gross)
 
+**StarWars:** _Dark Journey_
 
-**EverQuest: ** _The Blood Red Harp_**                               **
+**First Quest:** _The Unicorn Hunt_
 
+**Spelljammer:** _The Radiant Dragon_
 
+***
 
-
-**Pathfinder Tales:** _Winter Witch _(with Dave Gross)**                    **
-
-
-
-
-**StarWars: **_Dark Journey_
-
-
-
-
-**First Quest: ** _The Unicorn Hunt_**                               **
-
-
-
-
-**Spelljammer: **_The Radiant Dragon_
-
-
-
-
-
-
-* * *
-
-
-
-
-
-### **URBAN FANTASY NOVELS **
-
-
-
+### **URBAN FANTASY NOVELS**
 
 **Changeling Detective Agency:**
 
-
-
-
 _Shadows in the Darkness_
 
-
-
-
-_Shadows in the Starlight  _
-
-
-
-
-
+_Shadows in the Starlight_
 
 * * *
-
-
-
-
 
 ### **SHORT STORY COLLECTIONS**
 
-
-
-
 _Best of the Realms Book 3:  The Stories of Elaine Cunningham_
-
-
-
-
-
-
-* * *
-
-
-
-
