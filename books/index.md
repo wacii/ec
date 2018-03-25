@@ -35,9 +35,9 @@ title: Books
 
 [_The Magehound_]({{ site.baseurl }}{% link books/forgotten-realms/the-magehound-info.md %})
 
-[_The Floodgate_](({{ site.baseurl }}{% link books/forgotten-realms/the-floodgate-info.md %})
+[_The Floodgate_]({{ site.baseurl }}{% link books/forgotten-realms/the-floodgate-info.md %})
 
-[_The Wizardwar_](http://www.elainecunningham.com/?page_id=2380&preview=true)
+[_The Wizardwar_]({{ site.baseurl }}{% link books/forgotten-realms/the-wizardwar-info.md %})
 
 #### **Other Forgotten Realms books**
 
