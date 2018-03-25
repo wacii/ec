@@ -5,7 +5,7 @@ slug: windwalker-info
 title: Windwalker
 ---
 
-![Windwalker]({{ "/assets/Windwalker-178x300.jpg" | absolute_url }})
+![Windwalker]({{ "/assets/images/Windwalker-178x300.jpg" | absolute_url }})
 
 _Windwalker_, the final book in the Starlight & Shadows trilogy, picks up right after the events of [_Tangled Webs_]({{ site.baseurl }}{% link books/forgotten-realms/tangled-webs-info.md %}). Now that Liriel's quest is complete, she returns with Fyodor to Rashemen, a land ruled by masked witches and surrounded by enemies that test the mettle of her berserker defenders.  But Fyodor's homecoming is not at all what Liriel expected...
 

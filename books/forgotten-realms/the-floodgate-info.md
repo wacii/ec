@@ -7,7 +7,7 @@ title: The Floodgate
 
 **Book 2 of the Counselors & Kings trilogy.**
 
-![Floodgate Cover]({{ "/assets/Floodgate.jpg" | absolute_url }})
+![Floodgate Cover]({{ "/assets/images/Floodgate.jpg" | absolute_url }})
 
 The battle of Akhlaur's Swamp is over, and its heroes part ways. One becomes a wizard's apprentice and tries to unravel her mysterious lineage. Another hero returns to the service of his queen, only to find that all is not as it was.
 

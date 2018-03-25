@@ -5,7 +5,7 @@ slug: silver-shadows-info
 title: Silver Shadows
 ---
 
-![Silver Shadows Cover]({{ "/assets/Silver-Shadows-179x300.jpg" | absolute_url }})
+![Silver Shadows Cover]({{ "/assets/images/Silver-Shadows-179x300.jpg" | absolute_url }})
 
 After their meeting in Elfshadow, Arilyn and Danilo part ways to pursue separate adventures. Danilo heads north to pursue the mysteries of _Elfsong,_ while Arilyn returns to the southern land of Tethyr.  These stories run in the same time slot, different channel.
 

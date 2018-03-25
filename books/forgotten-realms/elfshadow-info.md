@@ -5,7 +5,7 @@ slug: elfshadow-info
 title: Elfshadow
 ---
 
-![Elfshadow Cover]({{ "/assets/Elfshadow-174x300.jpg" | absolute_url }})
+![Elfshadow Cover]({{ "/assets/images/Elfshadow-174x300.jpg" | absolute_url }})
 
 Initially published in 1991 as a stand-alone novel in the Harpers series, [**_Elfshadow_**](https://www.amazon.com/gp/product/1560761172/ref=as_li_tl?ie=UTF8&tag=elainecu-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1560761172&linkId=0dc699fa2391dff68a799a4a0e31efa6) was later reprinted as book 1 of the Songs & Swords series.  These tales follow the adventures of half-elf fighter Arilyn Moonblade, nobleman Danilo Thann, and elven crime lord Elaith Craulnober.
 

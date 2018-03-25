@@ -7,7 +7,7 @@ title: The Magehound
 
 **Book 1 of the Counselors & Kings trilogy**
 
-![Magehound Cover]({{ "/assets/Magehound.jpg" | absolute_url }})
+![Magehound Cover]({{ "/assets/images/Magehound.jpg" | absolute_url }})
 
 In the land of Halruaa, magic is commonplace. Nearly everyone owns a magical trinket of some sort, children learn to read from simple spell books, and wizard lords rule under the leadership of the powerful wizard-king Zalathorm.  Serving the wizard aristocracy is a caste of well-trained scholar-warriors known as the Jordain--men who avoid the practice of magic and have an exceptionally high resistance to it.
 

@@ -7,7 +7,7 @@ title: The Wizardwar
 
 **Book 3 of the Counselors & Kings trilogy**
 
-![Wizardwar Cover]({{ "/assets/Wizardwar.jpg" | absolute_url }})
+![Wizardwar Cover]({{ "/assets/images/Wizardwar.jpg" | absolute_url }})
 
 Once again, the counselors of Halruaa have beaten back an attack by the wizard Akhlaur.  Once more, the kingdom has been saved from its enemies.
 

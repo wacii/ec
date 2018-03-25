@@ -5,7 +5,7 @@ slug: winter-witch-info
 title: Winter Witch
 ---
 
-![]({{ "/assets/Winter-Witch-188x300.jpg" | absolute_url }}) Snowbound Irrisen is home to a race of witches descended from the mysterious Baba Yaga. They do as they please, take what and whom they want--including  a magically-gifted young girl from a neighboring land. No one is powerful enough to challenge them.
+![]({{ "/assets/images/Winter-Witch-188x300.jpg" | absolute_url }}) Snowbound Irrisen is home to a race of witches descended from the mysterious Baba Yaga. They do as they please, take what and whom they want--including  a magically-gifted young girl from a neighboring land. No one is powerful enough to challenge them.
 
 There is, however, one person _stubborn_ enough.
 
