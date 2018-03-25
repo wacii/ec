@@ -43,7 +43,7 @@ title: Books
 
 [_Evermeet_]({{ site.baseurl }}{% link books/forgotten-realms/evermeet-info.md %})
 
-_[City of Splendors](http://www.elainecunningham.com/?page_id=2386&preview=true) (with Ed Greenwood)_
+_[The City of Splendors]({{ site.baseurl }}{% link books/forgotten-realms/the-city-of-splendors-info.md %}) (with Ed Greenwood)_
 
 [_Best of the Realms Book 3:  The Stories of Elaine Cunningham_](http://www.elainecunningham.com/?page_id=2393&preview=true)
 
