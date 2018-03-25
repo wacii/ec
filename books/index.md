@@ -41,27 +41,13 @@ title: Books
 
 #### **Other Forgotten Realms books**
 
-
-
-
-[_Evermeet_](http://www.elainecunningham.com/?page_id=2199&preview=true)
-
-
-
+[_Evermeet_]({{ site.baseurl }}{% link books/forgotten-realms/evermeet-info.md %})
 
 _[City of Splendors](http://www.elainecunningham.com/?page_id=2386&preview=true) (with Ed Greenwood)_
 
-
-
-
 [_Best of the Realms Book 3:  The Stories of Elaine Cunningham_](http://www.elainecunningham.com/?page_id=2393&preview=true)
 
-
-
-
-
-
-* * *
+***
 
 
 
