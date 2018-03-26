@@ -5,7 +5,7 @@ main:
     url: /contact
 sidebar-nav:
   - title: "Home"
-    url: /
+    url: /blog
   - title: "Upcoming Releases"
     url: /upcoming-releases
   - title: "Upcoming Events"
