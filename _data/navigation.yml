@@ -1,17 +1,23 @@
 main:
-  - title: "About"
-    url: /about-the-author
-  - title: "Contact"
-    url: /contact
-sidebar-nav:
-  - title: "Home"
-    url: /blog
-  - title: "Upcoming Releases"
-    url: /upcoming-releases
-  - title: "Upcoming Events"
-    url: /upcoming-events-2
   - title: "Books"
     url: /books
   - title: "Short Fiction"
     url: /short-fiction
+  - title: "Blog"
+    url: /blog
+sidebar-nav:
+  - title: "About"
+    url: /about-the-author
+  - title: "Books"
+    url: /books
+  - title: "Short Fiction"
+    url: /short-fiction
+  - title: "Blog"
+    url: /blog
+  - title: "Events"
+    url: /upcoming-events-2
+  - title: "Upcoming Releases"
+    url: /upcoming-releases
+  - title: "Contact"
+    url: /contact
     
