@@ -11,16 +11,6 @@ I try to answer emails promptly.  If you don't hear from me within a week, plea
 
 * * *
 
-## Subscribe to ec's newsletter
-
-Email Address 
-
-First Name 
-
-Last Name 
-
-* * *
-
 **Social network:**
 
 **[facebook](http://www.facebook.com/elaine.cunningham)**
