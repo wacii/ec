@@ -5,7 +5,7 @@ slug: tangled-webs-info
 title: Tangled Webs
 ---
 
-![Tangled Webs Cover]({{ "/assets/images/Tangled-Webs-175x300.jpg" | absolute_url }})
+![image-right]({{ "/assets/images/Tangled Webs.jpg" | absolute_url}}){: .align-right} 
 
 In the second book of the Starlight & Shadows trilogy, Liriel and Fyodor set sail for Ruathym aboard _The Elfmaid_, a pirate ship owned by one Hrolf the Unruly.  Her enemies follow, joining forces with Ruathym's enemies to become a devastating invasion force. And a certain goddess is intrigued by the drow girl at the center of so much turmoil and chaos.
 
