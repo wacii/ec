@@ -4,15 +4,6 @@ layout: single
 slug: elfsong-info
 title: Elfsong
 ---
-<style type="text/css">
-.image-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>
-```
 ![Elfsong Cover]({{ "/assets/images/Elfsong.jpg" | absolute_url }}) { .image-left } This story is an homage to the bards of Second Edition AD&D. _The Complete Bard's Handbook_ opened up new possibilities for Forgotten Realms bards, and _Elfsong_ explores most of them--skalds, minstrels, a riddlemaster--and adds a newly invented class: political cartoonist, in the form of the dwarf maiden Morgalla and her satirical and sometimes scathing depictions of the rich and powerful.
 
 The Harpers were founded for two purposes: to maintain the balance and to preserve knowledge of great deeds. But it seemed to me that for an organization dedicated toward balance, they were doing a pretty crappy job with their own two objectives. Adventure and intrigue?  Check.  Acting as custodians of lore?  Not so much. The barding colleges closed their doors many years ago, Harper leaders focused more on politics than poetry.
