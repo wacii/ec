@@ -5,7 +5,7 @@ slug: elfsong-info
 title: Elfsong
 ---
 
-![Elfsong Cover]({{ "/assets/images/Elfsong.jpg" })
+![Elfsong Cover]({{ "/assets/images/Elfsong.jpg" | absolute_url }})
 
 
 
