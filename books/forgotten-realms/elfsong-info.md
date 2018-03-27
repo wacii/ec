@@ -4,7 +4,6 @@ layout: single
 slug: elfsong-info
 title: Elfsong
 ---
-
 ![Elfsong Cover]({{ "/assets/images/Elfsong.jpg" | absolute_url }}) 
 <p align="right">
   <img src="doc/subpagelist.png" />
