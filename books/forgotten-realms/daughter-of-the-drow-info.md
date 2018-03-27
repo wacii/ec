@@ -5,7 +5,7 @@ slug: daughter-of-the-drow-info
 title: Daughter of the Drow
 ---
 
-![]({{ "/assets/images/Daughter-of-the-Drow.jpg" | absolute_url }})
+![image-right]({{ "/assets/images/Daughter of the Drow.jpg" | absolute_url}}){: .align-right} 
 
 The first book in the Starlight & Shadows trilogy introduces Liriel, the daughter of Menzoberranzan's archmage Gromph Baenre. Her immersion into the drow culture of treachery and murder came at the age of five, when Gromph ordered the death of her mother so that he could take possession of the magically-gifted child. Liriel was a surviver, and she did her best to become what was expected of her.  Now the equivalent of a human teenager, she is drow to the core: devious, ambitious, driven. Yet something remains from those years as her mother's adored child--a certain restlessness, a longing for something she can't quite define.
 
