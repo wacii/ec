@@ -5,9 +5,9 @@ slug: elfsong-info
 title: Elfsong
 ---
 
-![Elfsong Cover]({{ "/assets/images/Elfsong.jpg" | absolute_url }})
+![Elfsong Cover]({{ "/assets/images/Elfsong.jpg" | <img align="right" src="doc/subpagelist.png">})
 
-<img align="right" src="doc/subpagelist.png">
+
 
 This story is an homage to the bards of Second Edition AD&D. _The Complete Bard's Handbook_ opened up new possibilities for Forgotten Realms bards, and _Elfsong_ explores most of them--skalds, minstrels, a riddlemaster--and adds a newly invented class: political cartoonist, in the form of the dwarf maiden Morgalla and her satirical and sometimes scathing depictions of the rich and powerful.
 
@@ -22,6 +22,7 @@ The old songs and tales, traditional bardic lore passed down for centuries, are 
 **[Sample chapters](http://books.google.com/books?id=1XUwCPNmAwsC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)**
 
 ***
+
 
 ## Purchase the book:
 
