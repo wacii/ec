@@ -5,9 +5,7 @@ slug: elfshadow-info
 title: Elfshadow
 ---
 
-![Elfshadow Cover]({{ "/assets/images/Elfshadow-174x300.jpg" | absolute_url }})
-
-Initially published in 1991 as a stand-alone novel in the Harpers series, [**_Elfshadow_**](https://www.amazon.com/gp/product/1560761172/ref=as_li_tl?ie=UTF8&tag=elainecu-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1560761172&linkId=0dc699fa2391dff68a799a4a0e31efa6) was later reprinted as book 1 of the Songs & Swords series.  These tales follow the adventures of half-elf fighter Arilyn Moonblade, nobleman Danilo Thann, and elven crime lord Elaith Craulnober.
+![image-right]({{ "/assets/images/Elfshadow.jpg" | absolute_url}}){: .align-right} Initially published in 1991 as a stand-alone novel in the Harpers series, [**_Elfshadow_**](https://www.amazon.com/gp/product/1560761172/ref=as_li_tl?ie=UTF8&tag=elainecu-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1560761172&linkId=0dc699fa2391dff68a799a4a0e31efa6) was later reprinted as book 1 of the Songs & Swords series.  These tales follow the adventures of half-elf fighter Arilyn Moonblade, nobleman Danilo Thann, and elven crime lord Elaith Craulnober.
 
 _Elfshadow_ is a mystery in a fantasy setting, my first Forgotten Realms book, and my first published novel. The storytelling process felt very much like a treasure hunt followed by a puzzle quest.  Intriguing bits of lore in Ed Greenwood's campaign setting (affectionately known to gamers as The Old Gray Boxed Set)  fit together to form questions that just _had_ to be explored. For example, the defenses of the elven city Evereska were shored up around the time King Zaor of Evermeet died. Evereska is a very long way from Evermeet, but it seemed to me that there must be a connection.
 
