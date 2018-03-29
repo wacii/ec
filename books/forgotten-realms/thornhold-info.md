@@ -5,9 +5,7 @@ slug: thornhold-info
 title: Thornhold
 ---
 
-![image-right]({{ "/assets/images/Thornhold.jpg" | absolute_url}}){: .align-right}. 
-
-_Thornhold_, like the three Songs & Swords books before it, was originally part of the Harper series. It was intended to be the final book of the series--not an ending but a "pivot" that would lead into a new shared-author story line. This plan changed before the book was published, which left a lot of loose threads and more than a few puzzled readers.
+![image-right]({{ "/assets/images/Thornhold.jpg" | absolute_url}}){: .align-right} _Thornhold_, like the three Songs & Swords books before it, was originally part of the Harper series. It was intended to be the final book of the series--not an ending but a "pivot" that would lead into a new shared-author story line. This plan changed before the book was published, which left a lot of loose threads and more than a few puzzled readers.
 
 Fortunately, I had an opportunity to tie up a few of these loose ends with "The Knights of Samular," the new tale that kicks of the short story collection _The Best of the Realms Book III: The Stories of Elaine Cunningham_. And a couple of years after the Harper line ended, _Thornhold_ was folded into the Songs & Swords series, even though Danilo is only a secondary character and Elaith and Arilyn play minor roles.
 
@@ -30,8 +28,6 @@ Magic, adventure, dark secrets, betrayal, politics, an adventure-loving dwarf an
 [Amazon Kindle Bookstore](http://www.amazon.com/gp/product/B005UFN4RQ/ref=pd_lpo_k2_dp_sr_1?pf_rd_p=486539851&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=B008FDJP78&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1JSP6X7HEDZDRS8V5N23)
 
 [Barnes & Noble NOOK Bookstore](http://www.barnesandnoble.com/w/forgotten-realms-elaine-cunningham/1103164952?ean=9780786961924)
-
-[Google Ebooks](http://books.google.com/books?id=Q59PG9FEw_cC)
 
 **Audio book:** Available at [Amazon.com](ttp://www.amazon.com/Thornhold-Forgotten-Realms-Songs-Swords/dp/B00B9P344E/ref=sr_1_16?s=digital-text&ie=UTF8&qid=1360071941&sr=1-16&keywords=elaine+cunningham)
 
