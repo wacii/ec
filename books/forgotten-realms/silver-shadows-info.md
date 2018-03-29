@@ -5,7 +5,7 @@ slug: silver-shadows-info
 title: Silver Shadows
 ---
 
-![image-right]({{ "/assets/images/Silver Shadows.jpg" | absolute_url}}){: .align-right} After their meeting in Elfshadow, Arilyn and Danilo part ways to pursue separate adventures. Danilo heads north to pursue the mysteries of _Elfsong,_ while Arilyn returns to the southern land of Tethyr.  These stories run in the same time slot, different channel.
+![image-right]({{ "/assets/images/Silver Shadows.jpg" | absolute_url}}){: .align-right} After their meeting in _Elfshadow_, Arilyn and Danilo part ways to pursue separate adventures. Danilo heads north to pursue the mysteries of _Elfsong,_ while Arilyn returns to the southern land of Tethyr.  These stories run in the same time slot, different channel.
 
 The elves of the Wealdath forest have a long, troubled history with Tethyr's humans. When someone starts staging atrocities that are blamed on the forest elves, Queen Amlaruil of Evermeet sends an offer of a home on the elven island. The Harper chosen to carry this message--half-elf Arilyn Moonblade--is barred from Evermeet by her mixed blood, despite the fact that she is Amlaruil's granddaughter. But she takes on the job, determined to demand as payment answers about the sword she carries.  This quest for her elven roots takes on a new dimension when she finds in a treasure hoard a moon elf warrior in deep magical sleep, displayed in a glass case. Arilyn's moonblade recognizes this elf woman as a former wielder, and the elves of the Wealdath recognize her as an ancient hero returning in a time of need.
 
@@ -26,8 +26,6 @@ What begins as a means to an end becomes a deeply personal commitment, and Arily
 [Amazon Kindle Bookstore](http://www.amazon.com/Silver-Shadows-Song-Swords-ebook/dp/B004ZZNN3M/ref=tmm_kin_title_0?ie=UTF8&qid=1355416588&sr=8-1)
 
 [Barnes & Noble NOOK Bookstore](http://www.barnesandnoble.com/w/forgotten-realms-elaine-cunningham/1103165631?ean=9780786959723)
-
-[Google Ebooks](http://books.google.com/books/about/Silver_Shadows.html?id=IQIXYlLffosC)
 
 **Audio book:** Available on [Amazon.com](http://www.amazon.com/Silver-Shadows-Forgotten-Realms-Swords/dp/B00BA1ZQHU/ref=sr_1_17?s=digital-text&ie=UTF8&qid=1360071850&sr=1-17&keywords=elaine+cunningham)
 
