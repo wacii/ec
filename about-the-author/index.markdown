@@ -9,21 +9,7 @@ title: Bio
 
 ---
 
-![]({{ "/assets/images/Headshot-1-1-277x300.jpg" | absolute_url }})Thanks for stopping by my website, and for taking time to read my Bio page. Instead of diving right into the usual Author Bio stuff, I'd like to talk a little about four concepts that are important to me, things that shape and inform the stories I write.
-
-
-
- 	
-  * **Everyone has a story.**
-
- 	
-  * **People can change.**
-
- 	
-  * **Families are complicated.**
-
- 	
-  * **The past matters.**
+![image-right]({{ "/assets/images/Headshot (1).jpg" | absolute_url}}){: .align-right}.  for stopping by my website, and for taking time to read my Bio page. Instead of diving right into the usual Author Bio stuff, I'd like to talk a little about four concepts that are important to me, things that shape and inform the stories I write.
 
 
 **Everyone has a story.**
@@ -57,6 +43,6 @@ Those are a few of the things I consider important, which probably tells you a l
 
 But, hey--let's cover all the bases.
 
-I've been married to my long-suffering high school sweetheart for over three decades. We have two adult sons, one of whom is married to the World's Nicest Person. We live in coastal Rhode Island and spend a great deal of time hiking various New England trails.  We're avid board gamers and play several times a week. I sing with the Providence Singers, a chorus affiliated with the Rhode Island Philharmonic, and occasionally play the celtic harp.
+I've been married to my long-suffering high school sweetheart for over three decades. We have two adult sons, one of whom is married to the World's Nicest Person. We live in coastal Rhode Island and spend a great deal of time hiking various New England trails. We're avid board gamers and play several times a week. I sing with the Providence Singers, a chorus affiliated with the Rhode Island Philharmonic, and occasionally play the celtic harp.
 
 People who are interested in odd anecdotes and curated bits and pieces of Life As I Know It are invited to join my [facebook friends list ](http://www.facebook.com/elaine.cunningham)and follow me on [twitter.](http://twitter.com/#!/e_cunningham)
