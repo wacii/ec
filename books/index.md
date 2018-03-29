@@ -5,13 +5,12 @@ slug: books
 title: Books
 ---
 
-### **FANTASY NOVELS**
+## **FANTASY NOVELS**
 
-* * *
 
-#### **Forgotten Realms**
+### **Forgotten Realms**
 
-##### **Songs & Swords series**
+#### **Songs & Swords series**
 
 [_Elfshadow_]({{ site.baseurl }}{% link books/forgotten-realms/elfshadow-info.md %})
 
@@ -23,7 +22,7 @@ title: Books
 
 [_Dream Spheres_]({{ site.baseurl }}{% link books/forgotten-realms/the-dream-spheres-info.md %})
 
-##### **Starlight & Shadows trilogy**
+#### **Starlight & Shadows trilogy**
 
 [_Daughter of the Drow_]({{ site.baseurl }}{% link books/forgotten-realms/daughter-of-the-drow-info.md %})
 
@@ -31,7 +30,7 @@ title: Books
 
 [_Windwalker_]({{ site.baseurl }}{% link books/forgotten-realms/windwalker-info.md %})
 
-##### **Counselors & Kings trilogy**
+#### **Counselors & Kings trilogy**
 
 [_The Magehound_]({{ site.baseurl }}{% link books/forgotten-realms/the-magehound-info.md %})
 
@@ -39,7 +38,7 @@ title: Books
 
 [_The Wizardwar_]({{ site.baseurl }}{% link books/forgotten-realms/the-wizardwar-info.md %})
 
-#### **Other Forgotten Realms books**
+### **Other Forgotten Realms books**
 
 
 [_Evermeet_]({{ site.baseurl }}{% link books/forgotten-realms/evermeet-info.md %})
@@ -50,7 +49,7 @@ title: Books
 
 ***
 
-### **Other Shared-world Settings**
+## **Other Shared-world Settings**
 
 **EverQuest:** _The Blood Red Harp_
 
@@ -64,7 +63,7 @@ title: Books
 
 ***
 
-### **URBAN FANTASY NOVELS**
+## **URBAN FANTASY NOVELS**
 
 **Changeling Detective Agency:**
 
@@ -74,6 +73,6 @@ _Shadows in the Starlight_
 
 * * *
 
-### **SHORT STORY COLLECTIONS**
+## **SHORT STORY COLLECTIONS**
 
 _Best of the Realms Book 3:  The Stories of Elaine Cunningham_
