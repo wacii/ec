@@ -5,7 +5,7 @@ slug: elfsong-info
 title: Elfsong
 ---
 
-![image-right]({{ "/assets/images/Elfsong.jpg" | absolute_url}}){: .align-right}. This story is an homage to the bards of Second Edition AD&D. _The Complete Bard's Handbook_ opened up new possibilities for Forgotten Realms bards, and _Elfsong_ explores most of them--skalds, minstrels, a riddlemaster--and adds a newly invented class: political cartoonist, in the form of the dwarf maiden Morgalla and her satirical and sometimes scathing depictions of the rich and powerful.
+![image-right]({{ "/assets/images/Elfsong.jpg" | absolute_url}}){: .align-right} This story is an homage to the bards of Second Edition AD&D. _The Complete Bard's Handbook_ opened up new possibilities for Forgotten Realms bards, and _Elfsong_ explores most of them--skalds, minstrels, a riddlemaster--and adds a newly invented class: political cartoonist, in the form of the dwarf maiden Morgalla and her satirical and sometimes scathing depictions of the rich and powerful.
 
 The Harpers were founded for two purposes: to maintain the balance and to preserve knowledge of great deeds. But it seemed to me that for an organization dedicated toward balance, they were doing a pretty crappy job with their own two objectives. Adventure and intrigue?  Check.  Acting as custodians of lore?  Not so much. The barding colleges closed their doors many years ago, Harper leaders focused more on politics than poetry.
 
@@ -27,8 +27,6 @@ The old songs and tales, traditional bardic lore passed down for centuries, are 
 [Amazon Kindle Bookstore](http://www.amazon.com/Elfsong-Song-Swords-Book-ebook/dp/B004ZZOCLO/ref=tmm_kin_title_0)
 
 [Barnes & Noble NOOK Bookstore](http://www.barnesandnoble.com/w/elfsong-elaine-cunningham/1112927417?ean=9780786959686)
-
-[Google Ebooks](http://books.google.com/books/about/Elfsong.html?id=1XUwCPNmAwsC)
 
 **Audio book:** Available through[ Amazon.com](http://www.amazon.com/Elfsong-Forgotten-Realms-Songs-Swords/dp/B00B7CBFGS/ref=sr_1_23?s=digital-text&ie=UTF8&qid=1360071724&sr=1-23&keywords=elaine+cunningham)
 
