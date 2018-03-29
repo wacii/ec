@@ -5,9 +5,7 @@ slug: the-city-of-splendors-info
 title: The City of Splendors
 ---
 
-![image-right]({{ "/assets/images/City of Splendors.jpg" | absolute_url}}){: .align-right} 
-
-No one in Waterdeep expects much from the swaggering band of young noblemen, or from the daughters of a tradesman. But heroism takes many forms, and a great city is built on many small stories...
+![image-right]({{ "/assets/images/City of Splendors.jpg" | absolute_url}}){: .align-right} No one in Waterdeep expects much from the swaggering band of young noblemen, or from the daughters of a tradesman. But heroism takes many forms, and a great city is built on many small stories...
 
 A stand-alone novel featuring a cast of new, "low-level" characters, _**The City of Splendors**_ takes place after the devastating attack on Faerun's seacoast and before the Spellplague.
 
