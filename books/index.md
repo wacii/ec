@@ -16,7 +16,7 @@ title: Books
 [_Best of the Realms Book 3:  The Stories of Elaine Cunningham_]({{ site.baseurl }}{% link books/forgotten-realms/best-of-the-realms-3-info.md %})
 
 
-##Songs & Swords series
+## Songs & Swords series
 
 [_Elfshadow_]({{ site.baseurl }}{% link books/forgotten-realms/elfshadow-info.md %})
 
@@ -47,7 +47,7 @@ title: Books
 
 ***
 
-#**FANTASY NOVELS: Other Shared-world Settings**
+# **FANTASY NOVELS: Other Shared-world Settings**
 
 **EverQuest:** _The Blood Red Harp_
 
@@ -61,7 +61,9 @@ title: Books
 
 ***
 
-# **URBAN FANTASY NOVELS**: Changeling Detective Agency**
+# **URBAN FANTASY NOVELS**
+
+## Changeling Detective Agency
 
 _Shadows in the Darkness_
 
