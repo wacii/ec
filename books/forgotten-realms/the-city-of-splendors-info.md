@@ -5,7 +5,7 @@ slug: the-city-of-splendors-info
 title: The City of Splendors
 ---
 
-![image-right]({{ "/assets/images/The_City_of_Splendors_novel.jpg" | absolute_url}}){: .align-right} 
+![image-right]({{ "/assets/images/City of Splendors.jpg" | absolute_url}}){: .align-right} 
 
 No one in Waterdeep expects much from the swaggering band of young noblemen, or from the daughters of a tradesman. But heroism takes many forms, and a great city is built on many small stories...
 
