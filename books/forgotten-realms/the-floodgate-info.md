@@ -7,11 +7,11 @@ title: The Floodgate
 
 **Book 2 of the Counselors & Kings trilogy.**
 
-![image-right]({{ "/assets/images/Floodgate.jpg" | absolute_url}}){: .align-right}. The battle of Akhlaur's Swamp is over, and its heroes part ways. One becomes a wizard's apprentice and tries to unravel her mysterious lineage. Another hero returns to the service of his queen, only to find that all is not as it was.
+![image-right]({{ "/assets/images/Floodgate.jpg" | absolute_url}}){: .align-right} The battle of Akhlaur's Swamp is over, and its heroes part ways. One becomes a wizard's apprentice and tries to unravel her mysterious lineage. Another hero returns to the service of his queen, only to find that all is not as it was.
 
 Hidden from them both, the Magehound broods. She cannot forgive those who drove her from power, and she will stop at nothing to be avenged.  Her bitterness ensures that Akhlaur's Swamp was only the beginning for them all.
 
-**[Read Goodreads Reviews](http://www.goodreads.com/book/show/19856.The_Floodgate)**
+**[Read Goodreads Reviews](https://www.goodreads.com/book/show/19856.The_Floodgate)**
 
 **[Sample Chapters](http://books.google.com/books?id=5A4HWj6B44QC&printsec=frontcover&dq=Floodgate,+Elaine+Cunningham&hl=en&sa=X&ei=2wTTULOEGeKE2wXjpoC4AQ&ved=0CEAQ6AEwAA)**
 
@@ -24,8 +24,6 @@ Hidden from them both, the Magehound broods. She cannot forgive those who drove 
 [Amazon Kindle Bookstore](http://www.amazon.com/The-Floodgate-Counselors-Kings-ebook/dp/B005UFN5BQ/ref=pd_sim_kstore_1)
 
 [Barnes & Noble NOOK Bookstore](http://www.barnesandnoble.com/w/forgotten-realms-elaine-cunningham/1103164952?ean=9780786961900)
-
-[Google Ebooks](http://books.google.com/books?id=5A4HWj6B44QC&printsec=frontcover&dq=Floodgate,+Elaine+Cunningham&hl=en&sa=X&ei=2wTTULOEGeKE2wXjpoC4AQ&ved=0CEAQ6AEwAA)  
 
 **Audio Book:** Available through the [Amazon.com ](http://www.amazon.com/The-Floodgate-Forgotten-Realms-Counselors/dp/B00C55MH72/ref=sr_1_6?ie=UTF8&qid=1364996513&sr=8-6&keywords=The+Floodgate%2C+audio+books)or Audible.Com websites.
 
