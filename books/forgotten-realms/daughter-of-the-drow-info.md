@@ -5,9 +5,7 @@ slug: daughter-of-the-drow-info
 title: Daughter of the Drow
 ---
 
-![image-right]({{ "/assets/images/Daughter of the Drow.jpg" | absolute_url}}){: .align-right} 
-
-The first book in the Starlight & Shadows trilogy introduces Liriel, the daughter of Menzoberranzan's archmage Gromph Baenre. Her immersion into the drow culture of treachery and murder came at the age of five, when Gromph ordered the death of her mother so that he could take possession of the magically-gifted child. Liriel was a surviver, and she did her best to become what was expected of her.  Now the equivalent of a human teenager, she is drow to the core: devious, ambitious, driven. Yet something remains from those years as her mother's adored child--a certain restlessness, a longing for something she can't quite define.
+![image-right]({{ "/assets/images/Daughter of the Drow.jpg" | absolute_url}}){: .align-right} The first book in the Starlight & Shadows trilogy introduces Liriel, the daughter of Menzoberranzan's archmage Gromph Baenre. Her immersion into the drow culture of treachery and murder came at the age of five, when Gromph ordered the death of her mother so that he could take possession of the magically-gifted child. Liriel was a surviver, and she did her best to become what was expected of her.  Now the equivalent of a human teenager, she is drow to the core: devious, ambitious, driven. Yet something remains from those years as her mother's adored child--a certain restlessness, a longing for something she can't quite define.
 
 Unlike most noble drow females, Liriel was trained in the arts of magic rather than raised as a future priestess. She had all the advantages her father's wealth and position offered, as well as a rare degree of freedom to pursue her own interests. And the two things Liriel loved most were magic and  exploring. The little-known tunnels of the Underdark, underground lakes filled with voracious fish, the lair of a two-headed deep dragon--no place in the Underdark was too remote or dangerous for the adventurous young girl.  When the Matron Mother of House Baenre decreed that Gromph's daughter must enter Arach Tinilith to train as a priestess of Lolth, Liriel's days of freedom seemed destined to end.
 
@@ -37,6 +35,10 @@ Both the hardcover and paperback are out of print, but you can find copies at Am
 [Daughter of the Drow (Forgotten Realms: Starlight and Shadows, Book 1)](https://www.amazon.com/gp/product/0786929294/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786929294&linkCode=as2&tag=elainecu-20&linkId=bbbcc7ccc315b05895066308c5acbba5)
 
 [Daughter of the Drow, Audiobook](https://www.amazon.com/gp/product/B00B7G9U1G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B7G9U1G&linkCode=as2&tag=elainecu-20&linkId=6ae0f506fd0ca1cdc71b3c6afe895503)
+
+**Starlight & Shadows Gift Set:**
+
+Currently out of print. [See this page on Amazon.com.](http://www.amazon.com/Forgotten-Realms-Starlight-Shadows-Windwalker/dp/0786938161/ref=pd_sim_sbs_b_5)
 
 ***
 
