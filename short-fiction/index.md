@@ -7,7 +7,7 @@ title: Short works
 
 #### **Short stories**
 
-"Burning"-- _Hath No Fury_, (Ragnarok Press, coming in 2018)
+"Burning"-- _Hath No Fury_, (Outland Entertainment, May 2018)
 
 "Royal Daughters"-- _Sword and Sorceress 32_, (MZB, 2017)
 
@@ -46,9 +46,6 @@ title: Short works
 ***
 
 #### **Forgotten Realms Short Stories**
-
-These were originally published in Forgotten Realms anthologies or in DRAGON Magazine. Most of them were included in the collection [**_The Best of the Realms Book III:  The Stories of Elaine Cunningham_**.](http://www.amazon.com/Best-Realms-III-Cunningham-Forgotten/dp/0786942886/ref=sr_1_1?s=books&ie=UTF8&qid=1459522536&sr=1-1&keywords=Best+of+the+Realms+3) 
-
 
 "The Bargain"— _Realms of Valor_ (1993)/_The Best of the Realms, Book III: The Stories of Elaine Cunningham_ (2007)
 
