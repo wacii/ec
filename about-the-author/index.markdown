@@ -5,18 +5,18 @@ date: 2011-05-25 16:56:16+00:00
 layout: single
 
 slug: about-the-author
-title: Bio
+title: About the Author
 
 ---
 
-![image-right]({{ "/assets/images/Small Headshot.jpg" | absolute_url}}){: .align-right} Thanks for stopping by my website, and for taking time to read my Bio page. Instead of diving right into the usual Author Bio stuff, I'd like to talk a little about four concepts that are important to me, things that shape and inform the stories I write.
+![image-right]({{ "/assets/images/Small Headshot.jpg" | absolute_url}}){: .align-right} Thanks for stopping by my website. Instead of the usual Author Bio stuff, I'd like to talk a little about four concepts that are important to me, things that shape and inform the stories I write.
 
 
 **Everyone has a story.**
 
 I believe a reader should come away from a story feeling that every character is living a full and complex life just beyond our view. _Every_ character--not just the hero of a multi-book series, but also the second banana who dies midway through book one and the tavern wench who's "onstage" for less than five minutes. That girl is a real person, someone who goes home after a long day's work to feed her cat and treasure her dreams. If you don't get that impression, I haven't done my job.
 
-Perhaps a character has a small role in this particular story, but he's still the center of his own story. That's something I try to keep firmly in mind, IRL as well as in fiction.
+Perhaps a character has a small role in this particular story, but he's still the center of his own story. That's something I try to keep firmly in mind, in real life as well as in fiction.
 
 
 **People can change.**
@@ -45,4 +45,4 @@ But, hey--let's cover all the bases.
 
 I've been married to my long-suffering high school sweetheart for over three decades. We have two adult sons, one of whom is married to the World's Nicest Person. We live in coastal Rhode Island and spend a great deal of time hiking various New England trails. We're avid board gamers and play several times a week. I sing with the Providence Singers, a chorus affiliated with the Rhode Island Philharmonic, and occasionally play the celtic harp.
 
-People who are interested in odd anecdotes and curated bits and pieces of Life As I Know It are invited to join my [facebook friends list ](http://www.facebook.com/elaine.cunningham)and follow me on [twitter.](http://twitter.com/#!/e_cunningham)
+People who are interested in odd anecdotes and curated bits and pieces of Life As I Know It are invited to join my [facebook friends list ](http://www.facebook.com/elaine.cunningham) and follow me on [twitter.](http://twitter.com/#!/e_cunningham)
