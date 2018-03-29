@@ -7,7 +7,7 @@ title: The Wizardwar
 
 **Book 3 of the Counselors & Kings trilogy**
 
-![image-right]({{ "/assets/images/Wizardwar.jpg" | absolute_url}}){: .align-right}. Once again, the counselors of Halruaa have beaten back an attack by the wizard Akhlaur.  Once more, the kingdom has been saved from its enemies.
+![image-right]({{ "/assets/images/Wizardwar.jpg" | absolute_url}}){: .align-right} Once again, the counselors of Halruaa have beaten back an attack by the wizard Akhlaur.  Once more, the kingdom has been saved from its enemies.
 
 But victory comes at a terrible price. The aged king is weakened, his powers diminished. His chief counselor, Matteo, is torn between his duty and his heart. Tzigone, the hero of the battle of Akhlaur's Swamp, has been hurled into a dark world from which she may never escape. And at the edge of time, Akhlaur and his ally, the Magehound, plot their final revenge.
 
