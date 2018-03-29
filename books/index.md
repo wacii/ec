@@ -13,7 +13,6 @@ title: Books
 
 [_The City of Splendors_]({{ site.baseurl }}{% link books/forgotten-realms/the-city-of-splendors-info.md %}) (with Ed Greenwood)
 
-[_Best of the Realms Book 3:  The Stories of Elaine Cunningham_]({{ site.baseurl }}{% link books/forgotten-realms/best-of-the-realms-3-info.md %})
 
 
 ### Songs & Swords series
@@ -44,6 +43,9 @@ title: Books
 
 [_The Wizardwar_]({{ site.baseurl }}{% link books/forgotten-realms/the-wizardwar-info.md %})
 
+### Short Story Collections
+
+[_Best of the Realms Book 3:  The Stories of Elaine Cunningham_]({{ site.baseurl }}{% link books/forgotten-realms/best-of-the-realms-3-info.md %})
 
 ***
 
@@ -68,9 +70,3 @@ title: Books
 _Shadows in the Darkness_
 
 _Shadows in the Starlight_
-
-* * *
-
-## **SHORT STORY COLLECTIONS**
-
-_Best of the Realms Book 3:  The Stories of Elaine Cunningham_
