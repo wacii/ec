@@ -37,6 +37,6 @@ Magic, adventure, dark secrets, betrayal, politics, an adventure-loving dwarf an
 
 ## More info:
 
-**[Go to the info page for _Elfshadow_](http://www.elainecunningham.com/elfshadow-info)** to see a list of novels and short stories featuring Danilo, Elaith, and Arilyn.
+**[Go to the info page for _Elfshadow_]({{ site.baseurl }}{% link books/forgotten-realms/elfshadow-info.md %})** to see a list of novels and short stories featuring Danilo, Elaith, and Arilyn.
 
 **Brom** painted the cover art for _Thornhold_, which is among my favorite Forgotten Realms covers and the only one that depicts the protagonist exactly as I imagined her.  To see more of his art, [visit his website](http://www.bromart.com).
