@@ -6,20 +6,6 @@ slug: upcoming-events-2
 title: 2018 events
 ---
 
-**Boskone**, February 16-18, 2018, Westin Waterfront Hotel, Boston
-
-  * **Autographing:** Elizabeth Bear, Elaine Cunningham, Timothy Liebe, Jane Yolen
-17 Feb 2018, Saturday 12:00 – 13:00, Galleria – Autographing (Westin)
- 	
-  * **Myths and Legends in Urban Fantasy** 17 Feb 2018, Saturday 14:00 – 15:00, Marina 4 (Westin)
- 	
-  * **Open Mic: Myths & Legends**!
-17 Feb 2018, Saturday 20:00 – 21:00, Galleria – Stage (Westin)
-
-  * **Writing Stories for Themed Anthologies** 18 Feb 2018, Sunday 12:00 – 13:00, Harbor III (Westin)
-
-* * *
-
 **South Coast Game Fest**, June 22-23, Swansea Mall, Swansea, MA
 
 * * *
