@@ -9,11 +9,9 @@ title: What's next
 
 ---
 
-**Coming May 1, 2017**
+**May, 2018**
 
-
-"Burning"--**_Hath No Fury_** (Ragnarok Press).  A short story in an anthology that focuses on kick-ass female heroes.  Edited by Joe Martin and Melanie Meadors, with an introduction by Margaret Weis.
-
+"Burning"--**_Hath No Fury_** (Outland Entertainment).  A short story in an anthology that focuses on strong female characters. Edited by Joe Martin and Melanie Meadors, with a foreword by Robin Hobb and introduction by Margaret Weis.
 
 
 
