@@ -5,7 +5,7 @@ slug: thornhold-info
 title: Thornhold
 ---
 
-![Thornhold Cover]({{ "/assets/images/Thornhold-178x300.jpg" | absolute_url }})
+![image-right]({{ "/assets/images/Thornhold.jpg" | absolute_url}}){: .align-right}. 
 
 _Thornhold_, like the three Songs & Swords books before it, was originally part of the Harper series. It was intended to be the final book of the series--not an ending but a "pivot" that would lead into a new shared-author story line. This plan changed before the book was published, which left a lot of loose threads and more than a few puzzled readers.
 
