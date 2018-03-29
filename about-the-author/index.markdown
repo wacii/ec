@@ -9,7 +9,7 @@ title: Bio
 
 ---
 
-![image-right]({{ "/assets/images/Headshot (1).jpg" | absolute_url}}){: .align-right}.  for stopping by my website, and for taking time to read my Bio page. Instead of diving right into the usual Author Bio stuff, I'd like to talk a little about four concepts that are important to me, things that shape and inform the stories I write.
+![image-right]({{ "/assets/images/Small Headshot.jpg" | absolute_url}}){: .align-right} Thanks for stopping by my website, and for taking time to read my Bio page. Instead of diving right into the usual Author Bio stuff, I'd like to talk a little about four concepts that are important to me, things that shape and inform the stories I write.
 
 
 **Everyone has a story.**
