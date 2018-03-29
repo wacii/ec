@@ -16,7 +16,7 @@ title: Books
 [_Best of the Realms Book 3:  The Stories of Elaine Cunningham_]({{ site.baseurl }}{% link books/forgotten-realms/best-of-the-realms-3-info.md %})
 
 
-## Songs & Swords series
+### Songs & Swords series
 
 [_Elfshadow_]({{ site.baseurl }}{% link books/forgotten-realms/elfshadow-info.md %})
 
@@ -28,7 +28,7 @@ title: Books
 
 [_Dream Spheres_]({{ site.baseurl }}{% link books/forgotten-realms/the-dream-spheres-info.md %})
 
-## Starlight & Shadows trilogy
+### Starlight & Shadows trilogy
 
 [_Daughter of the Drow_]({{ site.baseurl }}{% link books/forgotten-realms/daughter-of-the-drow-info.md %})
 
@@ -36,7 +36,7 @@ title: Books
 
 [_Windwalker_]({{ site.baseurl }}{% link books/forgotten-realms/windwalker-info.md %})
 
-## Counselors & Kings trilogy
+### Counselors & Kings trilogy
 
 [_The Magehound_]({{ site.baseurl }}{% link books/forgotten-realms/the-magehound-info.md %})
 
@@ -47,7 +47,7 @@ title: Books
 
 ***
 
-# **FANTASY NOVELS: Other Shared-world Settings**
+## **FANTASY NOVELS: Other Shared-world Settings**
 
 **EverQuest:** _The Blood Red Harp_
 
@@ -61,7 +61,7 @@ title: Books
 
 ***
 
-# **URBAN FANTASY NOVELS**
+## **URBAN FANTASY NOVELS**
 
 ## Changeling Detective Agency
 
@@ -71,6 +71,6 @@ _Shadows in the Starlight_
 
 * * *
 
-# **SHORT STORY COLLECTIONS**
+## **SHORT STORY COLLECTIONS**
 
 _Best of the Realms Book 3:  The Stories of Elaine Cunningham_
