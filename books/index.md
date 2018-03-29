@@ -5,10 +5,15 @@ slug: books
 title: Books
 ---
 
-# **FANTASY NOVELS**
+# **FANTASY NOVELS:** ##**Forgotten Realms**
 
 
-# **Forgotten Realms**
+[_Evermeet_]({{ site.baseurl }}{% link books/forgotten-realms/evermeet-info.md %})
+
+[_The City of Splendors_]({{ site.baseurl }}{% link books/forgotten-realms/the-city-of-splendors-info.md %}) (with Ed Greenwood)
+
+[_Best of the Realms Book 3:  The Stories of Elaine Cunningham_]({{ site.baseurl }}{% link books/forgotten-realms/best-of-the-realms-3-info.md %})
+
 
 ## **Songs & Swords series**
 
@@ -38,18 +43,10 @@ title: Books
 
 [_The Wizardwar_]({{ site.baseurl }}{% link books/forgotten-realms/the-wizardwar-info.md %})
 
-## **Other Forgotten Realms books**
-
-
-[_Evermeet_]({{ site.baseurl }}{% link books/forgotten-realms/evermeet-info.md %})
-
-[_The City of Splendors_]({{ site.baseurl }}{% link books/forgotten-realms/the-city-of-splendors-info.md %}) (with Ed Greenwood)
-
-[_Best of the Realms Book 3:  The Stories of Elaine Cunningham_]({{ site.baseurl }}{% link books/forgotten-realms/best-of-the-realms-3-info.md %})
 
 ***
 
-#**Other Shared-world Settings**
+#**FANTASY NOVELS:** ##**Other Shared-world Settings**
 
 **EverQuest:** _The Blood Red Harp_
 
@@ -63,9 +60,7 @@ title: Books
 
 ***
 
-# **URBAN FANTASY NOVELS**
-
-**Changeling Detective Agency:**
+# **URBAN FANTASY NOVELS**: ##**Changeling Detective Agency**
 
 _Shadows in the Darkness_
 
