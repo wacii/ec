@@ -5,9 +5,7 @@ slug: the-dream-spheres-info
 title: The Dream Spheres
 ---
 
-![Dream Spheres Cover]({{ "/assets/images/Dream-Spheres-182x300.jpg" | absolute_url }})
-
-This is the first novel that was actually written for the Songs & Swords series. It's also the last published novel in the series, though I'm certain that Arilyn and Danilo's adventures continue offstage.
+![image-right]({{ "/assets/images/Dream Spheres.jpg" | absolute_url}}){: .align-right}. This is the first novel that was actually written for the Songs & Swords series. It's also the last published novel in the series, though I'm certain that Arilyn and Danilo's adventures continue offstage.
 
 In this tale, they learn of a dangerous new trend in the city of Waterdeep, and the price people are willing to pay to live a fleeting, borrowed dream.
 
