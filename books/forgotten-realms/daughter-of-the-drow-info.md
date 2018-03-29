@@ -30,19 +30,11 @@ Then a drow merchant with an agenda of his own gives Liriel books about the surf
 
 [Barnes & Noble NOOK Bookstore](http://www.barnesandnoble.com/w/forgotten-realms-elaine-cunningham/1103164952?ean=9780786960194)
 
-[Google Ebooks](http://books.google.com/books/about/Daughter_of_the_Drow.html?id=hXUQfTaylEAC)
-
 ###### **Print version:**
 
 Both the hardcover and paperback are out of print, but you can find copies at Amazon at the following link:
 
 [Daughter of the Drow (Forgotten Realms: Starlight and Shadows, Book 1)](https://www.amazon.com/gp/product/0786929294/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786929294&linkCode=as2&tag=elainecu-20&linkId=bbbcc7ccc315b05895066308c5acbba5)
-
-**Starlight & Shadows Gift Set:**
-
-Currently out of print. Click on the image to check Amazon for available copies:
-
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0786938161&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=elainecu-20)](https://www.amazon.com/gp/product/0786938161/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786938161&linkCode=as2&tag=elainecu-20&linkId=d0b658fba72a1e4fa77b52bc9c00c239)
 
 [Daughter of the Drow, Audiobook](https://www.amazon.com/gp/product/B00B7G9U1G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00B7G9U1G&linkCode=as2&tag=elainecu-20&linkId=6ae0f506fd0ca1cdc71b3c6afe895503)
 
@@ -54,11 +46,11 @@ Currently out of print. Click on the image to check Amazon for available copies:
 
 Here's a list, in Realms-time chronological order, of the short fiction and novels featuring Liriel:
 
-**"Rite of Blood"**, a novella originally published in the anthology _Realms of the Drow _and reprinted in the collection _Best of the Realms Book III: The Stories of Elaine Cunningham. _This is a coming of age story that takes place when Liriel is the equivalent of a very young human teenager.
+**"Rite of Blood"**, a novella originally published in the anthology _Realms of the Drow_ and reprinted in the collection _Best of the Realms Book III: The Stories of Elaine Cunningham_. This is a coming of age story that takes place when Liriel is the equivalent of a very young human teenager.
 
 _**Daughter of the Drow**_ (novel, book 1 of the Starlight & Shadows trilogy.) The prelude of this novel starts when Liriel is five years old, but the main events occur during the year 1362 DR.
 
-**"The Direct Approach"**, a sort story originally published in _Realms of Magic_ and reprinted in _Best of the Realms III_, takes place directly after the events of _Daughter of the Drow_.
+**"The Direct Approach"**, a short story originally published in _Realms of Magic_ and reprinted in _Best of the Realms III_. The story takes place directly after the events of _Daughter of the Drow_.
 
 **_Tangled Webs_**, (novel, book 2 of the Starlight & Shadows trilogy).  1362 DR.
 
@@ -71,5 +63,3 @@ _**Windwalker**_, (novel, book 3 of the Starlight & Shadows trilogy).  1362 DR.
 **Cover Art:**
 
 The cover art for the paperback reprints was painted by Todd Lockwood. To see more of his illustrations, [visit his artist website](http://www.toddlockwood.com/).
-
-[Here's a link](http://www.toddlockwood.com/galleries/books/02/daughter_drow.shtml) to the art for _Daughter of the Drow_, with a few words from Todd about the symbolism and storytelling in the art.
