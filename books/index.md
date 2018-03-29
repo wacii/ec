@@ -5,7 +5,7 @@ slug: books
 title: Books
 ---
 
-# **FANTASY NOVELS:** ##**Forgotten Realms**
+# **FANTASY NOVELS: Forgotten Realms**
 
 
 [_Evermeet_]({{ site.baseurl }}{% link books/forgotten-realms/evermeet-info.md %})
@@ -46,7 +46,7 @@ title: Books
 
 ***
 
-#**FANTASY NOVELS:** ##**Other Shared-world Settings**
+#**FANTASY NOVELS: Other Shared-world Settings**
 
 **EverQuest:** _The Blood Red Harp_
 
@@ -60,7 +60,7 @@ title: Books
 
 ***
 
-# **URBAN FANTASY NOVELS**: ##**Changeling Detective Agency**
+# **URBAN FANTASY NOVELS**: Changeling Detective Agency**
 
 _Shadows in the Darkness_
 
