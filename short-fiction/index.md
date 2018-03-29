@@ -5,7 +5,7 @@ slug: short-fiction
 title: Short works
 ---
 
-#### **Short stories**
+## **Short stories**
 
 "Burning"-- _Hath No Fury_, (Outland Entertainment, May 2018)
 
@@ -13,11 +13,11 @@ title: Short works
 
 "A Great and Terrible Hunger"-- [_Madness on the Orient Express_](http://www.amazon.com/Madness-Orient-Express-Lovecraftian-Unforgettable-ebook/dp/B010MZSPMW/ref=sr_1_1?s=books&ie=UTF8&qid=1459522408&sr=1-1&keywords=Madness+on+the+Orient+Express) (Chaosium, 2014)
 
-"The White Tunic"-- [_By Faerie Light_](http://www.amazon.com/Faerie-Light-Vol-2-ebook/dp/B00HSZNRSM/ref=sr_1_3?s=books&ie=UTF8&qid=1459522317&sr=1-3&keywords=by+faerie+light) (Broken Eye Books, 2013)
+"The White Tunic"-- _By Faerie Light_ (Broken Eye Books, 2013)
 
 "Vasilissa's Doll"-- [_When the Hero Comes Home 2_](http://www.amazon.com/When-Hero-Comes-Gabrielle-Harbowy/dp/1897492715/ref=sr_1_1?s=books&ie=UTF8&qid=1379697019&sr=1-1&keywords=when+the+hero+comes+home+2) (Dragon Moon Press, 2013)
 
-"She Who Is Becoming"-- _The Phantom Queen Awakens_(Morrigan Books, 2010)
+"She Who Is Becoming"-- _The Phantom Queen Awakens_ (Morrigan Books, 2010)
 
 "Lorelei"-- _Worlds of Their Own_ (Planet Stories, Paizo, 2008)
 
@@ -35,7 +35,9 @@ title: Short works
 
 "Hidden Blades"-- _The Doom of Camelot_ (Green Knight Press, 2000)
 
-#### **Flash fiction**
+***
+
+## **Flash fiction**
 
 ["Plot Problems"](http://www.evilgirlfriendmedia.com/1288/news/plot-problems-by-elaine-cunningham/)-- _EMG Shorts_, EvilGirlfriendMedia.com (2016)
 
@@ -45,7 +47,7 @@ title: Short works
 
 ***
 
-#### **Forgotten Realms Short Stories**
+## **Forgotten Realms Short Stories**
 
 "The Bargain"— _Realms of Valor_ (1993)/_The Best of the Realms, Book III: The Stories of Elaine Cunningham_ (2007)
 
@@ -83,7 +85,7 @@ title: Short works
 
 ***
 
-#### **_Star Wars Gamer Magazine_ Short stories**
+## **_Star Wars Gamer Magazine_ Short stories**
 
 "The Crystal"-- _Star Wars Gamer Magazine_ Issue #5, June 2004
 
@@ -93,7 +95,7 @@ title: Short works
 
 ***
 
-#### **Pathfinder Tales Short fiction**
+## **Pathfinder Tales Short fiction**
 
 "Dark Tapestry"--"Legacy of Fire" Adventure Path, Issues #19-24 (Paizo, 2009)/_Dark Tapestry_ e-book compilation (Paizo, 2011)
 
@@ -103,7 +105,7 @@ title: Short works
 
 ***
 
-#### **Other shared-world short fiction**
+## **Other shared-world short fiction**
 
 "Song Snatcher"-- _Tales of Ravenloft_ (TSR, 1994)
 
@@ -117,19 +119,19 @@ title: Short works
 
 ***
 
-#### **Novellas**
+## **Novellas**
 
 "Beyond Dreams," a novella in the three-author paranormal romance anthology _Beyond Magic_ (Tor 2008)
 
 ***
 
-#### **Graphic Novel Adaptations**
+## **Graphic Novel Adaptations**
 
 "The Great Hunt"-- _Worlds of D&D_, Vol. 8 (Devil's Due Publications, 2008)
 
 ***
 
-#### **Poetry Anthologies**
+## **Poetry Anthologies**
 
 _Halloween Haiku_, Popcorn Press, 2011
 
