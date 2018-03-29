@@ -29,7 +29,7 @@ Magic, adventure, dark secrets, betrayal, politics, an adventure-loving dwarf an
 
 [Barnes & Noble NOOK Bookstore](http://www.barnesandnoble.com/w/forgotten-realms-elaine-cunningham/1103164952?ean=9780786961924)
 
-**Audio book:** Available at [Amazon.com](ttp://www.amazon.com/Thornhold-Forgotten-Realms-Songs-Swords/dp/B00B9P344E/ref=sr_1_16?s=digital-text&ie=UTF8&qid=1360071941&sr=1-16&keywords=elaine+cunningham)
+**Audio book:** Available at [Amazon.com](http://www.amazon.com/Thornhold-Forgotten-Realms-Songs-Swords/dp/B00B9P344E/ref=sr_1_16?s=digital-text&ie=UTF8&qid=1360071941&sr=1-16&keywords=elaine+cunningham)
 
 **Paperback:** Currently out of print. See [this page on Amazon.com](http://www.amazon.com/THORNHOLD-Forgotten-Realms-The-Harpers/dp/0786911778/ref=tmm_mmp_title_0) for used copies.
 
