@@ -1,12 +1,8 @@
 ---
-
 comments: false
-date: 2015-10-27 00:05:16+00:00
 layout: single
-
 slug: upcoming-releases
 title: What's next
-
 ---
 
 * * *

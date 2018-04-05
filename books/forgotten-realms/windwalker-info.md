@@ -1,5 +1,4 @@
 ---
-date: 2012-12-18 17:54:37+00:00
 layout: single
 slug: windwalker-info
 title: Windwalker

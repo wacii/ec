@@ -1,5 +1,4 @@
 ---
-date: 2013-02-17 20:33:35+00:00
 layout: single
 slug: anthologies-collections
 title: Anthologies & Collections

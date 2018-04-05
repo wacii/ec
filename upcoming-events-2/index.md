@@ -1,6 +1,5 @@
 ---
 comments: false
-date: 2017-07-02 01:47:50+00:00
 layout: single
 slug: upcoming-events-2
 title: 2018 events

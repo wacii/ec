@@ -1,5 +1,4 @@
 ---
-date: 2011-05-25 16:54:50+00:00
 layout: single
 slug: books
 title: Books

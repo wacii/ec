@@ -1,5 +1,4 @@
 ---
-date: 2013-01-26 19:03:43+00:00
 layout: single
 slug: star-wars
 title: STAR WARS

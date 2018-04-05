@@ -1,5 +1,4 @@
 ---
-date: 2013-01-26 18:08:13+00:00
 layout: single
 slug: pathfinder-tales
 title: PATHFINDER TALES

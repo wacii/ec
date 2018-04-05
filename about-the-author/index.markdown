@@ -1,12 +1,7 @@
 ---
-
-
-date: 2011-05-25 16:56:16+00:00
 layout: single
-
 slug: about-the-author
 title: About the Author
-
 ---
 
 ![image-right]({{ "/assets/images/Small Headshot.jpg" | absolute_url}}){: .align-right} Thanks for stopping by my website. Instead of the usual Author Bio stuff, I'd like to talk a little about four concepts that are important to me, things that shape and inform the stories I write.

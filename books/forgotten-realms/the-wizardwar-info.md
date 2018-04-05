@@ -1,5 +1,4 @@
 ---
-date: 2012-12-22 18:06:30+00:00
 layout: single
 slug: the-wizardwar-info
 title: The Wizardwar

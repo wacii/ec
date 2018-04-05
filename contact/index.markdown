@@ -1,5 +1,4 @@
 ---
-date: 2011-07-01 13:38:55+00:00
 layout: single
 slug: contact
 title: Contact

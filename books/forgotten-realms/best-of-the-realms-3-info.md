@@ -1,5 +1,4 @@
 ---
-date: 2013-01-04 14:49:56+00:00
 layout: single
 slug: the-best-of-the-realms-book-iii-the-stories-of-elaine-cunningham-info
 title: 'The Best of the Realms Book III: The Stories of Elaine Cunningham'

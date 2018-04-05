@@ -1,5 +1,4 @@
 ---
-date: 2012-12-10 20:55:30+00:00
 layout: single
 slug: winter-witch-info
 title: Winter Witch

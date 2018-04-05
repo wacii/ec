@@ -1,5 +1,4 @@
 ---
-date: 2012-12-13 12:29:32+00:00
 layout: single
 slug: silver-shadows-info
 title: Silver Shadows

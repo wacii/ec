@@ -1,5 +1,4 @@
 ---
-date: 2013-02-17 21:41:11+00:00
 layout: single
 slug: changeling-detective-agency
 title: CHANGELING DETECTIVE
