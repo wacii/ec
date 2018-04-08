@@ -4,7 +4,7 @@ slug: everquest
 title: EverQuest
 ---
 
-![image-right]({{ "/assets/images/The Blood Red Harp.jpg" | absolute_url}}){: .align-right}. Several years ago, fantasy author R.A. Salvatore, an avid online gamer, got the ball rolling for a series of novels set in the word of EverQuest.  The series was short-lived: **_The Blood Red Harp_** was the fourth and final novel.
+![image-right]({{ "/assets/images/The Blood Red Harp.jpg" | absolute_url}}){: .align-right} Several years ago, fantasy author R.A. Salvatore, an avid online gamer, got the ball rolling for a series of novels set in the word of EverQuest.  The series was short-lived: **_The Blood Red Harp_** was the fourth and final novel.
 
 ***
 
