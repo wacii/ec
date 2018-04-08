@@ -47,3 +47,7 @@ _Winter Witch_ is a sword & sorcery tale, a stand-alone fantasy adventure in the
 ### French translation
 
 [Order **La Sorciere d'Hiver** from Amazon.com](http://www.amazon.com/Pathfinder-2-French-Elaine-Cunningham/dp/2363280644/ref=la_B00458D7YO_1_40?s=books&ie=UTF8&qid=1365426618&sr=1-40)    
+
+### German translation 
+
+[Order **Winterhexe** from Amazon.com](https://www.amazon.com/dp/B0753D5CWJ/ref=rdr_kindle_ext_tmb)
