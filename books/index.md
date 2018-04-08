@@ -50,7 +50,7 @@ title: Books
 
 ## **FANTASY NOVELS: Other Shared-world Settings**
 
-**EverQuest:** [_The Blood Red Harp_]({{ site.baseurl }}{% link books/EverQuest/the-blood=red-harp-info.md %})
+**EverQuest:** [_The Blood Red Harp_]({{ site.baseurl }}{% link books/EverQuest/the-blood-red-harp-info.md %})
 
 **Pathfinder Tales:** _Winter Witch_ (with Dave Gross)
 
