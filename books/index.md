@@ -66,6 +66,6 @@ title: Books
 
 ## Changeling Detective Agency
 
-_Shadows in the Darkness_
+[_Shadows in the Darkness_]({{ site.baseurl }}{% link books/changeling-detective-agency.md %})
 
-_Shadows in the Starlight_
+[_Shadows in the Starlight_]({{ site.baseurl }}{% link books/changeling-detective-agency.md %})
