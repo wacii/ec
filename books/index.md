@@ -52,9 +52,9 @@ title: Books
 
 **EverQuest:** [_The Blood Red Harp_]({{ site.baseurl }}{% link books/everquest.md %})
 
-**Pathfinder Tales:** _Winter Witch_ (with Dave Gross)
+**Pathfinder Tales:**[ _Winter Witch_ (with Dave Gross)]({{ site.baseurl }}{% link books/pathfinder-tales/winter-witch-info.md %})
 
-**StarWars:** _Dark Journey_
+**StarWars:** [_Dark Journey_]({{ site.baseurl }}{% link books/star-wars.md %})
 
 **First Quest:** _The Unicorn Hunt_
 
