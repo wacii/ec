@@ -6,14 +6,26 @@ title: News
 ---
 * * *
 
-**EVENTS**
+**UPCOMING EVENTS**
 
 **South Coast Game Fest**, June 22-23, Swansea Mall, Swansea, MA
-
-* * *
 
 **Necon**, Baypoint Inn & Conference Center, Portsmouth, RI.  July 19-22, 2018
 
 * * *
 
 **UPCOMING RELEASES**
+
+**April, 2018**
+
+"The White Tunic"--**_DIGITAL FANTASY FICTION ANTHOLOGY: 25 Fantasy Fiction Stories Volume 1_.** A reprint of a dark fairy tale originally published in _By Faerie Light_. 
+
+**May, 2018**
+
+"Burning"--**_Hath No Fury_** (Outland Entertainment).  A short story in an anthology that focuses on strong female characters. Edited by Joe Martin and Melanie Meadors, with a foreword by Robin Hobb and introduction by Margaret Weis.
+
+**September, 2018**
+
+"Plot Problems"--**_Fantasy for the Throne_**, a reprint anthology featuring "one-sitting reads."  This story was originally published in the EMG Shorts column by Evil Girlfriend Media. It's also a prototype for an urban fantasy series I've got on the back burner. 
+
+* * *
