@@ -1,5 +1,5 @@
 main:
-   - title: "About"
+  - title: "About"
     url: /about-the-author
   - title: "Books"
     url: /books
@@ -23,5 +23,5 @@ sidebar-nav:
     url: /upcoming-events-2
   - title: "Contact"
     url: /contact
- - title: "Blog"
+  - title: "Blog"
     url: /blog
