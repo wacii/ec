@@ -3,8 +3,15 @@ main:
     url: /books
   - title: "Short Fiction"
     url: /short-fiction
+  - title: "About"
+    url: /about-the-author
+  - title: "News"
+    url: /upcoming-events-2
+  - title: "Contact"
+    url: /contact
   - title: "Blog"
     url: /blog
+  
 sidebar-nav:
   - title: "About"
     url: /about-the-author
