@@ -1,10 +1,10 @@
 main:
+   - title: "About"
+    url: /about-the-author
   - title: "Books"
     url: /books
   - title: "Short Fiction"
     url: /short-fiction
-  - title: "About"
-    url: /about-the-author
   - title: "News"
     url: /upcoming-events-2
   - title: "Contact"
@@ -19,12 +19,9 @@ sidebar-nav:
     url: /books
   - title: "Short Fiction"
     url: /short-fiction
-  - title: "Blog"
-    url: /blog
-  - title: "Events"
+  - title: "News"
     url: /upcoming-events-2
-  - title: "Upcoming Releases"
-    url: /upcoming-releases
   - title: "Contact"
     url: /contact
-    
+ - title: "Blog"
+    url: /blog
