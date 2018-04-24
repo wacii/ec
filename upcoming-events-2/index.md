@@ -10,7 +10,7 @@ title: News
 
 **Necon**, Baypoint Inn & Conference Center, Portsmouth, RI.  July 19-22, 2018
 
-* * * *
+* * * 
 
 **UPCOMING RELEASES**
 
@@ -20,9 +20,9 @@ title: News
 
 **May, 2018**
 
-"Burning"--**_Hath No Fury_** (Outland Entertainment).  A short story in an anthology that focuses on strong female characters. Edited by Joe Martin and Melanie Meadors, with a foreword by Robin Hobb and introduction by Margaret Weis.
+"Burning"--**_Hath No Fury_**, an anthology that focuses on strong female characters. Edited by Joe Martin and Melanie Meadors, with a foreword by Robin Hobb and introduction by Margaret Weis.
 
 **September, 2018**
 
-"Plot Problems"--**_Fantasy for the Throne_**, a reprint anthology featuring "one-sitting reads."  This story was originally published in the EMG Shorts column by Evil Girlfriend Media. It's also a prototype for an urban fantasy series I've got on the back burner. 
+"Plot Problems"--**_Fantasy for the Throne_**, a reprint anthology featuring "one-sitting reads." This story was originally published in the EMG Shorts column by Evil Girlfriend Media. It's also a prototype for an urban fantasy series I've got on the back burner. 
 
