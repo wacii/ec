@@ -8,9 +8,9 @@ title: News
 
 **UPCOMING EVENTS**
 
-**South Coast Game Fest**, June 22-23, Swansea Mall, Swansea, MA
-
 **Necon**, Baypoint Inn & Conference Center, Portsmouth, RI.  July 19-22, 2018
+
+
 
 
 
