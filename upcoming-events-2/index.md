@@ -10,28 +10,9 @@ title: News
 
 **Necon**, Baypoint Inn & Conference Center, Portsmouth, RI.  July 19-22, 2018
 
-* * *
-
-
+* * * *
 
 **UPCOMING RELEASES**
-
-feature_row:
-  - image_path: /assets/images/Digital Fantasy Fiction Anthology.jpg
-    alt: "Digital Fantasy Fiction Anthology"
-    title: "Coming in April"
-    excerpt: "In **The White Tunic,** a farm boy learns that promises made to the fey have unexpected consequences."
-  - image_path: /assets/images/Hath No Fury promo 3.jpg
-    alt: "Hath No Fury"
-    title: "Coming in May"
-    excerpt: "In **Burning,** a battlemage must command a magically enslaved dragon to fight fire with fire."
-  - image_path: /assets/images/Fantasy for the Throne 1.jpg
-    alt: "Fantasy for the Throne 1"
-    title: "Coming in September"
-    excerpt: "In **Plot Problems,** a writer on deadline takes a break to unhaunt her sister's condo. As one does."
----
-{% include feature_row %}
-
 
 **April, 2018**
 
@@ -45,4 +26,3 @@ feature_row:
 
 "Plot Problems"--**_Fantasy for the Throne_**, a reprint anthology featuring "one-sitting reads."  This story was originally published in the EMG Shorts column by Evil Girlfriend Media. It's also a prototype for an urban fantasy series I've got on the back burner. 
 
-* * *
