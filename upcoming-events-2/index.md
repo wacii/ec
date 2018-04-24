@@ -16,6 +16,23 @@ title: News
 
 **UPCOMING RELEASES**
 
+feature_row:
+  - image_path: /assets/images/Digital Fantasy Fiction Anthology.jpg
+    alt: "Digital Fantasy Fiction Anthology"
+    title: "Coming in April"
+    excerpt: "In **The White Tunic,** a farm boy learns that promises made to the fey have unexpected consequences."
+  - image_path: /assets/images/Hath No Fury promo 3.jpg
+    alt: "Hath No Fury"
+    title: "Coming in May"
+    excerpt: "In **Burning,** a battlemage must command a magically enslaved dragon to fight fire with fire."
+  - image_path: /assets/images/Fantasy for the Throne 1.jpg
+    alt: "Fantasy for the Throne 1"
+    title: "Coming in September"
+    excerpt: "In **Plot Problems,** a writer on deadline takes a break to unhaunt her sister's condo. As one does."
+---
+{% include feature_row %}
+
+
 **April, 2018**
 
 "The White Tunic"--**_DIGITAL FANTASY FICTION ANTHOLOGY: 25 Fantasy Fiction Stories Volume 1_.** A reprint of a dark fairy tale originally published in _By Faerie Light_. 
