@@ -20,7 +20,11 @@ title: News
 
 **May, 2018**
 
-"Burning"--**_Hath No Fury_**, an anthology that focuses on strong female characters. Edited by Joe Martin and Melanie Meadors, with a foreword by Robin Hobb and introduction by Margaret Weis.
+Ebook release:  "Burning"--**_Hath No Fury_**, an anthology that focuses on strong female characters. Edited by Joe Martin and Melanie Meadors, with a foreword by Robin Hobb and introduction by Margaret Weis. 
+
+**July, 2018**
+
+Trade paperback release:  "Burning"--**_Hath No Fury_**
 
 **September, 2018**
 
