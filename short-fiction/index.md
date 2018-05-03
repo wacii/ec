@@ -6,9 +6,9 @@ title: Short works
 
 ## **Short stories**
 
-"Burning"-- _Hath No Fury_, (Outland Entertainment, May 2018)
+"Burning"-- _Hath No Fury_, (Outland Entertainment, July 2018)
 
-"Royal Daughters"-- _Sword and Sorceress 32_, (MZB, 2017)
+"Royal Daughters"-- [_Sword and Sorceress 32_](https://www.amazon.com/Sword-Sorceress-32-Elisabeth-Waters-ebook/dp/B074L4MMTB/ref=sr_1_1?ie=UTF8&qid=1525344619&sr=8-1&keywords=Sword+%26+sorceress+32) (MZB, 2017)
 
 "A Great and Terrible Hunger"-- [_Madness on the Orient Express_](http://www.amazon.com/Madness-Orient-Express-Lovecraftian-Unforgettable-ebook/dp/B010MZSPMW/ref=sr_1_1?s=books&ie=UTF8&qid=1459522408&sr=1-1&keywords=Madness+on+the+Orient+Express) (Chaosium, 2014)
 
