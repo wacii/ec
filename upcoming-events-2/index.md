@@ -14,7 +14,7 @@ title: News
 
 **UPCOMING RELEASES**
 
-**May, 2018**
+**June, 2018**
 
 "The White Tunic"--**_DIGITAL FANTASY FICTION ANTHOLOGY: 25 Fantasy Fiction Stories Volume 1_.** A reprint of a dark fairy tale originally published in _By Faerie Light_. 
 
