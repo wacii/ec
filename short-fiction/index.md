@@ -6,7 +6,7 @@ title: Short works
 
 ## **Short stories**
 
-"Burning"-- [_Hath No Fury_](https://www.amazon.com/Hath-No-Fury-J-M-Martin-ebook/dp/B07BZVC16G/ref=sr_1_1?ie=UTF8&qid=1525344856&sr=8-1&keywords=Hath+No+Fury) (Outland Entertainment, July 2018)
+"Burning"-- [_Hath No Fury_](https://www.amazon.com/Hath-No-Fury-J-M-Martin-ebook/dp/B07BZVC16G/ref=sr_1_1?ie=UTF8&qid=1525344856&sr=8-1&keywords=Hath+No+Fury) (Outland Entertainment, August 2018)
 
 "Royal Daughters"-- [_Sword and Sorceress 32_](https://www.amazon.com/Sword-Sorceress-32-Elisabeth-Waters-ebook/dp/B074L4MMTB/ref=sr_1_1?ie=UTF8&qid=1525344619&sr=8-1&keywords=Sword+%26+sorceress+32) (MZB, 2017)
 
