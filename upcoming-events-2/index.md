@@ -15,7 +15,7 @@ title: News
 
 **WHAT'S NEXT:**
 
-**September, 2018:**  "
+**September, 2018:**  
 
-Plot Problems"--**_Fantasy for the Throne_**, a reprint anthology featuring "one-sitting reads." This story was originally published in the EMG Shorts column by Evil Girlfriend Media. It's also a prototype for an urban fantasy series I've got on the back burner. 
+"Plot Problems"--**_Fantasy for the Throne_**, a reprint anthology featuring "one-sitting reads." This story was originally published in the EMG Shorts column by Evil Girlfriend Media. It's also a prototype for an urban fantasy series I've got on the back burner. 
 
