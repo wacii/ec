@@ -5,13 +5,13 @@ slug: upcoming-events-2
 title: News
 ---
 
-**UPCOMING RELEASES**
+**What's New:**
 
-**August, 2018**
-
-"The White Tunic"--**_DIGITAL FANTASY FICTION ANTHOLOGY: 25 Fantasy Fiction Stories Volume 1_.** A reprint of a dark fairy tale originally published in _By Faerie Light_. 
+**Released August 23, 2018**
 
 "Burning"--**_Hath No Fury_**, an anthology that focuses on strong female characters. Edited by Joe Martin and Melanie Meadors, with a foreword by Robin Hobb and introduction by Margaret Weis. 
+
+**What's Next:**
 
 **September, 2018**
 
