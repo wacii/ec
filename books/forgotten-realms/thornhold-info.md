@@ -4,7 +4,7 @@ slug: thornhold-info
 title: Thornhold
 ---
 
-![image-right]({{ "/assets/images/Thornhold.jpg" | absolute_url}}){: .align-right}) _Thornhold_, like the three Songs & Swords books before it, was originally part of the Harper series. It was intended to be the final book of the series--not an ending but a "pivot" that would lead into a new shared-author story line. This plan changed before the book was published, which left a lot of loose threads and more than a few puzzled readers.
+![image-right]({{ "/assets/images/Thornhold.jpg" | absolute_url}}){: .align-right}_Thornhold_, like the three Songs & Swords books before it, was originally part of the Harper series. It was intended to be the final book of the series--not an ending but a "pivot" that would lead into a new shared-author story line. This plan changed before the book was published, which left a lot of loose threads and more than a few puzzled readers.
 
 Fortunately, I had an opportunity to tie up a few of these loose ends with "The Knights of Samular," the new tale that kicks of the short story collection _The Best of the Realms Book III: The Stories of Elaine Cunningham_. And a couple of years after the Harper line ended, _Thornhold_ was folded into the Songs & Swords series, even though Danilo is only a secondary character and Elaith and Arilyn play minor roles.
 
