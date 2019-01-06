@@ -7,9 +7,9 @@ title: What's next
 
 * * *
 
-**May, 2018**
+**October 2019**
 
-"Burning"--**_Hath No Fury_** (Outland Entertainment).  A short story in an anthology that focuses on strong female characters. Edited by Joe Martin and Melanie Meadors, with a foreword by Robin Hobb and introduction by Margaret Weis.
+"I will be a guest at GameHole Con in Wisconsin, October 31-November 3. More details coming soon."
 
 * * *
 
