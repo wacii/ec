@@ -6,6 +6,10 @@ title: Short works
 
 ## **Short stories**
 
+"Wolves and Dragons"-- [Patreon](https://www.patreon.com/posts/21768989)
+
+"Synthetic Sanctity"-- [Patreon](https://www.patreon.com/posts/21004923)
+
 "Burning"-- [_Hath No Fury_](https://www.amazon.com/Hath-No-Fury-J-M-Martin-ebook/dp/B07BZVC16G/ref=sr_1_1?ie=UTF8&qid=1525344856&sr=8-1&keywords=Hath+No+Fury) (Outland Entertainment, 2018)
 
 "Royal Daughters"-- [_Sword and Sorceress 32_](https://www.amazon.com/Sword-Sorceress-32-Elisabeth-Waters-ebook/dp/B074L4MMTB/ref=sr_1_1?ie=UTF8&qid=1525344619&sr=8-1&keywords=Sword+%26+sorceress+32) (MZB, 2017)
@@ -37,6 +41,8 @@ title: Short works
 ***
 
 ## **Flash fiction**
+
+["Family Matters"](https://www.patreon.com/posts/20434456)(2018)-- Patreon (2018)
 
 ["Plot Problems"](http://www.evilgirlfriendmedia.com/1288/news/plot-problems-by-elaine-cunningham/)-- _EMG Shorts_, EvilGirlfriendMedia.com (2016)
 
@@ -115,6 +121,12 @@ title: Short works
 "The Fairest Flower"-- [_A Knight in the Silk Purse: The Ghosts of Taux_](http://www.amazon.com/Knight-Silk-Purse-Emerald-Serpent-ebook/dp/B00LO1MPRU/ref=sr_1_1?ie=UTF8&qid=1410389485&sr=8-1&keywords=A+Knight+in+the+silk+purse) (Art of the Genre, 2014)
 
 "Never a Moon So Bright"-- _Champions of Aetaltis_, Mechanical Muse (2015)
+
+"The Stygian Society"-- A short story included in a cooperative tower adventure game (APE Games, 2018)
+
+"The Tower Library"-- A short story included in an expansion to _The Stygian Society_ game (APE Games, 2018)
+
+"The Tower Laboratory"-- A short story included in an expansion to _The Stygian Society_ game (APE Games, 2018)
 
 ***
 
