@@ -42,7 +42,7 @@ title: Short works
 
 ## **Flash fiction**
 
-["Family Matters"](https://www.patreon.com/posts/20434456)(2018)-- Patreon (2018)
+["Family Matters"](https://www.patreon.com/posts/20434456)-- Patreon (2018)
 
 ["Plot Problems"](http://www.evilgirlfriendmedia.com/1288/news/plot-problems-by-elaine-cunningham/)-- _EMG Shorts_, EvilGirlfriendMedia.com (2016)
 
