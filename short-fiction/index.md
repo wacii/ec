@@ -118,11 +118,11 @@ title: Short works
 
 "Never a Moon So Bright"-- _Champions of Aetaltis_, Mechanical Muse (2015)
 
-"The Stygian Society"-- A short story included in a cooperative tower adventure game (APE Games, 2018)
+"The Stygian Society"-- A short story included in a cooperative tower adventure game (APE Games, 2019)
 
-"The Tower Library"-- A short story included in an expansion to _The Stygian Society_ game (APE Games, 2018)
+"The Tower Library"-- A short story included in an expansion to _The Stygian Society_ game (APE Games, 2019)
 
-"The Tower Laboratory"-- A short story included in an expansion to _The Stygian Society_ game (APE Games, 2018)
+"The Tower Laboratory"-- A short story included in an expansion to _The Stygian Society_ game (APE Games, 2019)
 
 ***
 
