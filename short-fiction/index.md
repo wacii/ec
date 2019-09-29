@@ -6,7 +6,6 @@ title: Short works
 
 ## **Short stories**
 
-"Blue Eyes, Black Hearts" -- [_Tales of Excellent Cats_](https://www.amazon.com/Monarchies-Mau-Tales-Excellent-Cats-ebook/dp/B07SY815L3/ref=sr_1_1?keywords=Tales+of+Excellent+Cats&qid=1569763407&sr=8-1) (Onyx Path Publishing, 2019)
 
 "Burning"-- [_Hath No Fury_](https://www.amazon.com/Hath-No-Fury-J-M-Martin-ebook/dp/B07BZVC16G/ref=sr_1_1?ie=UTF8&qid=1525344856&sr=8-1&keywords=Hath+No+Fury) (Outland Entertainment, 2018)
 
@@ -108,21 +107,24 @@ title: Short works
 
 ## **Other shared-world short fiction**
 
-"Song Snatcher"-- _Tales of Ravenloft_ (TSR, 1994)
-
-"The Sleeping Sauran"-- _Tales of Tethedril_ (Del Rey, 1998)
-
-"A Single Thread"-- _Kingdoms of Legend_ (IPG, 2012)
-
-"The Fairest Flower"-- [_A Knight in the Silk Purse: The Ghosts of Taux_](http://www.amazon.com/Knight-Silk-Purse-Emerald-Serpent-ebook/dp/B00LO1MPRU/ref=sr_1_1?ie=UTF8&qid=1410389485&sr=8-1&keywords=A+Knight+in+the+silk+purse) (Art of the Genre, 2014)
-
-"Never a Moon So Bright"-- _Champions of Aetaltis_, Mechanical Muse (2015)
-
 "The Stygian Society"-- A short story included in a cooperative tower adventure game (APE Games, 2019)
 
 "The Tower Library"-- A short story included in an expansion to _The Stygian Society_ game (APE Games, 2019)
 
 "The Tower Laboratory"-- A short story included in an expansion to _The Stygian Society_ game (APE Games, 2019)
+
+"Blue Eyes, Black Hearts" -- [_Tales of Excellent Cats_](https://www.amazon.com/Monarchies-Mau-Tales-Excellent-Cats-ebook/dp/B07SY815L3/ref=sr_1_1?keywords=Tales+of+Excellent+Cats&qid=1569763407&sr=8-1) (Onyx Path Publishing, 2019)
+
+"Never a Moon So Bright"-- _Champions of Aetaltis_, Mechanical Muse (2015)
+
+"The Fairest Flower"-- [_A Knight in the Silk Purse: The Ghosts of Taux_](http://www.amazon.com/Knight-Silk-Purse-Emerald-Serpent-ebook/dp/B00LO1MPRU/ref=sr_1_1?ie=UTF8&qid=1410389485&sr=8-1&keywords=A+Knight+in+the+silk+purse) (Art of the Genre, 2014)
+
+"A Single Thread"-- _Kingdoms of Legend_ (IPG, 2012)
+
+"The Sleeping Sauran"-- _Tales of Tethedril_ (Del Rey, 1998)
+
+"Song Snatcher"-- _Tales of Ravenloft_ (TSR, 1994)
+
 
 ***
 
