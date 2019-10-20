@@ -6,6 +6,9 @@ title: Short works
 
 ## **Short stories**
 
+"Honest Trade" -- [_Scoundrels: A Blackguard Anthology_] (https://www.amazon.com/Scoundrels-Blackguards-Anthology-Melanie-Meadors-ebook/dp/B07QZL4Y9Z/ref=sr_1_fkmr0_1?keywords=Scoundrels%2C+Outland+Enterprises&qid=1571595974&sr=8-1-fkmr0) (Outland Entertainment, 2019)
+
+"Blue Eyes, Black Hearts" -- [_Monarchies of Mau: Tales of Excellent Cats_] (https://www.amazon.com/Monarchies-Mau-Tales-Excellent-Cats-ebook/dp/B07SY815L3/ref=sr_1_1?keywords=Tales+of+Excellent+Cats&qid=1571595822&sr=8-1) (Onyx Path Publishing, 2019)
 
 "Burning"-- [_Hath No Fury_](https://www.amazon.com/Hath-No-Fury-J-M-Martin-ebook/dp/B07BZVC16G/ref=sr_1_1?ie=UTF8&qid=1525344856&sr=8-1&keywords=Hath+No+Fury) (Outland Entertainment, 2018)
 
