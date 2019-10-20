@@ -8,8 +8,6 @@ title: Short works
 
 "Honest Trade"-- [_Scoundrels: A Blackguard Anthology_](https://www.amazon.com/Scoundrels-Blackguards-Anthology-Melanie-Meadors-ebook/dp/B07QZL4Y9Z/ref=sr_1_fkmr0_1?keywords=Scoundrels%2C+Outland+Enterprises&qid=1571595974&sr=8-1-fkmr0) (Outland Entertainment, 2019)
 
-"Blue Eyes, Black Hearts"-- [_Monarchies of Mau: Tales of Excellent Cats_](https://www.amazon.com/Monarchies-Mau-Tales-Excellent-Cats-ebook/dp/B07SY815L3/ref=sr_1_1?keywords=Tales+of+Excellent+Cats&qid=1571595822&sr=8-1) (Onyx Path Publishing, 2019)
-
 "Burning"-- [_Hath No Fury_](https://www.amazon.com/Hath-No-Fury-J-M-Martin-ebook/dp/B07BZVC16G/ref=sr_1_1?ie=UTF8&qid=1525344856&sr=8-1&keywords=Hath+No+Fury) (Outland Entertainment, 2018)
 
 "Royal Daughters"-- [_Sword and Sorceress 32_](https://www.amazon.com/Sword-Sorceress-32-Elisabeth-Waters-ebook/dp/B074L4MMTB/ref=sr_1_1?ie=UTF8&qid=1525344619&sr=8-1&keywords=Sword+%26+sorceress+32) (MZB, 2017)
