@@ -114,6 +114,8 @@ title: Short works
 
 "The Tower Laboratory"-- A short story included in an expansion to _The Stygian Society_ game (APE Games, 2019)
 
+"Shadowgate"--[_Sovereigns of the Blue Rose: A Blue Rose Anthology_](https://www.amazon.com/Sovereigns-Blue-Rose-Anthology-ebook/dp/B07YVJVNQR/ref=sr_1_1?keywords=Sovereigns+Green+Ronin&qid=1571603776&sr=8-1) (Green Ronin, 2019)
+
 "Blue Eyes, Black Hearts" -- [_Tales of Excellent Cats_](https://www.amazon.com/Monarchies-Mau-Tales-Excellent-Cats-ebook/dp/B07SY815L3/ref=sr_1_1?keywords=Tales+of+Excellent+Cats&qid=1569763407&sr=8-1) (Onyx Path Publishing, 2019)
 
 "Never a Moon So Bright"-- _Champions of Aetaltis_, Mechanical Muse (2015)
