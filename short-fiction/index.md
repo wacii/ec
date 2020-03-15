@@ -108,6 +108,8 @@ title: Short works
 
 ## **Other shared-world short fiction**
 
+"Living Memory" -- {_Tales of Good Dogs_](https://www.amazon.com/Tales-Good-Dogs-Eddy-Webb-ebook/dp/B083F54G3K/ref=sr_1_1?dchild=1&keywords=Tales+of+Good+Dogs&qid=1584286997&sr=8-1) (Onyx Path Publishing, 2020) 
+
 "The Stygian Society"-- A short story included in a cooperative tower adventure game (APE Games, 2019)
 
 "The Tower Library"-- A short story included in an expansion to _The Stygian Society_ game (APE Games, 2019)
